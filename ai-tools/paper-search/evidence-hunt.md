@@ -163,5 +163,31 @@ Based on the evidence and their clinical expertise, the researcher decides to us
 
 The researcher develops a machine learning algorithm that is able to predict the risk of thyroid disease with 80% accuracy. The researcher publishes their findings in a peer-reviewed journal and the algorithm is made available to the public.
 
+### Glossary of terms
 
+* **Abstract:** A brief summary of a study that is published in a scientific journal.
+* **Clinical question:** A question that can be answered by evidence from clinical studies.
+* **Critical appraisal:** The process of evaluating the quality of a study.
+* **Evidence:** Information that is used to support a claim or decision.
+* **Evidence-based practice:** The process of making decisions about patient care based on the best available evidence.
+* **Intervention:** A treatment, procedure, or other intervention that is being studied in a clinical trial.
+* **Literature search:** The process of finding relevant studies on a particular topic.
+* **Publication bias:** The tendency for studies with positive results to be more likely to be published than studies with negative results.
+* **Randomized controlled trial:** A type of study that is considered to be the gold standard for evaluating the effectiveness of an intervention.
+* **Study design:** The method that is used to conduct a study.
+* **Systematic review:** A type of study that summarizes the results of multiple studies on a particular topic.
+
+### **Conclusion**
+
+In this tutorial, you learned about EvidenceHunt, a clinical evidence search engine that can help you find the latest and most relevant evidence on a variety of topics. You learned how to use EvidenceHunt to search for studies, critically evaluate evidence, and make evidence-based decisions.
+
+**Resources**
+
+If you want to learn more about EvidenceHunt, here are some resources:
+
+* **EvidenceHunt website:** The EvidenceHunt website is the best place to start learning about EvidenceHunt. The website has a number of resources, including tutorials on how to use EvidenceHunt, a list of frequently asked questions, and a blog that discusses the latest developments in evidence-based practice.
+* **EvidenceHunt blog:** The EvidenceHunt blog is a great way to stay up-to-date on the latest developments in evidence-based practice. The blog features articles on a variety of topics, including new studies, research methods, and clinical applications.
+* **EvidenceHunt Twitter:** The EvidenceHunt Twitter account is a great way to stay connected with the EvidenceHunt community. The account tweets about new studies, research methods, and clinical applications.
+* **EvidenceHunt Facebook:** The EvidenceHunt Facebook page is a great way to connect with other users of EvidenceHunt. The page features posts about new studies, research methods, and clinical applications.
+* **EvidenceHunt YouTube channel:** The EvidenceHunt YouTube channel is a great way to learn about EvidenceHunt through video tutorials. The channel features videos on a variety of topics, including how to use EvidenceHunt, how to critically evaluate evidence, and how to make evidence-based decisions.
 
