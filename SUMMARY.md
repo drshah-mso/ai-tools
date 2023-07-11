@@ -6,7 +6,7 @@
 
 * [Paper Search](ai-tools/paper-search/README.md)
   * [Elicit](ai-tools/paper-search/elicit.md)
-  * [Evidence Hunt](ai-tools/paper-search/evidence-hunt.md)
+  * [EvidenceHunt](ai-tools/paper-search/evidence-hunt.md)
   * [Litmaps](ai-tools/paper-search/litmaps.md)
   * [Semantic Scholar](ai-tools/paper-search/semantic-scholar.md)
   * [Consensus.app](ai-tools/paper-search/consensus.app.md)
@@ -27,7 +27,7 @@
   * [Open Knowledge Maps (OKM)](ai-tools/paper-visualization/open-knowledge-maps-okm.md)
   * [SciSpace](ai-tools/paper-visualization/scispace.md)
 * [Chatbot and Assistance](ai-tools/chatbot-and-assistance/README.md)
-  * [ChatGPT	](ai-tools/chatbot-and-assistance/chatgpt.md)
+  * [ChatGPT](ai-tools/chatbot-and-assistance/chatgpt.md)
   * [Bing Chat AI](ai-tools/chatbot-and-assistance/bing-chat-ai.md)
   * [Perplexity AI](ai-tools/chatbot-and-assistance/perplexity-ai.md)
   * [ChatPDF](ai-tools/chatbot-and-assistance/chatpdf.md)
