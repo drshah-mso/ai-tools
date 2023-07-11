@@ -6,7 +6,7 @@
 
 ## Overview
 
-cubaan
+cubaan MSO
 
 Literature reviews are an essential part of academic research. They allow researchers to gather and synthesize information from previous studies, identify gaps in the literature, and develop new research questions.
 
@@ -21,7 +21,7 @@ This book provides an overview of the use of AI tools for literature reviews. It
 * How to use AI tools to conduct literature reviews
 * The limitations of AI tools for literature reviews
 
-The book is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.&#x20;
+The book is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.
 
 ## Quick links
 

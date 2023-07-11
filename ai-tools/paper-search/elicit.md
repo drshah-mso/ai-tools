@@ -12,6 +12,6 @@ Elicit can find relevant papers without perfect keyword match, summarize takeawa
 
 While answering questions with research is the main focus of Elicit, there are also other research tasks that help with brainstorming, summarization, and text classification.
 
-
-
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" fullWidth="false" %}
+{% file src="../../.gitbook/assets/landing.mp4" %}
+abc
+{% endfile %}
