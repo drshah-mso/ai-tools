@@ -21,7 +21,7 @@ Here are some additional details about EvidenceHunt:
 * It is available in English and Spanish.
 * It has over 10,000 users in over 100 countries.
 
-## Features:
+## Features
 
 EvidenceHunt offers a number of features that make it a valuable tool for healthcare professionals, including:
 
@@ -35,7 +35,7 @@ EvidenceHunt offers a number of features that make it a valuable tool for health
 * **Weekly e-alerts:** You can subscribe to weekly e-alerts for your search terms, so you will always be up-to-date on the latest clinical evidence.
 * **User-friendly interface:** EvidenceHunt has a user-friendly interface that makes it easy to find the information you need.
 
-### Getting Started with EvidenceHunt
+## Getting Started with EvidenceHunt
 
 Sure, here are some more detailed instructions on how to get started with EvidenceHunt:
 
@@ -56,7 +56,7 @@ The following are some of the search filters that are available:
 6. **Subscribe to weekly e-alerts.** You can subscribe to weekly e-alerts to stay up-to-date on the latest clinical evidence. To subscribe to e-alerts, enter your email address in the **Subscribe to E-Alerts** section of the website.
 7. **Use the Help section.** If you have any questions about how to use EvidenceHunt, you can use the Help section of the website. The Help section includes a variety of resources, such as FAQs, tutorials, and videos.
 
-### Advanced Searching
+## Advanced Searching
 
 Advanced search techniques that you can use with EvidenceHunt:
 
@@ -75,7 +75,7 @@ In addition to advanced search techniques, EvidenceHunt also allows you to save 
 * **Saving your favorite studies:** You can save your favorite studies for later reference by clicking on the **Save** button. Your saved studies will be displayed in the **My Studies** section of your account.
 * **Receiving personalized recommendations:** EvidenceHunt can learn from your search history and recommend studies that you may be interested in. To receive personalized recommendations, click on the **Recommendations** tab.
 
-### Clinical Decision-Making
+## Clinical Decision-Making
 
 Tips on how to use EvidenceHunt for clinical decision-making:
 
@@ -91,7 +91,7 @@ Additional resources that you may find helpful:
 * **The Centre for Evidence-Based Medicine:** The Centre for Evidence-Based Medicine is a UK-based organization that promotes the use of evidence in healthcare. They have a number of resources available on their website, including a guide to critically appraising clinical trials.
 * **The Cochrane Library:** The Cochrane Library is a collection of systematic reviews that are conducted by independent experts. The Cochrane Library is a valuable resource for healthcare professionals who are looking for evidence on the effectiveness of interventions.
 
-### Case Study
+## Case Study
 
 ### Case Study 1
 
@@ -127,19 +127,19 @@ You give the patient a copy of the study that you found on EvidenceHunt. You als
 
 The patient is started on clopidogrel and she does not have another heart attack. She is able to continue her normal activities and she is satisfied with her care.
 
-### Case Study 2:&#x20;
+### Case Study 2&#x20;
 
 How EvidenceHunt can help a computer science researcher doing research in thyroid disease
 
-**Research Question:**
+**Research Question**
 
 A computer science researcher is interested in developing a new machine learning algorithm to predict the risk of thyroid disease. The researcher wants to find the best evidence on the clinical features that are associated with thyroid disease.
 
-**EvidenceHunt Search:**
+**EvidenceHunt Search**
 
 The researcher goes to the EvidenceHunt website and searches for "clinical features of thyroid disease." The researcher uses the advanced search features to narrow down their results to studies that were published in the last 5 years and that were conducted in a high-quality setting.
 
-**Critical Evaluation of Evidence:**
+**Critical Evaluation of Evidence**
 
 The researcher finds a study that was published in the **Journal of Clinical Endocrinology and Metabolism** in 2022. The study was a systematic review that identified the clinical features that are most strongly associated with thyroid disease. The study found that the following clinical features were most strongly associated with thyroid disease:
 
@@ -151,19 +151,19 @@ The researcher finds a study that was published in the **Journal of Clinical End
 * Physical exam findings
 * Laboratory tests
 
-**Integration of Evidence with Clinical Expertise:**
+**Integration of Evidence with Clinical Expertise**
 
 The researcher considers the evidence from the study, but they also consider their clinical expertise. The researcher knows that there are a number of other factors that can contribute to the development of thyroid disease, such as environmental factors and lifestyle factors.
 
-**Decision:**
+**Decision**
 
 Based on the evidence and their clinical expertise, the researcher decides to use the clinical features identified in the study as the basis for their machine learning algorithm. The researcher also plans to collect additional data on environmental and lifestyle factors to improve the accuracy of their algorithm.
 
-**Outcome:**
+**Outcome**
 
 The researcher develops a machine learning algorithm that is able to predict the risk of thyroid disease with 80% accuracy. The researcher publishes their findings in a peer-reviewed journal and the algorithm is made available to the public.
 
-### Glossary of terms
+## Glossary of terms
 
 * **Abstract:** A brief summary of a study that is published in a scientific journal.
 * **Clinical question:** A question that can be answered by evidence from clinical studies.
@@ -177,7 +177,7 @@ The researcher develops a machine learning algorithm that is able to predict the
 * **Study design:** The method that is used to conduct a study.
 * **Systematic review:** A type of study that summarizes the results of multiple studies on a particular topic.
 
-### **Conclusion**
+## **Conclusion**
 
 In this tutorial, you learned about EvidenceHunt, a clinical evidence search engine that can help you find the latest and most relevant evidence on a variety of topics. You learned how to use EvidenceHunt to search for studies, critically evaluate evidence, and make evidence-based decisions.
 
