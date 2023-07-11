@@ -21,6 +21,8 @@ Here are some additional details about EvidenceHunt:
 * It is available in English and Spanish.
 * It has over 10,000 users in over 100 countries.
 
+<figure><img src="../../.gitbook/assets/eh1.jpeg" alt="" width="375"><figcaption><p>EvidenceHunt vs PubMed</p></figcaption></figure>
+
 ## Features
 
 EvidenceHunt offers a number of features that make it a valuable tool for healthcare professionals, including:
@@ -37,7 +39,7 @@ EvidenceHunt offers a number of features that make it a valuable tool for health
 
 ## Getting Started with EvidenceHunt
 
-Sure, here are some more detailed instructions on how to get started with EvidenceHunt:
+Instructions on how to get started with EvidenceHunt:
 
 1. **Create an account.** Go to the EvidenceHunt website and click on the **Sign Up** button. Enter your email address and create a password. Click on the **Create Account** button. You will receive an email with a verification link. Click on the verification link to activate your account.
 2. **Log in to EvidenceHunt.** Once your account is activated, you can log in to EvidenceHunt by entering your email address and password.
@@ -55,6 +57,14 @@ The following are some of the search filters that are available:
 5. **Save your favorite studies.** You can save your favorite studies for later reference by clicking on the **Save** button. Your saved studies will be displayed in the **My Studies** section of your account.
 6. **Subscribe to weekly e-alerts.** You can subscribe to weekly e-alerts to stay up-to-date on the latest clinical evidence. To subscribe to e-alerts, enter your email address in the **Subscribe to E-Alerts** section of the website.
 7. **Use the Help section.** If you have any questions about how to use EvidenceHunt, you can use the Help section of the website. The Help section includes a variety of resources, such as FAQs, tutorials, and videos.
+
+
+
+<figure><img src="../../.gitbook/assets/eh2.jpeg" alt="" width="375"><figcaption><p>Queries</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/eh3.jpeg" alt=""><figcaption><p>Comparison with PubMed</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/eh4.jpeg" alt="" width="563"><figcaption><p>EvidenceHunt uses their abstract to formulate an answer.</p></figcaption></figure>
 
 ## Advanced Searching
 
