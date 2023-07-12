@@ -46,3 +46,5 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
 [inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
