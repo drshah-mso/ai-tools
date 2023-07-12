@@ -21,6 +21,15 @@ This book provides an overview of the use of AI tools for literature reviews. It
 
 The book is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.
 
+
+
+Belum buat:
+
+1. Explain Paper (https://www.explainpaper.com)&#x20;
+2. PapersGPT (https://jessezhang.org/llmdemo)&#x20;
+3. Teach Anything (https://www.teach-anything.com)&#x20;
+4. Experai (https://www.experai.com)
+
 ## Quick links
 
 {% content-ref url="ai-tools/paper-search/elicit.md" %}
@@ -47,4 +56,4 @@ We've put together some helpful guides for you to get setup with our product qui
 [inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
