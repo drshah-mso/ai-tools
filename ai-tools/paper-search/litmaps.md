@@ -122,7 +122,8 @@ Once the team had created a map of the literature on cancer research, they start
 | 2 | Prioritize your reading list using Litmaps| <a href="https://www.youtube.com/watch?v=-iENrbGki6Y" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> | 
 | 3 | Advanced Search Features| <a href="https://www.youtube.com/watch?v=6f2gbnXLQ1c" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> | 
 | 4 | How to quickly visualize a collection of articles| <a href="https://www.youtube.com/watch?v=-O3kw3V7lts" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
-
+| 5 | How to explore a particular area of research| <a href="https://www.youtube.com/watch?v=cdz857NqQtY" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
+| 6 | How to accelerate your literature review with Litmaps | <a href="https://www.youtube.com/watch?v=TJ_wkVDQBrs" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
 
 ## **Conclusion**
 
