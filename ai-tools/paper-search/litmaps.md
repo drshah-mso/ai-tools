@@ -115,6 +115,8 @@ The team started by creating a map of the literature on cancer research. They us
 
 Once the team had created a map of the literature on cancer research, they started to explore the connections between different papers. They were surprised to see how many research groups were working on the same cancer research projects. This helped the team to identify new research opportunities, and it also helped them to collaborate with other research groups.
 
+## **Video**
+
 ## **Conclusion**
 
 Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others. The advanced features of Litmaps can help you to get the most out of your research and to improve your research process.
