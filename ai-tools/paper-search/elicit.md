@@ -1,7 +1,9 @@
 # Elicit
 
-{% hint style="info" %}
-**Website:** Elicit
+
+
+{% hint style="success" %}
+🔗 **Website:** [Elicit](https://elicit.org/)
 {% endhint %}
 
 ## Introduction
