@@ -1,7 +1,7 @@
 ---
 description: >-
-  Elicit uses language models to help you automate research workflows, like
-  parts of literature review.
+  Scite.ai is a free AI-powered platform that helps researchers evaluate the
+  credibility of research papers.
 ---
 
 # scite.ai
