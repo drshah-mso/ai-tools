@@ -116,6 +116,11 @@ The team started by creating a map of the literature on cancer research. They us
 Once the team had created a map of the literature on cancer research, they started to explore the connections between different papers. They were surprised to see how many research groups were working on the same cancer research projects. This helped the team to identify new research opportunities, and it also helped them to collaborate with other research groups.
 
 ## **Video**
+| No | Tools |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Figma |  <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/figma.md" ><img src="./images/figma.svg" width="24px" height="24px" ></a> | 
+| 2 | Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/drawio/1-draw-io.md" ><img src="./images/drawio.svg" width="24px" height="24px" ></a> | 
+
 
 ## **Conclusion**
 
