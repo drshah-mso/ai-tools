@@ -201,3 +201,4 @@ If you want to learn more about EvidenceHunt, here are some resources:
 * **EvidenceHunt Facebook:** The EvidenceHunt Facebook page is a great way to connect with other users of EvidenceHunt. The page features posts about new studies, research methods, and clinical applications.
 * **EvidenceHunt YouTube channel:** The EvidenceHunt YouTube channel is a great way to learn about EvidenceHunt through video tutorials. The channel features videos on a variety of topics, including how to use EvidenceHunt, how to critically evaluate evidence, and how to make evidence-based decisions.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
