@@ -22,7 +22,7 @@ Litmaps can also be helpful for finding new papers that are relevant to your res
 
 Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
 
-<figure><img src="../../.gitbook/assets/litmaps.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Litmaps1.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Benefits of using Litmaps?**
 
@@ -64,6 +64,16 @@ Additional tips for getting started with Litmaps:
 * **Explore the connections between different papers:** Once you have created a Litmap, you can explore the connections between different papers. This can help you to understand the relationships between different papers and to identify gaps in your research.
 * **Prioritize your reading list:** Litmaps can help you to prioritize your reading list. You can use the "Prioritize" button to rank your papers in order of importance.
 * **Export your map to PDF:** Once you have finished with your Litmap, you can export it to PDF. This will allow you to share your map with others or to print it out.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Litmaps2.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Litmaps3.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Litmaps has a number of advanced features that can help you to get the most out of your research. Here are a few of the most notable advanced features:
 
