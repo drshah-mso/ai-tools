@@ -16,6 +16,10 @@ Litmaps is a tool that uses natural language processing and machine learning to 
 
 Litmaps works by analyzing the text of papers and identifying the relationships between them. It does this by looking for common words, phrases, and concepts. Once the relationships between papers have been identified, Litmaps can create visualizations of these relationships.
 
+{% embed url="https://www.youtube.com/watch?v=QTIZxc3BaGg" %}
+Introduction to Litmaps
+{% endembed %}
+
 These visualizations can be helpful for identifying gaps in the literature. For example, if you are researching a topic and you see that there are no papers that connect two different concepts, you know that there is a gap in the literature that you could fill.
 
 Litmaps can also be helpful for finding new papers that are relevant to your research topic. By visualizing the relationships between papers, you can see which papers are related to each other. This can help you to identify papers that you may not have found otherwise.
@@ -52,9 +56,11 @@ To get started with Litmaps, you can either:
 * **Import your reference manager:** If you use a reference manager like Zotero, Mendeley, or EndNote, you can import your library into Litmaps.
 * **Create a seed map:** If you have a specific paper or research topic in mind, you can create a seed map by adding that paper to Litmaps. Litmaps will then use the citation network to find related papers.
 
+{% embed url="https://www.youtube.com/watch?v=UOQZJg1XPRA" %}
+Litmaps | AI for Researchers
+{% endembed %}
+
 Once you have created a Litmap, you can explore the connections between different papers, prioritize your reading list, and export your map to PDF.
-
-
 
 Additional tips for getting started with Litmaps:
 
@@ -93,7 +99,7 @@ Additional advanced features of Litmaps:
 
 ## Case Study
 
-### **Case Study 1:**
+### **Case Study 1**
 
 A PhD student in computer science used Litmaps to create a map of the literature on machine learning. The student was interested in the intersection of machine learning and natural language processing, and they wanted to see how the two fields were converging.
 
@@ -101,13 +107,15 @@ The student started by creating a map of the literature on machine learning. The
 
 Once the student had created a map of the literature on machine learning, they started to explore the connections between different papers. They were surprised to see how many papers were related to both machine learning and natural language processing. This helped the student to identify new research opportunities, and it also helped them to understand the different aspects of machine learning and natural language processing.
 
-### **Case Study 2:**
+### **Case Study 2**
 
 A research team in medicine used Litmaps to create a map of the literature on cancer research. The team was interested in identifying new research trends in cancer research, and they wanted to see how different research groups were collaborating.
 
 The team started by creating a map of the literature on cancer research. They used the Litmaps search bar to find papers that were related to cancer research, and they used the "Explore" feature to find related papers. The team also imported their reference manager into Litmaps, which allowed them to easily add papers to their map.
 
 Once the team had created a map of the literature on cancer research, they started to explore the connections between different papers. They were surprised to see how many research groups were working on the same cancer research projects. This helped the team to identify new research opportunities, and it also helped them to collaborate with other research groups.
+
+## Video
 
 ## **Conclusion**
 
