@@ -4,8 +4,8 @@ description: A Valuable Tool for Healthcare Professionals
 
 # EvidenceHunt
 
-{% hint style="info" %}
-**Website:**&#x20;
+{% hint style="success" %}
+🔗 **Website:** [EvidenceHunt](https://evidencehunt.com/)
 {% endhint %}
 
 ## Introduction
