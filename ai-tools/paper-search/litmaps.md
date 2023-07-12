@@ -1,7 +1,7 @@
 ---
 description: >-
-  Elicit uses language models to help you automate research workflows, like
-  parts of literature review.
+  Litmaps is a literature mapping tool that helps researchers find, organize,
+  and visualize their research literature.
 ---
 
 # Litmaps
@@ -12,4 +12,58 @@ description: >-
 
 ## Introduction
 
-Litmaps
+Litmaps is a tool that uses natural language processing and machine learning to help users visualize the relationships between different papers. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others.
+
+Litmaps works by analyzing the text of papers and identifying the relationships between them. It does this by looking for common words, phrases, and concepts. Once the relationships between papers have been identified, Litmaps can create visualizations of these relationships.
+
+These visualizations can be helpful for identifying gaps in the literature. For example, if you are researching a topic and you see that there are no papers that connect two different concepts, you know that there is a gap in the literature that you could fill.
+
+Litmaps can also be helpful for finding new papers that are relevant to your research topic. By visualizing the relationships between papers, you can see which papers are related to each other. This can help you to identify papers that you may not have found otherwise.
+
+Finally, Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
+
+### **Benefits of using Litmaps?**
+
+Litmaps can help users to visualize the relationships between different papers, which can make Litmaps is a literature mapping tool that can help researchers find, organize, and visualize their research literature. Here are some of the benefits of using Litmaps:
+
+* **Find relevant papers:** Litmaps can help you find relevant papers by using the citation network. This means that Litmaps can find papers that are related to your research topic, even if they don't use the same keywords.
+* **Organize your literature:** Litmaps can help you organize your literature by creating interactive maps. These maps can help you to visualize the relationships between different papers and to identify gaps in your research.
+* **Prioritize your reading list:** Litmaps can help you prioritize your reading list by ranking your papers in order of importance. This can help you to focus on the most important papers and to avoid getting bogged down in irrelevant papers.
+* **Share your research:** Litmaps can help you to share your research with others. You can export your maps to PDF or share them directly through Litmaps.
+* **Stay up-to-date:** Litmaps can help you to stay up-to-date on your research topic by monitoring new papers that are published. This can help you to ensure that you are always aware of the latest research in your field.
+
+Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. If you are looking for a way to improve your research process, then I highly recommend using Litmaps.
+
+Here are some additional benefits of using Litmaps:
+
+* **It can help you to identify gaps in your research.** By visualizing the relationships between different papers, you can see where there are gaps in your knowledge. This can help you to focus your research on the most important areas.
+* **It can help you to save time.** Litmaps can automate many of the tasks involved in literature review, such as finding relevant papers and organizing your citations. This can free up your time so that you can focus on more creative and strategic aspects of your research.
+* **It can help you to collaborate with others.** You can share your Litmaps maps with colleagues and collaborators, which can help you to get feedback on your research and to build relationships with other researchers.
+
+If you are looking for a way to improve your research process, then I highly recommend using Litmaps. It is a powerful tool that can help you to find, organize, visualize, and share your research literature.
+
+### Getting started with Litmaps
+
+To get started with Litmaps, you can either:
+
+* **Search for a paper or author:** Enter a DOI, PubMed ID, arXiv ID, keyword, or author's name into the search bar to find related papers.
+* **Import your reference manager:** If you use a reference manager like Zotero, Mendeley, or EndNote, you can import your library into Litmaps.
+* **Create a seed map:** If you have a specific paper or research topic in mind, you can create a seed map by adding that paper to Litmaps. Litmaps will then use the citation network to find related papers.
+
+Once you have created a Litmap, you can explore the connections between different papers, prioritize your reading list, and export your map to PDF.
+
+
+
+Additional tips for getting started with Litmaps:
+
+* **Use the search bar to find related papers:** The search bar is a great way to find papers that are related to your research topic. You can search by DOI, PubMed ID, arXiv ID, keyword, or author's name.
+* **Import your reference manager:** If you use a reference manager, you can import your library into Litmaps. This will save you time from having to manually add papers to Litmaps.
+* **Create a seed map:** If you have a specific paper or research topic in mind, you can create a seed map by adding that paper to Litmaps. Litmaps will then use the citation network to find related papers.
+* **Explore the connections between different papers:** Once you have created a Litmap, you can explore the connections between different papers. This can help you to understand the relationships between different papers and to identify gaps in your research.
+* **Prioritize your reading list:** Litmaps can help you to prioritize your reading list. You can use the "Prioritize" button to rank your papers in order of importance.
+* **Export your map to PDF:** Once you have finished with your Litmap, you can export it to PDF. This will allow you to share your map with others or to print it out.
+
+### **Conclusion**
+
+* Litmaps is a powerful tool that can help users to visualize the relationships between different papers.
+* It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others.
