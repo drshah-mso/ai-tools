@@ -124,6 +124,7 @@ Once the team had created a map of the literature on cancer research, they start
 | 4 | How to quickly visualize a collection of articles| <a href="https://www.youtube.com/watch?v=-O3kw3V7lts" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
 | 5 | How to explore a particular area of research| <a href="https://www.youtube.com/watch?v=cdz857NqQtY" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
 | 6 | How to accelerate your literature review with Litmaps | <a href="https://www.youtube.com/watch?v=TJ_wkVDQBrs" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
+| 7 | The fastest way to do your literature review [Do it in SECONDS] | <a href="https://www.youtube.com/watch?v=8oEOa9wStjk" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
 
 ## **Conclusion**
 
