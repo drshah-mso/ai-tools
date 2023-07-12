@@ -6,4 +6,4 @@ Popular AI tools for paper search include Elicit, EvidenceHunt, Litmaps, Semanti
 
 The use of AI tools for paper search can offer several benefits, including accuracy, efficiency, and effectiveness. AI tools can be more accurate than traditional paper search methods, as they can understand the meaning of search queries and identify papers that are likely to be relevant. They can also save researchers time by automating the paper search process. Additionally, AI tools can help researchers to find papers that they would not have found otherwise.
 
-\
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
