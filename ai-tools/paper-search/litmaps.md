@@ -22,7 +22,7 @@ Litmaps can also be helpful for finding new papers that are relevant to your res
 
 Finally, Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
 
-### **Benefits of using Litmaps?**
+## **Benefits of using Litmaps?**
 
 Litmaps can help users to visualize the relationships between different papers, which can make Litmaps is a literature mapping tool that can help researchers find, organize, and visualize their research literature. Here are some of the benefits of using Litmaps:
 
@@ -42,7 +42,7 @@ Here are some additional benefits of using Litmaps:
 
 If you are looking for a way to improve your research process, then I highly recommend using Litmaps. It is a powerful tool that can help you to find, organize, visualize, and share your research literature.
 
-### Getting started with Litmaps
+## Getting started with Litmaps
 
 To get started with Litmaps, you can either:
 
@@ -63,7 +63,22 @@ Additional tips for getting started with Litmaps:
 * **Prioritize your reading list:** Litmaps can help you to prioritize your reading list. You can use the "Prioritize" button to rank your papers in order of importance.
 * **Export your map to PDF:** Once you have finished with your Litmap, you can export it to PDF. This will allow you to share your map with others or to print it out.
 
-### **Conclusion**
+Litmaps has a number of advanced features that can help you to get the most out of your research. Here are a few of the most notable advanced features:
 
-* Litmaps is a powerful tool that can help users to visualize the relationships between different papers.
-* It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others.
+* **Explore:** The Explore feature allows you to find related papers to add to your map. You can combine keywords, papers from existing maps, and filters like publication date to find new articles that are "most highly connected" to your existing map.
+* **Visualizations:** Litmaps offers a variety of visualizations that can help you to understand the relationships between different papers. You can choose to visualize your map by publication date, citation count, or title similarity.
+* **Notes:** You can add notes to your maps to annotate your research and to keep track of your thoughts. Notes can be private or shared with others.
+* **Collaboration:** You can collaborate with others on Litmaps maps. This can be a great way to get feedback on your research and to build relationships with other researchers.
+* **Export:** You can export your maps to PDF or to other formats. This allows you to share your maps with others or to print them out.
+
+## Advanced features
+
+Additional advanced features of Litmaps:
+
+* **The ability to filter your searches by author, date, and keyword.** This allows you to narrow down your search results and to find the most relevant papers.
+* **The ability to create groupings or subsets of articles in different colours to help tell your research story.** This can help you to visualize the different aspects of your research and to identify patterns.
+* **The ability to monitor new papers that are published in your field.** This can help you to stay up-to-date on the latest research and to identify new papers that are relevant to your research topic.
+
+## **Conclusion**
+
+Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others. The advanced features of Litmaps can help you to get the most out of your research and to improve your research process.
