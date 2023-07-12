@@ -20,7 +20,9 @@ These visualizations can be helpful for identifying gaps in the literature. For 
 
 Litmaps can also be helpful for finding new papers that are relevant to your research topic. By visualizing the relationships between papers, you can see which papers are related to each other. This can help you to identify papers that you may not have found otherwise.
 
-Finally, Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
+Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
+
+<figure><img src="../../.gitbook/assets/litmaps.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Benefits of using Litmaps?**
 
