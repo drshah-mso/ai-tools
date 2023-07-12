@@ -1,7 +1,7 @@
 ---
 description: >-
-  Paper Digest is a free AI-powered platform that helps researchers find,
-  understand, and share research papers.
+  AI-powered platform that helps users track, search, review, and rewrite
+  scientific literature.
 ---
 
 # Paper Digest

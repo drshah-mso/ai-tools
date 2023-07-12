@@ -1,7 +1,7 @@
 ---
 description: >-
-  Elicit uses language models to help you automate research workflows, like
-  parts of literature review.
+  A search engine that uses artificial intelligence to find answers in
+  scientific research
 ---
 
 # Consensus.app

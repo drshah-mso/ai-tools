@@ -1,7 +1,7 @@
 ---
 description: >-
-  Elicit uses language models to help you automate research workflows, like
-  parts of literature review.
+  An AI-powered academic search engine that assists researchers in discovering
+  relevant scholarly articles
 ---
 
 # Semantic Scholar

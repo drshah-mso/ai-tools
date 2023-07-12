@@ -1,7 +1,7 @@
 ---
 description: >-
-  Litmaps is a literature mapping tool that helps researchers find, organize,
-  and visualize their research literature.
+  A literature mapping tool that helps researchers find, organize, and visualize
+  their research literature.
 ---
 
 # Litmaps

@@ -1,10 +1,10 @@
 ---
-description: >-
-  Scite.ai is a free AI-powered platform that helps researchers evaluate the
-  credibility of research papers.
+description: AI tool that simplifies the process of finding scientific articles
 ---
 
 # scite.ai
+
+
 
 {% hint style="success" %}
 🔗 **Website:** [scite.ai](https://scite.ai/)
