@@ -6,9 +6,7 @@ description: >-
 
 # Litmaps
 
-{% hint style="success" %}
 🔗 **Website:** [Litmaps](https://www.litmaps.com/)
-{% endhint %}
 
 ## Introduction
 
@@ -116,19 +114,11 @@ The team started by creating a map of the literature on cancer research. They us
 Once the team had created a map of the literature on cancer research, they started to explore the connections between different papers. They were surprised to see how many research groups were working on the same cancer research projects. This helped the team to identify new research opportunities, and it also helped them to collaborate with other research groups.
 
 ## **Video**
-| No | Title |  File |
-| :-----: |  ------ | :-----: | 
-| 1 | Import your reference manager into Litmaps |  <a href="https://www.youtube.com/watch?v=P2-0zW7nLe4" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> | 
-| 2 | Prioritize your reading list using Litmaps| <a href="https://www.youtube.com/watch?v=-iENrbGki6Y" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> | 
-| 3 | Advanced Search Features| <a href="https://www.youtube.com/watch?v=6f2gbnXLQ1c" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> | 
-| 4 | How to quickly visualize a collection of articles| <a href="https://www.youtube.com/watch?v=-O3kw3V7lts" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
-| 5 | How to explore a particular area of research| <a href="https://www.youtube.com/watch?v=cdz857NqQtY" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
-| 6 | How to accelerate your literature review with Litmaps | <a href="https://www.youtube.com/watch?v=TJ_wkVDQBrs" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
-| 7 | The fastest way to do your literature review [Do it in SECONDS] | <a href="https://www.youtube.com/watch?v=8oEOa9wStjk" ><img src="../../.gitbook/assets/youtube.svg" width="24px" height="24px" ></a> |
+
+<table><thead><tr><th width="71.33333333333331" align="center">No</th><th width="491">Title</th><th align="center">File</th></tr></thead><tbody><tr><td align="center">1</td><td>Import your reference manager into Litmaps</td><td align="center"><a href="https://www.youtube.com/watch?v=P2-0zW7nLe4"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">2</td><td>Prioritize your reading list using Litmaps</td><td align="center"><a href="https://www.youtube.com/watch?v=-iENrbGki6Y"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">3</td><td>Advanced Search Features</td><td align="center"><a href="https://www.youtube.com/watch?v=6f2gbnXLQ1c"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">4</td><td>How to quickly visualize a collection of articles</td><td align="center"><a href="https://www.youtube.com/watch?v=-O3kw3V7lts"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">5</td><td>How to explore a particular area of research</td><td align="center"><a href="https://www.youtube.com/watch?v=cdz857NqQtY"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">6</td><td>How to accelerate your literature review with Litmaps</td><td align="center"><a href="https://www.youtube.com/watch?v=TJ_wkVDQBrs"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr><tr><td align="center">7</td><td>The fastest way to do your literature review [Do it in SECONDS]</td><td align="center"><a href="https://www.youtube.com/watch?v=8oEOa9wStjk"><img src="../../.gitbook/assets/youtube.svg" alt=""></a></td></tr></tbody></table>
 
 ## **Conclusion**
 
 Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others. The advanced features of Litmaps can help you to get the most out of your research and to improve your research process.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)&#x20;
