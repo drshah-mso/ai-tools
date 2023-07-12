@@ -79,6 +79,24 @@ Additional advanced features of Litmaps:
 * **The ability to create groupings or subsets of articles in different colours to help tell your research story.** This can help you to visualize the different aspects of your research and to identify patterns.
 * **The ability to monitor new papers that are published in your field.** This can help you to stay up-to-date on the latest research and to identify new papers that are relevant to your research topic.
 
+## Case Study
+
+### **Case Study 1:**
+
+A PhD student in computer science used Litmaps to create a map of the literature on machine learning. The student was interested in the intersection of machine learning and natural language processing, and they wanted to see how the two fields were converging.
+
+The student started by creating a map of the literature on machine learning. They used the Litmaps search bar to find papers that were related to machine learning, and they used the "Explore" feature to find related papers. The student also imported their reference manager into Litmaps, which allowed them to easily add papers to their map.
+
+Once the student had created a map of the literature on machine learning, they started to explore the connections between different papers. They were surprised to see how many papers were related to both machine learning and natural language processing. This helped the student to identify new research opportunities, and it also helped them to understand the different aspects of machine learning and natural language processing.
+
+### **Case Study 2:**
+
+A research team in medicine used Litmaps to create a map of the literature on cancer research. The team was interested in identifying new research trends in cancer research, and they wanted to see how different research groups were collaborating.
+
+The team started by creating a map of the literature on cancer research. They used the Litmaps search bar to find papers that were related to cancer research, and they used the "Explore" feature to find related papers. The team also imported their reference manager into Litmaps, which allowed them to easily add papers to their map.
+
+Once the team had created a map of the literature on cancer research, they started to explore the connections between different papers. They were surprised to see how many research groups were working on the same cancer research projects. This helped the team to identify new research opportunities, and it also helped them to collaborate with other research groups.
+
 ## **Conclusion**
 
 Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others. The advanced features of Litmaps can help you to get the most out of your research and to improve your research process.
