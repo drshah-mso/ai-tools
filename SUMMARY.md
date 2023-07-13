@@ -34,6 +34,20 @@
   * [PaperPal](ai-tools/chatbot-and-assistance/paperpal.md)
   * [Paper Brain](ai-tools/chatbot-and-assistance/paper-brain.md)
 
+***
+
+* [Detecting AI-Generated Content](detecting-ai-generated-content/README.md)
+  * [GPTZero](detecting-ai-generated-content/gptzero.md)
+  * [Open AI Text Classifier](detecting-ai-generated-content/open-ai-text-classifier.md)
+  * [Copyleaks](detecting-ai-generated-content/copyleaks.md)
+  * [SciSpace](detecting-ai-generated-content/scispace.md)
+  * [Hive Moderation](detecting-ai-generated-content/hive-moderation.md)
+  * [Content as Scale](detecting-ai-generated-content/content-as-scale.md)
+  * [Hello Simple AI](detecting-ai-generated-content/hello-simple-ai.md)
+  * [OpenAI Detector](detecting-ai-generated-content/openai-detector.md)
+  * [Corrector.app](detecting-ai-generated-content/corrector.app.md)
+  * [Writer.com](detecting-ai-generated-content/writer.com.md)
+
 ## Fundamentals
 
 * [Getting set up](fundamentals/getting-set-up/README.md)
