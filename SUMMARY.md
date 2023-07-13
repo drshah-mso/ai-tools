@@ -34,11 +34,6 @@
   * [PaperPal](ai-tools/chatbot-and-assistance/paperpal.md)
   * [Paper Brain](ai-tools/chatbot-and-assistance/paper-brain.md)
 
-## Product Guides
-
-* [Making a post](product-guides/making-a-post.md)
-* [Understanding Projects](product-guides/understanding-projects.md)
-
 ## Fundamentals
 
 * [Getting set up](fundamentals/getting-set-up/README.md)
