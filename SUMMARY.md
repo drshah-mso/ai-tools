@@ -50,9 +50,9 @@
 
 ## Fundamentals
 
-* [Getting set up](fundamentals/getting-set-up/README.md)
-  * [Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Effortless Literature Review](fundamentals/effortless-lr/README.md)
+  * [Setting permissions](fundamentals/effortless-lr/setting-permissions.md)
+  * [Inviting Members](fundamentals/effortless-lr/inviting-members.md)
 
 ## Use Cases
 

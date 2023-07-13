@@ -44,16 +44,16 @@ Belum buat:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="fundamentals/effortless-lr/" %}
+[effortless-lr](fundamentals/effortless-lr/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="fundamentals/effortless-lr/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/effortless-lr/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="fundamentals/effortless-lr/inviting-members.md" %}
+[inviting-members.md](fundamentals/effortless-lr/inviting-members.md)
 {% endcontent-ref %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
