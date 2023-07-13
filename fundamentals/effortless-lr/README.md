@@ -1,37 +1,5 @@
 # Effortless Literature Review
 
-<details>
-
-<summary>Step1: Creating your organization</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Inviting your team</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
-
 The Effortless Literature Review is a workshop and online course that teaches you how to do a literature review more efficiently and effectively. It was created by Ilya Shabanov, a PhD student in computer science at the University of Edinburgh.
 
 The Effortless Literature Review is based on the idea that the traditional literature review process is too time-consuming and inefficient. The workshop teaches you how to use a variety of tools and techniques to find, filter, and summarize research papers more quickly and easily.
