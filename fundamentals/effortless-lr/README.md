@@ -11,6 +11,8 @@ The workshop covers the following topics:
 * **How to summarize research papers:** You will learn how to summarize research papers in a concise and easy-to-understand format.
 * **How to write a literature review:** You will learn how to write a literature review that is clear, concise, and persuasive.
 
+<figure><img src="../../.gitbook/assets/effort-lr.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
 The Effortless Literature Review is a valuable tool for researchers who want to save time and improve the quality of their literature reviews. It is also a good choice for students who are required to write a literature review as part of their coursework.
 
 Here are some of the benefits of the Effortless Literature Review:
