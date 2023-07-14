@@ -8,8 +8,6 @@ description: Empowering Originality and Inspiring Authenticity
 
 Verify what content was written by a human or an AI chatbot with the AI Content Detector Chrome extension from Copyleaks.
 
-{% code overflow="wrap" %}
-```
 With the Copyleaks AI Content Detector, you can quickly and accurately determine what was written by a human and what was created by an AI, including GPT-4 and Bard, even if the AI text was paraphrased or interspersed with human-written content.
 
 Browse with confidence and verify the authenticity of posts on social media, news articles, and even reviews on your favorite shopping sites. The possibilities are endless.
@@ -41,7 +39,6 @@ We’re continually releasing new features and functionalities to help you get t
 ⭐ Detection of paraphrased AI text, making Copyleaks the only platform capable of detecting paraphrased AI content. 
 ⭐ A newly integrated confidence rating adds another layer of transparency.
 ⭐ Across the board accuracy improvements.
-```
-{% endcode %}
+
 
 <figure><img src="../.gitbook/assets/copyleaks.png" alt=""><figcaption></figcaption></figure>
