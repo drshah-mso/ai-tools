@@ -15,3 +15,6 @@ Additional tips for using AI tools for paper visualization:
 * **Choose the right tool.** There are many different AI tools available for paper visualization. Choose the tool that is best suited for your needs.
 * **Use the right settings.** Many AI tools offer different settings that can affect the way that the papers are visualized. Experiment with the settings to find the one that works best for you.
 * **Interpret the results.** The results of paper visualization can be complex. Take some time to interpret the results and to understand what they mean.
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
