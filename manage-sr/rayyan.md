@@ -4,6 +4,8 @@ Rayyan AI is an AI-powered tool that helps researchers find, screen, and analyze
 
 Rayyan AI works by first understanding the user's research question. It then uses its AI to search for relevant research papers from a variety of sources, including PubMed, Web of Science, and Google Scholar. The papers are then screened for relevance and quality, and the user is presented with a list of the most relevant papers.
 
+<figure><img src="../.gitbook/assets/Rayyan.png" alt="" width="563"><figcaption></figcaption></figure>
+
 Rayyan AI is a valuable tool for researchers who want to find and analyze research papers more efficiently. It can help researchers to:
 
 * **Find relevant research papers:** Rayyan AI can help researchers to find research papers that are relevant to their research question. This can help researchers to identify new research papers that they may not have found otherwise.
