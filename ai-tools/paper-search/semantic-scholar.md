@@ -12,6 +12,18 @@ description: >-
 
 ## Introduction
 
+Semantic Scholar is a free AI-powered research tool that aggregates scientific literature from various fields of science, including nanotechnology and moral reasoning, and uses AI and engineering to understand the semantics of the research to help scholars discover relevant publications.
+
+The platform currently archives over 211 million papers. Also, the tool has a beta program, Semantic Reader, that provides an augmented reading experience to help increase accessibility and richness to scientific literature.
+
+Besides, Semantic Scholar has a newly improved API for developers, which allows searching for papers on the platform, better documentation, and improved stability.
+
+Semantic Scholar was developed by the Allen Institute for AI, which focuses on creating efficiency in AI research to decrease carbon footprint and increase inclusivity.
+
+Researchers who use Semantic Scholar can sign up and stay connected to receive alerts about relevant papers, as well as receive updates about new features and releases.
+
+The platform is open to publishers who want to contribute their research, and a team of expert researchers composes the Semantic Scholar team. The platform also offers a detailed FAQ section and tutorials to help users understand the tool's full range of capabilities.
+
 Semantic Scholar is a free web platform that provides a comprehensive overview of research literature. It allows users to search for papers, read summaries of papers, and explore the connections between different papers. It also provides tools for evaluating the credibility of papers and for tracking the latest research in a particular field.
 
 Semantic Scholar is a valuable tool for researchers, students, and anyone who is interested in learning more about the latest research.
@@ -24,12 +36,3 @@ Here are some of the benefits of using Semantic Scholar:
 * **It can help you to evaluate the credibility of research papers.** Semantic Scholar provides tools for evaluating the credibility of papers, such as citation analysis and author reputation.
 * **It can help you to explore the connections between different papers.** Semantic Scholar provides a citation network that shows how papers are connected to each other. This can help you to identify gaps in the literature and to find new research opportunities.
 
-Here are some additional details about Semantic Scholar:
-
-* It was founded in 2015 by researchers from Stanford University and the Allen Institute for Artificial Intelligence.
-* It uses a combination of machine learning and natural language processing to extract information from research papers.
-* It provides a comprehensive overview of research literature, including citations, abstracts, and full text.
-* It allows users to explore the connections between different papers, identify gaps in the literature, and track the latest research in a particular field.
-* It is still under development, but it has the potential to be a valuable tool for researchers who want to find, understand, and share research papers more easily.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
