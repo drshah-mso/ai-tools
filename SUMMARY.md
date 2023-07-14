@@ -52,6 +52,14 @@
   * [Covidence](manage-sr/covidence.md)
   * [DistillerSR](manage-sr/distillersr.md)
   * [RevMan](manage-sr/revman.md)
+* [colandr](colandr.md)
+* [SRDR+ (AHRQ)](srdr+-ahrq.md)
+* [The Systematic Review Toolbox](the-systematic-review-toolbox.md)
+* [Citation Management](citation-management/README.md)
+  * [EndNote](citation-management/endnote.md)
+  * [RefWorks](citation-management/refworks.md)
+  * [Zotero](citation-management/zotero.md)
+  * [Mendeley](citation-management/mendeley.md)
 
 ## Fundamentals
 
