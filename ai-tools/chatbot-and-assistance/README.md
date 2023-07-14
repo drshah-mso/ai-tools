@@ -7,3 +7,5 @@ These tools can be used for postgraduate research students by providing 24/7 acc
 For example, a PhD student who is researching the effects of climate change on coral reefs could use a chatbot to ask questions about the latest research on the topic. The chatbot could then provide the student with summaries of relevant papers, as well as links to additional resources. The student could also use the chatbot to generate ideas for new research projects.
 
 Chatbots and assistance tools can help researchers to save time by automating tasks, such as searching for papers and summarizing their content. They can also help researchers to improve the accuracy of their research by providing access to the latest research and by helping them to identify relevant papers. Additionally, chatbots and assistance tools can be personalized to the individual researcher, which can improve the research experience.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
