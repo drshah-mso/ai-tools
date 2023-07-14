@@ -12,6 +12,8 @@ With the Copyleaks AI Content Detector, you can quickly and accurately determine
 
 Browse with confidence and verify the authenticity of posts on social media, news articles, and even reviews on your favorite shopping sites. The possibilities are endless.
 
+<figure><img src="../.gitbook/assets/copyleaks1.jpeg" alt="" width="480"><figcaption></figcaption></figure>
+
 ### AI Content Detector Key Features
 
 ⭐ Unprecedented 99.1% accuracy and a 0.2% false positive rate, the lowest of any platform.
