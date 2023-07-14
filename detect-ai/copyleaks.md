@@ -4,7 +4,9 @@ description: Empowering Originality and Inspiring Authenticity
 
 # Copyleaks
 
-## Overview
+Overview\
+
+
 
 Verify what content was written by a human or an AI chatbot with the AI Content Detector Chrome extension from Copyleaks.
 
@@ -12,11 +14,19 @@ With the Copyleaks AI Content Detector, you can quickly and accurately determine
 
 Browse with confidence and verify the authenticity of posts on social media, news articles, and even reviews on your favorite shopping sites. The possibilities are endless.
 
-<figure><img src="../.gitbook/assets/copyleaks1.jpeg" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/copyleaks-ai.webp" alt="" width="563"><figcaption></figcaption></figure>
 
-### AI Content Detector Key Features
+## AI Content Detector Key Features
 
-⭐ Unprecedented 99.1% accuracy and a 0.2% false positive rate, the lowest of any platform.
+Copyleaks boasts a remarkable 99.12% accuracy rate in identifying whether content has been created by humans or AI using its AI-powered plagiarism detector. The tool also supports multiple languages, including French, Spanish, German, and more.
+
+Copyleaks adopts a “fight fire with fire” approach, utilizing AI to detect AI-generated text. This allows the tool to evolve and remain effective against the newest AI chatbots, making it a highly capable tool. Copyleaks has even pledged support for ChatGPT 4 when it becomes available.
+
+You can utilize this AI plagiarism checker in a variety of scenarios, including articles, reviews, posts, and academic papers. To test it out, I copied text from an old GeeksGyaan article on smartphone addiction.
+
+In under 10 seconds, the AI text detection tool analyzed over 600 words and gave me the green light, indicating the text was human-written. I repeated the test with several text excerpts and the tool consistently delivered accurate results.
+
+⭐ Unprecedented 99.12% accuracy and a 0.2% false positive rate, the lowest of any platform.
 
 ⭐ Detects ChatGPT (including GPT-4), Bard, T5, Jasper, and more.
 
