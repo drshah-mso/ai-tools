@@ -26,6 +26,8 @@ Browse with confidence and verify the authenticity of posts on social media, new
 
 ⭐ The most installs of any AI content detector and a five-star rating!
 
+<figure><img src="../.gitbook/assets/copyleaks.png" alt=""><figcaption></figcaption></figure>
+
 ### Installation&#x20;
 
 Simply follow these steps:
@@ -47,5 +49,3 @@ Simply follow these steps:
 ⭐ A newly integrated confidence rating adds another layer of transparency.&#x20;
 
 ⭐ Across the board accuracy improvements.
-
-<figure><img src="../.gitbook/assets/copyleaks.png" alt=""><figcaption></figcaption></figure>
