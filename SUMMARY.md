@@ -42,7 +42,7 @@
   * [SciSpace](detect-ai/scispace.md)
   * [Hive Moderation](detect-ai/hive-moderation.md)
   * [Content as Scale](detect-ai/content-as-scale.md)
-  * [Hello Simple AI](detect-ai/hello-simple-ai.md)
+  * [Hello-SimpleAI](detect-ai/hello-simple-ai.md)
   * [OpenAI Detector](detect-ai/openai-detector.md)
   * [Corrector.app](detect-ai/corrector.app.md)
   * [Writer.com](detect-ai/writer.com.md)
