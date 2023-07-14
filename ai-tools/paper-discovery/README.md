@@ -11,3 +11,5 @@ Additional tips for using AI tools for paper discovery:
 * **Use advanced search features.** Many AI tools offer advanced search features that can help you to narrow down your search results. For example, you can filter your results by publication date, study design, or journal.
 * **Read the summaries.** Many AI tools provide summaries of the papers that they identify. These summaries can help you to quickly assess the relevance of the papers.
 * **Read the full papers.** If you find a paper that is relevant to your research question, be sure to read the full paper. This will help you to understand the details of the paper and to evaluate its quality.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
