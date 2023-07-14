@@ -55,6 +55,8 @@
   * [colandr](manage-sr/colandr.md)
   * [SRDR+ (AHRQ)](manage-sr/srdr+-ahrq.md)
   * [The Systematic Review Toolbox](manage-sr/the-systematic-review-toolbox.md)
+  * [PRISMA-P](manage-sr/prisma-p.md)
+  * [EQUATOR Network](manage-sr/equator-network.md)
 * [Citation Management](citation-management/README.md)
   * [EndNote](citation-management/endnote.md)
   * [RefWorks](citation-management/refworks.md)
