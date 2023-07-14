@@ -37,3 +37,6 @@ Humata AI employs a range of advanced AI techniques to extract meaningful insigh
 ## **Conclusion**
 
 In conclusion, Humata AI is an effective and promising tool for investigation and learning. With the help of this platform, researchers may utilize machine learning and natural language processing to glean valuable insights from massive datasets. Even though Humata AI is currently in its early stages, it holds the capacity to revolutionize the research process and assist in finding solutions to critical challenges that humanity presently confronts.
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
