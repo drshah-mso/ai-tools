@@ -6,6 +6,7 @@
 
 * [Paper Search](ai-tools/paper-search/README.md)
   * [Elicit](ai-tools/paper-search/elicit.md)
+  * [Zeta Alpha](ai-tools/paper-search/zeta-alpha.md)
   * [EvidenceHunt](ai-tools/paper-search/evidence-hunt.md)
   * [Litmaps](ai-tools/paper-search/litmaps.md)
   * [Semantic Scholar](ai-tools/paper-search/semantic-scholar.md)
