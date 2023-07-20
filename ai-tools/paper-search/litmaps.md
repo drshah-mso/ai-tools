@@ -6,10 +6,6 @@ description: >-
 
 # Litmaps
 
-{% hint style="success" %}
-🔗 **Website:** [Litmaps](https://www.litmaps.com/)
-{% endhint %}
-
 {% embed url="https://www.litmaps.com/" %}
 
 ## Introduction
