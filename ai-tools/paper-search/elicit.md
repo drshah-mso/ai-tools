@@ -12,6 +12,9 @@ description: >-
 🔗 **Website:** [Elicit](https://elicit.org/)
 {% endhint %}
 
+{% embed url="https://elicit.org/" %}
+
+
 ## Introduction
 
 Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyse and understand the content of papers, making it easier to find specific information. Elicit uses language models to help you automate research workflows, like parts of literature review.
