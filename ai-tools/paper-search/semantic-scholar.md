@@ -10,6 +10,9 @@ description: >-
 🔗 **Website:** [Semantic Scholar](https://www.semanticscholar.org/)
 {% endhint %}
 
+{% embed url="https://www.semanticscholar.org/" %}
+
+
 ## Introduction
 
 Semantic Scholar is a free AI-powered research tool that aggregates scientific literature from various fields of science, including nanotechnology and moral reasoning, and uses AI and engineering to understand the semantics of the research to help scholars discover relevant publications.
