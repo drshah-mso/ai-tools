@@ -4,10 +4,6 @@ description: AI tool that simplifies the process of finding scientific articles
 
 # scite.ai
 
-{% hint style="success" %}
-🔗 **Website:** [scite.ai](https://scite.ai/)
-{% endhint %}
-
 {% embed url="https://scite.ai/" %}
 
 ## Introduction
