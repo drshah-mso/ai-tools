@@ -6,10 +6,6 @@ description: >-
 
 # Consensus.app
 
-{% hint style="success" %}
-🔗 **Website:** [Consensus.app](https://consensus.app/)
-{% endhint %}
-
 {% embed url="https://consensus.app/" %}
 
 ## Introduction
