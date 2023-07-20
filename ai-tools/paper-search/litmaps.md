@@ -10,6 +10,8 @@ description: >-
 🔗 **Website:** [Litmaps](https://www.litmaps.com/)
 {% endhint %}
 
+{% embed url="https://www.litmaps.com/" %}
+
 ## Introduction
 
 Litmaps is a tool that uses natural language processing and machine learning to help users visualize the relationships between different papers. It can be used to identify gaps in the literature, to find new papers that are relevant to a research topic, and to collaborate with others.
