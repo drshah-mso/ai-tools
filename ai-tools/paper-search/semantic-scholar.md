@@ -6,10 +6,6 @@ description: >-
 
 # Semantic Scholar
 
-{% hint style="success" %}
-🔗 **Website:** [Semantic Scholar](https://www.semanticscholar.org/)
-{% endhint %}
-
 {% embed url="https://www.semanticscholar.org/" %}
 
 
