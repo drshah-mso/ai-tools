@@ -10,6 +10,8 @@ description: >-
 🔗 **Website:** [Consensus.app](https://consensus.app/)
 {% endhint %}
 
+{% embed url="https://consensus.app/" %}
+
 ## Introduction
 
 Consensus.app was founded in 2021 by a team of researchers from Stanford University and the Allen Institute for Artificial Intelligence. Consensus.app works by first extracting the key information from research papers. This information includes the paper's title, abstract, keywords, and main findings. The platform then uses AI to summarize this information into a concise and easy-to-understand format.
