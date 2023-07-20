@@ -6,9 +6,7 @@ description: >-
 
 # Paper Digest
 
-{% hint style="success" %}
-🔗 **Website:** [Paper Digest](https://www.paper-digest.com/)
-{% endhint %}
+{% embed url="https://www.paper-digest.com/" %}
 
 ## Introduction
 
