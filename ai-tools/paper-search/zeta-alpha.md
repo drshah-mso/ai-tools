@@ -1,3 +1,7 @@
+---
+description: AI Research Navigator
+---
+
 # Zeta Alpha
 
 {% embed url="https://search.zeta-alpha.com/" %}
