@@ -8,6 +8,8 @@ description: A Valuable Tool for Healthcare Professionals
 🔗 **Website:** [EvidenceHunt](https://evidencehunt.com/)
 {% endhint %}
 
+{% embed url="https://evidencehunt.com/" %}
+
 ## Introduction
 
 EvidenceHunt is an AI-powered clinical evidence search engine that helps healthcare professionals find the latest and most relevant evidence quickly and easily. It is based on a large dataset of clinical trials, systematic reviews, and other evidence sources, and uses artificial intelligence to identify and rank the most relevant results for each search query.
