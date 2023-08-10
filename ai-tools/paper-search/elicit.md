@@ -6,14 +6,7 @@ description: >-
 
 # Elicit
 
-
-
-{% hint style="success" %}
-🔗 **Website:** [Elicit](https://elicit.org/)
-{% endhint %}
-
 {% embed url="https://elicit.org/" %}
-
 
 ## Introduction
 
