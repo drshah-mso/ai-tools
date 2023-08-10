@@ -1,13 +1,12 @@
 ---
 description: >-
-  Abc
+  Discover and study research papers better with SciSpace copilot
 ---
 
 # SciSpace
 
-{% hint style="success" %}
-🔗 **Website:** [SciSpace](https://)
-{% endhint %}
+{% embed url="https://typeset.io/" %}
+
 
 ## Introduction
 
