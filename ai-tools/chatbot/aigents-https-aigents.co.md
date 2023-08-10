@@ -2,7 +2,7 @@
 description: https://aigents.co/
 ---
 
-# Aigents https://aigents.co/
+# Aigents
 
 Aigents is the largest career community for data scientists, machine learning engineers, and developers in Europe. Started in 2018, the community counts more than two million professionals in the computer science domain. It began its journey as a platform to connect the data science community but has outgrown itself to become a skill and career platform.
 
