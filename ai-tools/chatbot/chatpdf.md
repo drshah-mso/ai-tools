@@ -28,6 +28,4 @@ Additional details about ChatPDF:
 * It is powered by artificial intelligence.
 * It can be used with any PDF document.
 
-I hope this information is helpful! Let me know if you have any other questions.
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
