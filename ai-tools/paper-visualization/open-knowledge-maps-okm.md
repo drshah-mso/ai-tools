@@ -1,13 +1,13 @@
 ---
 description: >-
-  Abc
+  Map a research topic
 ---
 
 # Open Knowledge Maps (OKM)
 
-{% hint style="success" %}
-🔗 **Website:** [Open Knowledge Maps](https://openknowledgemaps.org/)
-{% endhint %}
+{% embed url="https://openknowledgemaps.org/" %}
+
+
 
 ## Introduction
 
