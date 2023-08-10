@@ -34,6 +34,7 @@
   * [ChatPDF](ai-tools/chatbot/chatpdf.md)
   * [PaperPal](ai-tools/chatbot/paperpal.md)
   * [Paper Brain](ai-tools/chatbot/paper-brain.md)
+  * [Explainpaper](ai-tools/chatbot/explainpaper.md)
 
 ***
 
