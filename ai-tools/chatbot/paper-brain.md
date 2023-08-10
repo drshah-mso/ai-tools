@@ -1,7 +1,5 @@
 # Paper Brain
 
-{% embed url="https://www.paperbrain.study/" %}
-
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 PaperBrain is a website that allows you to search for research papers on any topic or idea. You can enter a keyword, a title, or a question, and PaperBrain will show you relevant papers from various sources, such as arXiv, PubMed, Semantic Scholar, and more. You can also upload your own paper or document and PaperBrain will analyze it for you.
@@ -15,4 +13,3 @@ The GPT assistant can also help you with other tasks related to your study, such
 PaperBrain is a useful tool for anyone who wants to learn more about research papers and improve their academic skills. It can save you time and effort by providing you with easy access and understanding of research papers. It can also inspire you and spark your curiosity by showing you new and interesting papers on your topic of interest.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-
