@@ -1,7 +1,7 @@
 # Introduction
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+The **AI Tools for Literature Review** course is designed to provide participants with comprehensive knowledge and practical skills in utilizing artificial intelligence (AI) tools for conducting efficient and effective literature reviews.&#x20;
 {% endhint %}
 
 ## Overview
