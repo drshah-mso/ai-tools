@@ -30,7 +30,7 @@
   * [ChatGPT](ai-tools/chatbot/chatgpt.md)
   * [Bing Chat AI](ai-tools/chatbot/bing-chat-ai.md)
   * [Perplexity AI](ai-tools/chatbot/perplexity-ai.md)
-  * [Aigents https://aigents.co/](ai-tools/chatbot/aigents-https-aigents.co.md)
+  * [Aigents](ai-tools/chatbot/aigents-https-aigents.co.md)
   * [ChatPDF](ai-tools/chatbot/chatpdf.md)
   * [PaperPal](ai-tools/chatbot/paperpal.md)
   * [Paper Brain](ai-tools/chatbot/paper-brain.md)
