@@ -1,5 +1,6 @@
 # Paper Brain
 
+
 {% embed url="https://www.paperbrain.study/" %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
