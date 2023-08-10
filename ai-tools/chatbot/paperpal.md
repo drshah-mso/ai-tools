@@ -1,5 +1,7 @@
 # PaperPal
 
+{% embed url="https://paperpal.com/" %}
+
 Paperpal is an AI academic writing tool for researchers that refines your work with real-time suggestions to improve your writing. While other English language checks focus on spellings, punctuation issues, and grammar mistakes, Paperpal goes deeper with consistency checks, rewrites, contextual synonyms, and academic translation! From the first draft to manuscript submission, we have you covered.
 
 <figure><img src="../../.gitbook/assets/paperpal.jpeg" alt="" width="563"><figcaption></figcaption></figure>
