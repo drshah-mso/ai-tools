@@ -1,14 +1,13 @@
 ---
 description: >-
-  Reimagine Research
+  Abc
 ---
 
 # ResearchRabbit
 
-{% embed url="https://www.researchrabbit.ai/" %}
-
-
-
+{% hint style="success" %}
+🔗 **Website:** [ResearchRabbit](https://)
+{% endhint %}
 
 ## Introduction
 

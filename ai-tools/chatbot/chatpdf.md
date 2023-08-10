@@ -1,6 +1,6 @@
 # ChatPDF
 
-{% embed url="https://www.chatpdf.com/" %}
+{% embed url="https://https://www.chatpdf.com/" fullWidth="false" %}
 
 ChatPDF is a web app that allows you to chat with your PDF documents as if they were human. It uses artificial intelligence to analyze the PDF and create a semantic index of every paragraph. When you ask a question, ChatPDF will use the relevant paragraphs to give you an answer.
 
