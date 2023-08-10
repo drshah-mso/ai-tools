@@ -1,5 +1,7 @@
 # Paper Brain
 
+<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+
 PaperBrain is a website that allows you to search for research papers on any topic or idea. You can enter a keyword, a title, or a question, and PaperBrain will show you relevant papers from various sources, such as arXiv, PubMed, Semantic Scholar, and more. You can also upload your own paper or document and PaperBrain will analyze it for you.
 
 One of the main advantages of PaperBrain is that it provides you with abstracts and summaries of each paper, so you can quickly get an overview of the main points and findings. You can also access the full PDF of the paper with one click, without having to deal with annoying pop-ups or downloads.
