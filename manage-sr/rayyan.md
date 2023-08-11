@@ -1,5 +1,7 @@
 # Rayyan
 
+{% embed url="https://www.rayyan.ai/" %}
+
 Rayyan AI is an AI-powered tool that helps researchers find, screen, and analyze research papers. It was developed by the Qatar Computing Research Institute, funded by the Qatar Foundation, a nonprofit that supports education, science, research, and community development initiatives in Qatar.
 
 Rayyan AI works by first understanding the user's research question. It then uses its AI to search for relevant research papers from a variety of sources, including PubMed, Web of Science, and Google Scholar. The papers are then screened for relevance and quality, and the user is presented with a list of the most relevant papers.
