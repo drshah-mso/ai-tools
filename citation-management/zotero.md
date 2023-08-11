@@ -48,4 +48,8 @@ To create a quick bibliography:
 
 ​Zotero offers [word processing plugins](http://www.zotero.org/documentation/word\_processor\_integration) for Word and OpenOffice. The plugin adds a Zotero toolbar to your word processor that allows you to add citations to your document while you write.
 
+{% embed url="https://www.youtube.com/watch?v=JG7Uq_JFDzE" %}
+
+
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
