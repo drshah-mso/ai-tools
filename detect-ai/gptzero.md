@@ -16,11 +16,9 @@ However, concerns have been raised about the potential misuse of these models fo
 
 [GPTZero](https://gptzero.me/) is an AI text analyzer tool developed by Edward Tian, a computer science graduate, to help instructors distinguish plagiarized text from original work. The tool checks perplexity and burstiness in a text to determine whether it is artificially generated or crafted by a human.
 
-{% code overflow="wrap" %}
-```
+
 GPTZero is a classification model that predicts whether a document was written by a large language model, providing predictions on a sentence, paragraph, and document level. GPTZero was trained on a large, diverse corpus of human-written and AI-generated text, with a focus on English prose.
-```
-{% endcode %}
+
 
 {% embed url="https://www.youtube.com/watch?v=pUg2R2AIoFc" %}
 
