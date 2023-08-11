@@ -5,7 +5,7 @@ description: >-
 
 # ResearchRabbit
 
-Reimagine Research
+{% embed url="https://www.researchrabbit.ai/" %}
 
 ## Introduction
 
