@@ -21,3 +21,5 @@ Such a repository helps the world in various ways, such as through:
 * Enhanced cooperation and utilization across related resources (such as [ClinicalTrials.gov ](https://clinicaltrials.gov/));
 * More efficient means of producing and updating systematic reviews; and
 * Facilitation of other novel avenues of inquiry, such as those investigating research methodology (e.g., comparing different types of outcomes across disciplines, or comparing methodological quality of studies based on funding sources) by concentrating relevant data into one readily available resource.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
