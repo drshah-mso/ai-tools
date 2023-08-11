@@ -1,5 +1,7 @@
 # Writer.com
 
+{% embed url="https://writer.com/" %}
+
 Writer.com is a web-based platform that helps writers find the best words, stick to a specific message, and correct grammatical errors. It is designed to help writers of all levels improve their writing skills.
 
 Writer.com offers a variety of features to help writers improve their writing, including:
