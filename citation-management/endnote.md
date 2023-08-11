@@ -55,4 +55,8 @@ EndNote Desktop is also designed to work with a word processor, such as MS Word 
 
 * [Download the CWYW Plug-In](https://www.myendnoteweb.com/EndNoteWeb.html?func=downloadInstallers&)The CWYW Plug-in is available through EndNote Web. It also automatically installs when you download EndNote Desktop.
 
+{% embed url="https://www.youtube.com/watch?v=vGQ5Lwlr0ak" %}
+
+{% embed url="https://www.youtube.com/watch?v=XpqGuIJbP2I" %}
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
