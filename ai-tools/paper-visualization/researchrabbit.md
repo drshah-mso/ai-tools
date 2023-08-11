@@ -1,11 +1,11 @@
 ---
 description: >-
-  Abc
+  Reimagine Research
 ---
 
 # ResearchRabbit
 
-{% embed url="https://openknowledgemaps.org/" %}
+Reimagine Research
 
 ## Introduction
 
