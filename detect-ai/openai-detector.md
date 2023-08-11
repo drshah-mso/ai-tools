@@ -24,3 +24,6 @@ Here are some additional details about OpenAI Detector:
 * It was developed by OpenAI, a research company that is focused on developing safe and beneficial artificial intelligence.
 * It is based on a large language model that has been trained on a massive dataset of text and code.
 * It is still under development, but it has been shown to be effective at identifying AI-generated text.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+
