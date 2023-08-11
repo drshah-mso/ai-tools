@@ -21,13 +21,6 @@ This book provides an overview of the use of AI tools for literature reviews. It
 
 The book is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.
 
-
-
-Belum buat:
-
-1. Teach Anything (https://www.teach-anything.com)&#x20;
-2. Experai (https://www.experai.com)
-
 ## Quick links
 
 {% content-ref url="ai-tools/paper-search/elicit.md" %}
