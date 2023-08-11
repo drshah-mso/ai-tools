@@ -10,7 +10,7 @@ Teach Anything is a website that uses artificial intelligence (AI) to teach you 
 
 Teach Anything is still under development, but it has the potential to be a powerful learning tool. It can be used to learn about any topic, from math and science to history and literature. It can also be used to improve your writing skills and learn new languages.
 
-Here are some of the features of Teach Anything:
+Features of Teach Anything:
 
 * It can teach you anything in seconds.
 * It can answer your questions in any language.
