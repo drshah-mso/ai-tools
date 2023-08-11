@@ -6,6 +6,8 @@ description: >-
 
 # SRDR+ (AHRQ)
 
+{% embed url="https://srdrplus.ahrq.gov/" %}
+
 SRDR+ is a free, powerful, easy to use tool for data extraction, management, and archival during systematic reviews.
 
 In an effort to reduce the burden of conducting systematic reviews, researchers and developers at the Brown University Evidence-based Practice Center (EPC) (previously at Tufts Medical Center), with support from the [Agency for Healthcare Research and Quality (AHRQ) ](https://www.ahrq.gov/) developed a collaborative, Web-based repository of systematic review data. This resource serves as both an archive and data extraction tool and is shared among organizations and individuals producing systematic reviews worldwide, enabling the creation of a central database of systematic review data which may be critiqued, updated, and augmented on an ongoing basis. This database is freely accessible to facilitate evidence reviews and thus improve and speed up policy-making with regards to healthcare.
