@@ -4,6 +4,8 @@ description: Teach you Anything in seconds
 
 # Teach Anything
 
+{% embed url="https://www.teach-anything.com/" %}
+
 Teach Anything is a website that uses artificial intelligence (AI) to teach you anything in seconds. You can write your question in any language and select the difficulty level, and Teach Anything will generate an answer for you. The answers are concise and clear, with examples to help you understand the concepts.
 
 Teach Anything is still under development, but it has the potential to be a powerful learning tool. It can be used to learn about any topic, from math and science to history and literature. It can also be used to improve your writing skills and learn new languages.
