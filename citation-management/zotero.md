@@ -6,9 +6,9 @@ description: Your personal research assistant
 
 {% embed url="https://www.zotero.org/" %}
 
-### What is Zotero?
-
 ![](https://libapps.s3.amazonaws.com/accounts/936/images/figure\_2.2\_Zotero\_for\_Mac\_standalone.png)
+
+### What is Zotero?
 
 [Zotero](http://www.zotero.org/) (pronounced "zoh-TAIR-oh") is an application that collects, manages, and cites research sources. It's easy to use, connects with your web browser to download sources, and best of all it's free.
 
