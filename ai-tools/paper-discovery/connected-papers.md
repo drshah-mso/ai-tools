@@ -1,5 +1,7 @@
 # Connected Papers
 
+{% embed url="https://www.connectedpapers.com/" %}
+
 Connected Papers is a web-based platform that allows users to explore the connections between different research papers. It was founded in 2016 by a team of researchers from the University of Edinburgh.
 
 Connected Papers works by analyzing the citations between research papers. This allows it to create a network of papers that are connected to each other. The network can be used to explore the connections between different papers, identify gaps in the literature, and find new research opportunities.
