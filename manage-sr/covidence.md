@@ -6,7 +6,7 @@ description: Better systematic review management
 
 {% embed url="https://www.covidence.org" %}
 
-Covidence is an online systematic review management tool that allows for independent title/abstract screening, full text screening, data extraction and risk of bias assessment. It is currently free.
+Covidence is an online software tool designed to streamline the process of conducting a systematic review (or a similarly detailed literature review such as a meta-analysis). It is currently free. You can use Covidence to collaborate with a team of reviewers to screen results (at both title/abstract and full text stages), complete data extraction and work on risk of bias.
 
 {% embed url="https://www.youtube.com/watch?v=0Zjjkoz7KG4" %}
 
