@@ -22,3 +22,5 @@ Benefits of using Corrector.app:
 * **It is easy to use:** Corrector.app is a web-based platform that can be accessed from any device with an internet connection. This makes it easy to use, regardless of your location or device.
 * **It is accurate:** Corrector.app uses a variety of techniques to detect and correct errors, including a grammar checker, a spelling checker, and a style checker. This ensures that your writing is accurate and error-free.
 * **It is affordable:** Corrector.app is a free service, but it offers a premium plan that provides additional features. This makes it an affordable option for both personal and professional use.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
