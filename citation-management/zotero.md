@@ -6,6 +6,7 @@ description: Your personal research assistant
 
 {% embed url="https://www.zotero.org/" %}
 
+
 <div data-full-width="false">
 
 <figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure\_2.2\_Zotero\_for\_Mac\_standalone.png" alt="" width="563"><figcaption></figcaption></figure>
