@@ -41,7 +41,6 @@
   * [GPTZero](detect-ai/gptzero.md)
   * [Open AI Text Classifier](detect-ai/open-ai-text-classifier.md)
   * [Copyleaks](detect-ai/copyleaks.md)
-  * [SciSpace](detect-ai/scispace.md)
   * [Hive Moderation](detect-ai/hive-moderation.md)
   * [Content as Scale](detect-ai/content-as-scale.md)
   * [Hello-SimpleAI](detect-ai/hello-simple-ai.md)
