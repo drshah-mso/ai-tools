@@ -1,4 +1,4 @@
-# colandr
+# Colandr
 
 ## What is Colandr?&#x20;
 
@@ -11,3 +11,5 @@ Colandr Webinar
 ## How does Colandr work?&#x20;
 
 Colandr uses machine learning to facilitate evidence synthesis. The initial setup of Colandr is essential in ensuring these capabilities and full functionality. This guide aims to describe the major steps in detail. Visit colandrapp.com to get started.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
