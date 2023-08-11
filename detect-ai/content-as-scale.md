@@ -23,3 +23,6 @@ Along this journey, it made sense for us to develop an AI detection model for ou
 {% embed url="https://www.youtube.com/watch?v=zA0Gf-GsXEQ" %}
 Content At Scale Review 2023: Best AI Blog Writer In 2023?
 {% endembed %}
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
