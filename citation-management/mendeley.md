@@ -50,4 +50,9 @@ Once the citation plugin has been installed, citations can easily be added to do
 
 After at least one citation has been added to your document, select the **Insert Bibliography** option add the bibliography. If more citations are added, click the **Referesh** option to update the bibliography.
 
+{% embed url="https://youtu.be/5Mz02_xmLRs" %}
+
+{% embed url="https://www.youtube.com/watch?v=OzFHGFnAM2Q" %}
+
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
