@@ -9,7 +9,7 @@
 
 </div>
 
-### What is EndNote?
+## What is EndNote?
 
 EndNote is a popular reference management program.
 
@@ -24,7 +24,7 @@ Use EndNote Desktop on the device you use most often; log in to EndNote Web from
 
 To learn more about EndNote, please visit the [EndNote @ Pitt](http://pitt.libguides.com/endnote) guide
 
-### Managing Citations
+## Managing Citations
 
 Use the Groups menu or the Group section in your library to:
 
@@ -34,7 +34,7 @@ Use the Groups menu or the Group section in your library to:
 
 You can share individual references with colleagues in EndNote Desktop by choosing the mail icon to share a PDF or right-clicking the reference and selecting E-mail reference.
 
-### Creating a Bibliography
+## Creating a Bibliography
 
 When you export from a library, EndNote Desktop creates a file of references formatted according to the chosen style.
 
