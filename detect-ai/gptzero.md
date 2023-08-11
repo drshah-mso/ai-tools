@@ -4,6 +4,8 @@ description: An AI Tool to Detect Plagiarized Text
 
 # GPTZero
 
+{% embed url="https://gptzero.me/" %}
+
 GPT (Generative Pre-trained Transformer) is a popular class of language models developed by OpenAI that has revolutionized natural language processing tasks such as language translation, question answering, and text completion. GPT models are trained on large datasets of text to generate human-like responses to various prompts, making them useful for a wide range of applications.
 
 However, concerns have been raised about the potential misuse of these models for generating fake news, spam, and other undesirable content. To address this issue, OpenAI has proposed a hypothetical version of their GPT model called [GPTzero](https://gptzero.me/), which has zero pre-existing parameters or weights, making it a blank slate that can be trained from scratch.
