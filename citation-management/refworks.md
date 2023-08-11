@@ -78,4 +78,31 @@ Before you start using RefWorks, you need to create an account and [login here](
 
 Of course, RefWorks has other features and capabilities that you can use. The basic thing to remember is that RefWorks will be useful if you want to store citations and to collaborate with other researchers in writing your manuscript. It is a handy and convenient tool for citations.
 
+### **RefWorks Videos**
+
+*   [![Video Icon](https://libapps.s3.amazonaws.com/customers/395/images/Video\_icon\_arrow.png)](https://www.youtube.com/watch?v=J5905oxj02U\&list=PLyN7Mmvg\_0odPDamAc5anVah56yS-mkxV)
+
+    [**Getting started with RefWorks**](https://www.youtube.com/watch?v=J5905oxj02U\&list=PLyN7Mmvg\_0odPDamAc5anVah56yS-mkxV)
+
+This 8 videos playlist will provide you all the necessary information on the main RefWorks features, such as functionality, exporting references, organizing them or writing with RefWorks.
+
+***
+
+*   [![Video Icon](https://libapps.s3.amazonaws.com/customers/395/images/Video\_icon\_arrow.png)](https://www.youtube.com/watch?v=v6ORsIDtNPk\&list=PLyN7Mmvg\_0ocjWJiNLK3tgdHT8uMiARf0)
+
+    [**Advanced RefWorks features**](https://www.youtube.com/watch?v=v6ORsIDtNPk\&list=PLyN7Mmvg\_0ocjWJiNLK3tgdHT8uMiARf0)
+
+This four-video playlist will guide you through some advanced RefWorks features: editing citation styles, collaboration & Projects
+
+*   [![Video Icon](https://libapps.s3.amazonaws.com/customers/395/images/Video\_icon\_arrow.png)](https://www.youtube.com/watch?v=BFdBFi0xaT0)
+
+    [**RefWorks Administration – Settings Checklist**](https://www.youtube.com/watch?v=BFdBFi0xaT0)
+
+This training video for RefWorks administrators will cover the administration settings that are available for RefWorks institutions, as well as methods to promote RefWorks at your institution.
+
+### **Quick User Guides**
+
+* [**RefWorks user guide (pdf)**](https://knowledge.exlibrisgroup.com/@api/deki/files/108341/RefWorks\_User\_Guide\_2021\_-\_6\_pages.pdf?revision=2)
+* [**RefWorks user guide (customizable .doc):**](https://knowledge.exlibrisgroup.com/@api/deki/files/108345/RefWorks\_User\_Guide\_2021\_-\_Customizable\_6\_pages.docx?revision=1)
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
