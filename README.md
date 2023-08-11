@@ -25,9 +25,8 @@ The book is intended for researchers who are interested in learning more about t
 
 Belum buat:
 
-1. PapersGPT (https://jessezhang.org/llmdemo)&#x20;
-2. Teach Anything (https://www.teach-anything.com)&#x20;
-3. Experai (https://www.experai.com)
+1. Teach Anything (https://www.teach-anything.com)&#x20;
+2. Experai (https://www.experai.com)
 
 ## Quick links
 

@@ -35,6 +35,7 @@
   * [Paper Brain](ai-tools/chatbot/paper-brain.md)
   * [Explainpaper](ai-tools/chatbot/explainpaper.md)
   * [PaperGPT](ai-tools/chatbot/papergpt.md)
+  * [Teach Anything](ai-tools/chatbot/teach-anything.md)
 
 ***
 
