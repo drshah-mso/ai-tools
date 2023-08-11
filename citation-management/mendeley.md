@@ -2,6 +2,12 @@
 
 {% embed url="https://www.mendeley.com/" %}
 
+<div data-full-width="false">
+
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/mendeley2.JPG" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
 Mendeley is a reference manager and academic social network that can help you organize your research, collaborate with others online, and discover the latest research.
 
 ### Use Mendeley to:
