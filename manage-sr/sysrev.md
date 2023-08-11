@@ -1,5 +1,7 @@
 # SysRev
 
+{% embed url="https://sysrev.com/" %}
+
 SysRev is a collaborative platform for managing the screening and data extraction phases of a systematic review, map or other knowledge synthesis project. It includes a powerful machine learning algorithm trained during the screening process and aiding in the bulk exclusion of low relevance research. SysRev provides both free and paid versions, which allow for public and private projects, respectively. Access SysRev at this link: [https://sysrev.com/](https://sysrev.com/)[.](http://rayyan.qcri.org/)\\
 
 In today’s technological world, data is perhaps the single most important driver of a business’ success. Access to relevant data allows businesses to make a variety of informed decisions. Unfortunately, acquiring this data can be quite cumbersome as employees spend countless hours manually reviewing documents. This is especially true for more complex reviews such as journal publications, patient records, or technical specifications. Sysrev offers enterprise a platform for managing collaborative document reviews, injecting machine learning into the review process to increase accuracy and efficiency. Depending on the data source and task, Sysrev can even automate data extraction.
