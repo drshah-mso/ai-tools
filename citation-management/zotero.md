@@ -6,9 +6,14 @@ description: Your personal research assistant
 
 {% embed url="https://www.zotero.org/" %}
 
-![](https://libapps.s3.amazonaws.com/accounts/936/images/figure\_2.2\_Zotero\_for\_Mac\_standalone.png)
+<div data-full-width="false">
 
-### What is Zotero?
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure\_2.2\_Zotero\_for\_Mac\_standalone.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+
+## What is Zotero?
 
 [Zotero](http://www.zotero.org/) (pronounced "zoh-TAIR-oh") is an application that collects, manages, and cites research sources. It's easy to use, connects with your web browser to download sources, and best of all it's free.
 
@@ -24,7 +29,7 @@ Zotero will allow you to:
 
 For more information about Zotero, please visit the [Zotero @ Pitt](http://pitt.libguides.com/zotero) guide.
 
-### Managing Citations
+## Managing Citations
 
 Create collections to organize your references. Collections are like file folders on your computer, but a reference can be in more than one collection at a time. To create a collection:
 
@@ -32,7 +37,7 @@ Create collections to organize your references. Collections are like file folder
 * Subcollections can be created by right clicking a collection name
 * Click and drag references to add them to collections and subcollections
 
-### Creating a Bibliography
+## Creating a Bibliography
 
 To create a quick bibliography:
 
