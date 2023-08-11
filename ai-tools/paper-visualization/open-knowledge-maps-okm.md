@@ -1,6 +1,5 @@
 ---
-description: >-
-  Map a research topic
+description: A visual interface to the world's scientific knowledge
 ---
 
 # Open Knowledge Maps (OKM)
