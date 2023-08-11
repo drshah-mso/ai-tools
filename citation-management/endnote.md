@@ -1,7 +1,10 @@
+---
+description: Accelerate your research
+---
+
 # EndNote
 
 {% embed url="https://endnote.com/" %}
-
 
 <div data-full-width="false">
 
@@ -42,7 +45,7 @@ When you export from a library, EndNote Desktop creates a file of references for
 2. From the File menu, select Export. Or select the Export icon from the library menu.
 3. From the Save File as Type list, select the type of file to be exported.
 4. From the Output style list, select a style (or choose Select another style to choose from all available output styles).
-5. Select the Export Selected References option if desired. If you want to export all of the references in the current  list, clear the check box.
+5. Select the Export Selected References option if desired. If you want to export all of the references in the current list, clear the check box.
 6. Enter a name for the exported file and use the Save Inlist to specify where it should be saved and use the triangle button to allow you to browse to the appropriate folder and specify where the file should be saved.
    * Note: The Export feature creates a new file; it does not append to an existing file. If you enter the name of a file that already exists, that file will be overwritten.
 7. Click Save. (It is best to keep the assigned file extensions as part of the exported file name.)

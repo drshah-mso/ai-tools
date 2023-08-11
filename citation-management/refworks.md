@@ -1,3 +1,7 @@
+---
+description: Making research easier
+---
+
 # RefWorks
 
 {% embed url="https://refworks.proquest.com/" %}
