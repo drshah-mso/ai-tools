@@ -15,3 +15,5 @@ Here are some of the features of Teach Anything:
 * It can generate answers at different difficulty levels.
 * It provides concise and clear answers with examples.
 * It is still under development, but it has the potential to be a powerful learning tool.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
