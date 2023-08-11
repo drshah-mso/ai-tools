@@ -5,9 +5,7 @@ description: >-
 
 # ResearchRabbit
 
-{% hint style="success" %}
-🔗 **Website:** [ResearchRabbit](https://)
-{% endhint %}
+{% embed url="https://openknowledgemaps.org/" %}
 
 ## Introduction
 
