@@ -12,13 +12,13 @@ Sysrev, launched in June 2019, is an intelligent platform for document reviews a
 
 A document review is a process of reviewing documents (pdfs, paragraphs, word files, etc.) for relevant data according to a well-defined methodology. Each systematic review has four steps:
 
-1\. Set a clear Objective - what is the question being answered
+1. Set a clear Objective - what is the question being answered
 
-2\. Search for relevant documents
+2. Search for relevant documents
 
-3\. Screen documents and Extract data
+3. Screen documents and Extract data
 
-4\. Report results
+4. Report results
 
 The purpose of any document review is defined by its Objective. Once an Objective has been defined, reviewers must collect relevant literature and/or documents. Collecting documents is by no means a simple task. If some documents are missing then the resulting conclusions are tainted but collect too many documents and you waste time and money reviewing irrelevant documents. After the collection is complete, each document is reviewed for inclusion before relevant data is extracted. Inclusion criteria must be well-defined for accurate results. After the data has been extracted, the researchers report their results.
 
@@ -51,3 +51,6 @@ The [Gene Hunter App](https://sysrev.com/p/3144) uses the NER model developed by
 ![](https://www.biopharmatrend.com/files/uploads/2019/07/22/sysrev-4.png)
 
 Sysrev is an intuitive and flexible platform for document reviews and associated tasks. Sysrev offers unique project management and machine learning technologies that optimize document reviews across entire teams or departments. Its ability to automate extraction tasks can drastically reduce the man-hours associated with data extraction tasks. Moreover, coupling automated data extraction with data streams or new data sources can result in powerful systems like the Gene Hunter App.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+
