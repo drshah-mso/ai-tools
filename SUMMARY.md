@@ -19,7 +19,6 @@
   * [R Discovery](ai-tools/paper-discovery/r-discovery.md)
   * [Bard AI](ai-tools/paper-discovery/bard-ai.md)
   * [Humata AI](ai-tools/paper-discovery/humata-ai.md)
-  * [Socratic AI](ai-tools/paper-discovery/sccratic-ai.md)
   * [Socrates-insights](ai-tools/paper-discovery/socrates-insights.md)
 * [Paper Visualization](ai-tools/paper-visualization/README.md)
   * [Inciteful](ai-tools/paper-visualization/inciteful.md)
