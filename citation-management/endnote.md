@@ -2,13 +2,14 @@
 
 {% embed url="https://endnote.com/" %}
 
-### What is EndNote?
 
 <div data-full-width="false">
 
 <figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/endnote3.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
+
+### What is EndNote?
 
 EndNote is a popular reference management program.
 
