@@ -39,12 +39,10 @@
 
 * [Detecting AI-Generated Content](detect-ai/README.md)
   * [GPTZero](detect-ai/gptzero.md)
-  * [Open AI Text Classifier](detect-ai/open-ai-text-classifier.md)
   * [Copyleaks](detect-ai/copyleaks.md)
   * [Hive Moderation](detect-ai/hive-moderation.md)
   * [Content at Scale](detect-ai/content-at-scale.md)
   * [Hello-SimpleAI](detect-ai/hello-simple-ai.md)
-  * [OpenAI Detector](detect-ai/openai-detector.md)
   * [Corrector.app](detect-ai/corrector.app.md)
   * [Writer.com](detect-ai/writer.com.md)
 * [Managing a Systematic Review](manage-sr/README.md)
