@@ -6,11 +6,7 @@ description: Empowering Originality and Inspiring Authenticity
 
 {% embed url="https://copyleaks.com/ai-content-detector" %}
 
-
-
-Overview
-
-
+## Overview
 
 Verify what content was written by a human or an AI chatbot with the AI Content Detector Chrome extension from Copyleaks.
 
@@ -42,27 +38,26 @@ In under 10 seconds, the AI text detection tool analyzed over 600 words and gave
 
 <figure><img src="../.gitbook/assets/copyleaks.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Installation&#x20;
+### Installation
 
 Simply follow these steps:
 
-✅ Click ‘Add to Chrome’.&#x20;
+✅ Click ‘Add to Chrome’.
 
-✅ Click on the extensions icon, and pin the AI Content Detector Extension to the extensions bar.&#x20;
+✅ Click on the extensions icon, and pin the AI Content Detector Extension to the extensions bar.
 
-✅ Login via Google or Facebook.&#x20;
+✅ Login via Google or Facebook.
 
 ✅ Start using the AI Content Detector Extension anywhere your internet browsing may take you by highlighting the text you want to verify and then clicking the extension icon.
 
 ## Recent new features include
 
-⭐ The ability to detect GPT-4 and Bard&#x20;
+⭐ The ability to detect GPT-4 and Bard
 
-⭐ Detection of paraphrased AI text, making Copyleaks the only platform capable of detecting paraphrased AI content.&#x20;
+⭐ Detection of paraphrased AI text, making Copyleaks the only platform capable of detecting paraphrased AI content.
 
-⭐ A newly integrated confidence rating adds another layer of transparency.&#x20;
+⭐ A newly integrated confidence rating adds another layer of transparency.
 
 ⭐ Across the board accuracy improvements.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-
