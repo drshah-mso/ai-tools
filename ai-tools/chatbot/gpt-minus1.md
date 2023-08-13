@@ -1,5 +1,7 @@
 # GPT-Minus1
 
+{% embed url="https://www.gptminus1.com/" %}
+
 GPT-Minus1 is a tool that can be used to fool AI detectors by randomly replacing words in a text with synonyms. It is designed to help writers create variations of their text for more creative and interesting writing.
 
 GPT-Minus1 works by using a list of synonyms to replace words in a text. The words are replaced randomly, but the synonyms are chosen to be as close in meaning to the original word as possible. This makes it difficult for AI detectors to identify the text as being AI-generated.
