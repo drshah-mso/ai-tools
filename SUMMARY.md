@@ -37,9 +37,6 @@
   * [GPT-Minus1](ai-tools/chatbot/gpt-minus1.md)
   * [QuillBot](ai-tools/chatbot/quillbot.md)
   * [Spinbot](ai-tools/chatbot/spinbot.md)
-
-***
-
 * [Text Summarizers](text-summarizers/README.md)
   * [TLDR This](text-summarizers/tldr-this.md)
   * [Scholarcy](text-summarizers/scholarcy.md)
