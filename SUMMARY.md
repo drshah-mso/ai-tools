@@ -26,6 +26,7 @@
   * [VOSviewer](ai-tools/paper-visualization/vosviewer.md)
   * [CiteSpace](ai-tools/paper-visualization/citespace.md)
   * [Gephi](ai-tools/paper-visualization/gephi.md)
+  * [Bibliometrix](ai-tools/paper-visualization/bibliometrix.md)
 * [Chatbot and Assistance](ai-tools/chatbot/README.md)
   * [ChatGPT](ai-tools/chatbot/chatgpt.md)
   * [Bing Chat AI](ai-tools/chatbot/bing-chat-ai.md)
