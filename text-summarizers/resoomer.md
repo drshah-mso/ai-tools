@@ -26,3 +26,5 @@ The summary will be displayed in a new window. You can then copy and paste the s
 Resoomer is a great way to save time on reading and to get the gist of a long document quickly. It is a free and easy-to-use tool that is perfect for students, researchers, and anyone else who wants to stay informed.
 
 {% embed url="https://www.youtube.com/watch?v=byBukWSDNZU" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
