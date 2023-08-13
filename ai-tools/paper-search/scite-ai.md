@@ -24,6 +24,8 @@ They can also write essays, grants, or paragraphs with the tool's assistance aft
 
 Users can search for competing evidence or summaries from related sources to expand on their research. The tool's website also mentions the ability for users to customize their settings and reject unnecessary cookies.
 
-Overall, Assistant by scite is a useful tool for researchers or students who need reliable research-backed information, easy access to research articles, and guidance on drafting essays or research papers.
+Assistant by scite is a useful tool for researchers or students who need reliable research-backed information, easy access to research articles, and guidance on drafting essays or research papers.
+
+{% embed url="https://www.youtube.com/watch?v=YJ6vbbVKZlg" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
