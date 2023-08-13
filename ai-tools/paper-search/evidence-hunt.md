@@ -56,8 +56,6 @@ The following are some of the search filters that are available:
 6. **Subscribe to weekly e-alerts.** You can subscribe to weekly e-alerts to stay up-to-date on the latest clinical evidence. To subscribe to e-alerts, enter your email address in the **Subscribe to E-Alerts** section of the website.
 7. **Use the Help section.** If you have any questions about how to use EvidenceHunt, you can use the Help section of the website. The Help section includes a variety of resources, such as FAQs, tutorials, and videos.
 
-
-
 <figure><img src="../../.gitbook/assets/eh2.jpeg" alt="" width="375"><figcaption><p>Queries</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/eh3.jpeg" alt=""><figcaption><p>Comparison with PubMed</p></figcaption></figure>
@@ -70,7 +68,7 @@ Advanced search techniques that you can use with EvidenceHunt:
 
 * **Boolean search:** Boolean search is a way to combine search terms using logical operators, such as AND, OR, and NOT. For example, the search query "(pain AND headache) OR fever" would return studies that mention either pain and headache, or fever.
 * **Phrase searching:** Phrase searching allows you to search for a specific phrase, such as "treatment for migraine." This will ensure that the search results only include studies that mention the phrase "treatment for migraine" in that order.
-* **Wildcard searching:** Wildcard searching allows you to use a wildcard character, such as _, to represent any number of characters. For example, the search query "head_ache" would return studies that mention headache, headaches, or headache pain.
+* **Wildcard searching:** Wildcard searching allows you to use a wildcard character, such as \_, to represent any number of characters. For example, the search query "head\_ache" would return studies that mention headache, headaches, or headache pain.
 
 Tips for using advanced search techniques:
 
@@ -135,7 +133,7 @@ You give the patient a copy of the study that you found on EvidenceHunt. You als
 
 The patient is started on clopidogrel and she does not have another heart attack. She is able to continue her normal activities and she is satisfied with her care.
 
-### Case Study 2&#x20;
+### Case Study 2
 
 How EvidenceHunt can help a computer science researcher doing research in thyroid disease
 
@@ -199,4 +197,4 @@ If you want to learn more about EvidenceHunt, here are some resources:
 * **EvidenceHunt Facebook:** The EvidenceHunt Facebook page is a great way to connect with other users of EvidenceHunt. The page features posts about new studies, research methods, and clinical applications.
 * **EvidenceHunt YouTube channel:** The EvidenceHunt YouTube channel is a great way to learn about EvidenceHunt through video tutorials. The channel features videos on a variety of topics, including how to use EvidenceHunt, how to critically evaluate evidence, and how to make evidence-based decisions.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
