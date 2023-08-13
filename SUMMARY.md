@@ -12,6 +12,7 @@
   * [Semantic Scholar](ai-tools/paper-search/semantic-scholar.md)
   * [Consensus.app](ai-tools/paper-search/consensus.app.md)
   * [scite.ai](ai-tools/paper-search/scite-ai.md)
+* [PubMed](ai-tools/pubmed.md)
 * [Paper Discovery](ai-tools/paper-discovery/README.md)
   * [Connected Papers](ai-tools/paper-discovery/connected-papers.md)
   * [Iris](ai-tools/paper-discovery/iris.md)
