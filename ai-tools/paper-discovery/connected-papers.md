@@ -22,4 +22,6 @@ Here are some additional details about Connected Papers:
 * It uses a variety of techniques to analyze the citations between research papers, including natural language processing and machine learning.
 * It is still under development, but it has been used by researchers from around the world.
 
+{% embed url="https://youtu.be/efQmSW24UKE" %}
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
