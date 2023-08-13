@@ -78,6 +78,7 @@
   * [RefWorks](citation-management/refworks.md)
   * [Zotero](citation-management/zotero.md)
   * [Mendeley](citation-management/mendeley.md)
+  * [Publish or Perish](ai-tools/citation-management/publish-or-perish.md)
 
 ## Fundamentals
 
