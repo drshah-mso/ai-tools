@@ -5,7 +5,7 @@
 
 ## AI Tools
 
-* [1⃣ Literature Search](ai-tools/paper-search/README.md)
+* [1 Literature Search](ai-tools/paper-search/README.md)
   * [Scopus](ai-tools/lit-search/scopus.md)
   * [Web of Science](ai-tools/lit-search/web-of-science.md)
   * [Google Scholar](ai-tools/lit-search/google-scholar.md)
@@ -16,7 +16,7 @@
   * [Semantic Scholar](ai-tools/paper-search/semantic-scholar.md)
   * [Consensus.app](ai-tools/paper-search/consensus.app.md)
   * [scite.ai](ai-tools/paper-search/scite-ai.md)
-* [2⃣ Paper Discovery](ai-tools/paper-discovery/README.md)
+* [2 Paper Discovery](ai-tools/paper-discovery/README.md)
   * [Connected Papers](ai-tools/paper-discovery/connected-papers.md)
   * [Iris](ai-tools/paper-discovery/iris.md)
   * [R Discovery](ai-tools/paper-discovery/r-discovery.md)
