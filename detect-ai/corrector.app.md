@@ -4,7 +4,7 @@
 
 Corrector.app is a web-based platform that helps users improve their writing by detecting and correcting grammar and spelling mistakes. It is designed to be easy to use and can be accessed from any device with an internet connection.
 
-<figure><img src="../.gitbook/assets/corrector.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/corrector.webp" alt="" width="563"></figure>
 
 Corrector.app uses a variety of techniques to detect and correct errors, including:
 

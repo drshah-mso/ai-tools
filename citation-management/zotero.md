@@ -9,7 +9,7 @@ description: Your personal research assistant
 
 <div data-full-width="false">
 
-<figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure_2.2_Zotero_for_Mac_standalone.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure_2.2_Zotero_for_Mac_standalone.png" alt="" width="563"></figure>
 
 </div>
 

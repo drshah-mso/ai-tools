@@ -8,7 +8,7 @@ description: AI Research Navigator
 
 Formally known as Zeta Alpha Vector BV, this [artificial intelligence](https://www.ai.nl/knowledge-base/what-is-artificial-intelligence/) (AI) startup was founded by Jakub Zavrel on May 1, 2019. The startup, according to Crunchbase, has raised around €1M in seed funding. In its three years of existence, the startup has been unique for its 100 per cent focus on AI and data science. Here is a look at how [Zeta Alpha](https://www.zeta-alpha.com/) is building a smarter way to discover and organise knowledge for AI and data science teams.
 
-<figure><img src="https://www.ai.nl/wp-content/uploads/2022/05/tags-page.9239f2382d997d2c82e3-1-1160x639.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://www.ai.nl/wp-content/uploads/2022/05/tags-page.9239f2382d997d2c82e3-1-1160x639.png" alt="" width="563"></figure>
 
 ### Discovering and Organising data remains a challenge <a href="#h-discovering-and-organising-data-remains-a-challenge" id="h-discovering-and-organising-data-remains-a-challenge"></a>
 

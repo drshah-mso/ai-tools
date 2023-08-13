@@ -8,7 +8,7 @@ description: Accelerate your research
 
 <div data-full-width="false">
 
-<figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/endnote3.JPG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/endnote3.JPG" alt="" width="563"></figure>
 
 </div>
 

@@ -10,7 +10,7 @@ GPT (Generative Pre-trained Transformer) is a popular class of language models d
 
 However, concerns have been raised about the potential misuse of these models for generating fake news, spam, and other undesirable content. To address this issue, OpenAI has proposed a hypothetical version of their GPT model called [GPTzero](https://gptzero.me/), which has zero pre-existing parameters or weights, making it a blank slate that can be trained from scratch.
 
-<figure><img src="../.gitbook/assets/GPTZero.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GPTZero.webp" alt="" width="563"></figure>
 
 ## What is GPTZero?
 

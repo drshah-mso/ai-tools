@@ -8,7 +8,7 @@ description: Mendeley brings your research to life, so you can make an impact on
 
 <div data-full-width="false">
 
-<figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/mendeley2.JPG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/925/images/mendeley2.JPG" alt="" width="563"></figure>
 
 </div>
 

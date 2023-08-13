@@ -30,7 +30,7 @@ Additional details about R Discovery:
 * The language model is trained on a massive dataset of research papers and patents.
 * R Discovery is still under development, but it is already being used by thousands of researchers around the world.
 
-<figure><img src="../../.gitbook/assets/rdiscovery.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rdiscovery.jpeg" alt="" width="563"></figure>
 
 {% embed url="https://youtu.be/8RmOeJ8zG2w" %}
 
