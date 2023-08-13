@@ -23,7 +23,7 @@
   * [Inciteful](ai-tools/paper-visualization/inciteful.md)
   * [ResearchRabbit](ai-tools/paper-visualization/researchrabbit.md)
   * [Open Knowledge Maps (OKM)](ai-tools/paper-visualization/open-knowledge-maps-okm.md)
-* [VOSviewer](ai-tools/vosviewer.md)
+  * [VOSviewer](ai-tools/paper-visualization/vosviewer.md)
 * [Chatbot and Assistance](ai-tools/chatbot/README.md)
   * [ChatGPT](ai-tools/chatbot/chatgpt.md)
   * [Bing Chat AI](ai-tools/chatbot/bing-chat-ai.md)
