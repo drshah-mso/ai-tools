@@ -13,6 +13,8 @@ Hive is the one-stop solution to protect your platform from harmful visual, audi
 * **User management:** Hive Moderation can manage user accounts and permissions. This helps businesses to control who has access to their platforms and to what content.
 * **Reporting:** Hive Moderation can generate reports on content moderation activity. This helps businesses to track the effectiveness of their moderation efforts and to identify any areas that need improvement.
 
+<figure><img src="https://hivemoderation.com/images/ac96edc.png" alt="" width="563"><figcaption></figcaption></figure>
+
 Hive Moderation is a powerful tool that can help businesses to moderate their online content effectively. It is a paid service, but it offers a free trial so you can try it out before you buy it.
 
 Here are some of the advantages of using Hive Moderation:
