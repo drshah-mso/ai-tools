@@ -43,6 +43,7 @@
   * [Spinbot](ai-tools/chatbot/spinbot.md)
   * [TLDR This](ai-tools/chatbot/tldr-this.md)
   * [Scholarcy](ai-tools/chatbot/scholarcy.md)
+  * [Resoomer](ai-tools/chatbot/resoomer.md)
 
 ***
 
