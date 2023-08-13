@@ -47,6 +47,7 @@
 
 ***
 
+* [Text Summarizers](text-summarizers.md)
 * [Detecting AI-Generated Content](detect-ai/README.md)
   * [GPTZero](detect-ai/gptzero.md)
   * [Copyleaks](detect-ai/copyleaks.md)
