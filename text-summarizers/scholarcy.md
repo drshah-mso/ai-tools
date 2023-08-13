@@ -20,3 +20,5 @@ The summary will be displayed in a new window. You can then copy and paste the s
 Scholarcy is a great way to save time on reading research documents and to get the gist of a document quickly. It is a free and easy-to-use tool that is perfect for researchers, students, and anyone else who wants to stay informed.
 
 {% embed url="https://www.youtube.com/watch?v=cQ9dOpirAQI" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
