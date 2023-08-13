@@ -23,12 +23,12 @@ The book is intended for researchers who are interested in learning more about t
 
 ## Quick links
 
-{% content-ref url="text-summarizers/elicit.md" %}
-[elicit.md](text-summarizers/elicit.md)
+{% content-ref url="ai-tools/lit-search/elicit.md" %}
+[elicit.md](ai-tools/lit-search/elicit.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-tools/paper-search/evidence-hunt.md" %}
-[evidence-hunt.md](ai-tools/paper-search/evidence-hunt.md)
+{% content-ref url="ai-tools/lit-search/evidence-hunt.md" %}
+[evidence-hunt.md](ai-tools/lit-search/evidence-hunt.md)
 {% endcontent-ref %}
 
 ## Get Started
