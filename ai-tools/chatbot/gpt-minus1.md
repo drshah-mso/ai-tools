@@ -24,3 +24,5 @@ Here are some of the limitations of GPT-Minus1:
 * It is not a replacement for human creativity, and it should not be used to create text that is intended to be passed off as human-generated.
 
 GPT-Minus1 is a useful tool for writers who want to create more creative and interesting text. It is easy to use and free to use, but it is important to be aware of its limitations.
+
+{% embed url="https://www.youtube.com/watch?v=_vja-XTuNRQ" %}
