@@ -33,3 +33,5 @@ Search is just one part of the data equation but the real ability of Zeta Alpha�
 The discovery part comes in via the ability to look beyond internal data sources and check external data sources such as “social media mentions, author influence, or code popularity.” The easiest way to understand Zeta Alpha’s discovery system would be to look at Google again. Whenever you search for something on Google, the search giant offers a combined search results first and granular search options like Shopping, News, etc atop.
 
 Zeta Alpha has a feature called ‘Find Similar’ that allows the user to query by example from documents or collections using other search operators and filters. Further, it also has system modules called visual analytics, two-dimensional maps to get a quick overview of a large body of documents. Expert search is a module that allows users to connect with internal or external experts which sounds a lot like LinkedIn.
+
+{% embed url="https://youtu.be/1t6oq1CKPTc" %}
