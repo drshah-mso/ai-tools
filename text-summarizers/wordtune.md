@@ -21,3 +21,5 @@ Here are some additional details about Wordtune:
 * It is a freemium tool, with a free plan that offers limited features and a paid plan that offers more features.
 
 {% embed url="https://youtu.be/rGsnkD0iEqo" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
