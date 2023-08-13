@@ -8,7 +8,6 @@ description: >-
 
 {% embed url="https://www.semanticscholar.org/" %}
 
-
 ## Introduction
 
 Semantic Scholar is a free AI-powered research tool that aggregates scientific literature from various fields of science, including nanotechnology and moral reasoning, and uses AI and engineering to understand the semantics of the research to help scholars discover relevant publications.
@@ -35,3 +34,4 @@ Here are some of the benefits of using Semantic Scholar:
 * **It can help you to evaluate the credibility of research papers.** Semantic Scholar provides tools for evaluating the credibility of papers, such as citation analysis and author reputation.
 * **It can help you to explore the connections between different papers.** Semantic Scholar provides a citation network that shows how papers are connected to each other. This can help you to identify gaps in the literature and to find new research opportunities.
 
+{% embed url="https://www.youtube.com/watch?v=FUVxIIfXSUo" %}
