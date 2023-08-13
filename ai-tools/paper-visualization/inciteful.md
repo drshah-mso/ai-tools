@@ -1,6 +1,5 @@
 ---
-description: >-
-  Find the most relevant literature, faster
+description: Find the most relevant literature, faster
 ---
 
 # Inciteful
@@ -23,5 +22,6 @@ Inciteful is under active development and our hope is that, over time, our tools
 
 Being built off the backs of free and open data, we commit to paying it forward by keeping our own tools free for everyone. To learn more, head over to our about page.
 
+{% embed url="https://www.youtube.com/watch?v=94bJm52XLZM" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
