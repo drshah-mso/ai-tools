@@ -24,3 +24,5 @@ Here are some of the advantages of using WoS:
 * **Features:** WoS offers a variety of features that are not available on free academic search engines, such as Google Scholar. These features include the ability to track citations, create bibliographies, analyze research trends, and visualize collaboration networks.
 
 {% embed url="https://www.youtube.com/watch?v=Tn7yrbL3CjM" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

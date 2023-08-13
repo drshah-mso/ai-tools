@@ -42,3 +42,5 @@ Here are some of the disadvantages of using PubMed:
 * **Can be slow:** PubMed can be slow, especially if you are searching for a large number of articles.
 
 {% embed url="https://www.youtube.com/watch?v=TBreqy7j7CE" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
