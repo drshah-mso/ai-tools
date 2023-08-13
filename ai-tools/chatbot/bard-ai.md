@@ -39,4 +39,6 @@ Bard is a powerful tool that can be used for literature review in a variety of w
 
 {% embed url="https://www.youtube.com/watch?v=d3Z_WwyOT10" %}
 
+{% embed url="https://www.youtube.com/watch?app=desktop&v=_Jt05XSgRwM" %}
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
