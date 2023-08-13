@@ -28,3 +28,5 @@ Here are some of the limitations of GPT-Minus1:
 GPT-Minus1 is a useful tool for writers who want to create more creative and interesting text. It is easy to use and free to use, but it is important to be aware of its limitations.
 
 {% embed url="https://www.youtube.com/watch?v=_vja-XTuNRQ" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
