@@ -25,3 +25,5 @@ Here are some additional details about TLDR This:
 * It uses a large language model to generate summaries.
 * The language model is trained on a massive dataset of text and code.
 * TLDR This is still under development, but it is already being used by millions of people around the world.
+
+{% embed url="https://youtu.be/3hKMwdhFXaY" %}
