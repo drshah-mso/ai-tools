@@ -40,6 +40,7 @@
   * [GPT-Minus1](ai-tools/chatbot/gpt-minus1.md)
   * [Wordtune](ai-tools/chatbot/wordtune.md)
   * [QuillBot](ai-tools/chatbot/quillbot.md)
+  * [Spinbot](ai-tools/chatbot/spinbot.md)
 
 ***
 
