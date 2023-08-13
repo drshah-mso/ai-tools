@@ -35,3 +35,5 @@ The discovery part comes in via the ability to look beyond internal data sources
 Zeta Alpha has a feature called ‘Find Similar’ that allows the user to query by example from documents or collections using other search operators and filters. Further, it also has system modules called visual analytics, two-dimensional maps to get a quick overview of a large body of documents. Expert search is a module that allows users to connect with internal or external experts which sounds a lot like LinkedIn.
 
 {% embed url="https://youtu.be/1t6oq1CKPTc" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
