@@ -16,7 +16,9 @@ Browse with confidence and verify the authenticity of posts on social media, new
 
 <figure><img src="../.gitbook/assets/copyleaks-ai.webp" alt="" width="563"><figcaption></figcaption></figure>
 
-## AI Content Detector Key Features
+{% embed url="https://www.youtube.com/watch?v=u2czGoNwa7M" %}
+
+### AI Content Detector Key Features
 
 Copyleaks boasts a remarkable 99.12% accuracy rate in identifying whether content has been created by humans or AI using its AI-powered plagiarism detector. The tool also supports multiple languages, including French, Spanish, German, and more.
 
@@ -59,5 +61,7 @@ Simply follow these steps:
 ⭐ A newly integrated confidence rating adds another layer of transparency.
 
 ⭐ Across the board accuracy improvements.
+
+{% embed url="https://www.youtube.com/watch?v=js9DUPSFJJ4" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
