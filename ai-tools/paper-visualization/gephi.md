@@ -46,6 +46,8 @@ Here are some of the advantages of using Gephi:
 * **Flexible:** Gephi is flexible and can be used to visualize and analyze a variety of networks.
 * **Community support:** Gephi has a large and active community of users who provide support and documentation.
 
+<figure><img src="https://gephi.org/images/screenshots/preview2.png" alt="" width="563"><figcaption></figcaption></figure>
+
 Here are some of the disadvantages of using Gephi:
 
 * **Complex:** Gephi can be complex to learn and use.
@@ -53,5 +55,7 @@ Here are some of the disadvantages of using Gephi:
 * **Not as user-friendly as some other tools:** Gephi is not as user-friendly as some other tools, such as VOSviewer.
 
 Ultimately, the best tool for you will depend on your specific needs and preferences. If you are looking for a powerful tool with a wide range of features, then Gephi may be a good option. However, if you are looking for a simple and easy-to-use tool, then you may want to consider another option.
+
+{% embed url="https://www.youtube.com/watch?t=1s&v=TFBkAO1MjnU" %}
 
 {% embed url="https://www.youtube.com/watch?v=GXtbL8avpik" %}
