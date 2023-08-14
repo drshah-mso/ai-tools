@@ -28,6 +28,10 @@ The best part here is that it allows you to ask follow-up questions. The screens
 
 <figure><img src="https://www.opensourceforu.com/wp-content/uploads/2023/01/Figure-12-Explainpaper-Followup-Question-1.png" alt="" width="375"><figcaption><p>Explainpaper Followup Question</p></figcaption></figure>
 
-Both Elicit and Explainpaper provide powerful features. They help research scholars to navigate literature effectively and understand papers easily. The friendly and natural interaction both these tools offer makes us feel like the future is already here!
+Explainpaper provide powerful features. They help research scholars to navigate literature effectively and understand papers easily. The friendly and natural interaction both these tools offer makes us feel like the future is already here!
+
+{% embed url="https://youtu.be/IG8PhL-ngnw" %}
+
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
