@@ -14,4 +14,20 @@ It also offers readers the chance to try out the tool on the paper that started 
 
 Explainpaper makes it easier for readers to gain a comprehensive understanding of the paper’s content.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+Explainpaper enables the scholar to understand the contents of a research paper. The workflow is very simple here:
+
+* Upload a paper
+* Highlight a confusing text
+* Get an explanation
+
+In the home page, you can simply click on Upload Paper and select the PDF of a research paper. The Explainpaper interface will be ready in a few seconds. In this interface you can highlight any text and get explanations for it in simple to understand terms.
+
+<figure><img src="https://www.opensourceforu.com/wp-content/uploads/2023/01/Figure-11-Explain-Paper-Sample-1.png" alt="" width="563"><figcaption><p>Sample paper interaction</p></figcaption></figure>
+
+The best part here is that it allows you to ask follow-up questions. The screenshot demonstrates a follow up question and the answer rendered by Explainpaper. Explainpaper is also based on GPT-3 and the initial reviews are really good. It has the potential to become a must-have tool in the near future.
+
+<figure><img src="https://www.opensourceforu.com/wp-content/uploads/2023/01/Figure-12-Explainpaper-Followup-Question-1.png" alt="" width="375"><figcaption><p>Explainpaper Followup Question</p></figcaption></figure>
+
+Both Elicit and Explainpaper provide powerful features. They help research scholars to navigate literature effectively and understand papers easily. The friendly and natural interaction both these tools offer makes us feel like the future is already here!
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
