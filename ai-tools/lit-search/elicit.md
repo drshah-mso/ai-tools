@@ -16,6 +16,8 @@ Elicit is an AI-powered tool that assists researchers in searching for relevant 
 
 Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers.
 
+<figure><img src="https://www.opensourceforu.com/wp-content/uploads/2023/01/Figure-2-Elicit-Workflow-Features.png" alt="" width="563"><figcaption><p>Elicit literature review workflow features</p></figcaption></figure>
+
 While answering questions with research is the main focus of Elicit, there are also other research tasks that help with brainstorming, summarization, and text classification.
 
 ### **Features: Elicit AI Key Offerings**
