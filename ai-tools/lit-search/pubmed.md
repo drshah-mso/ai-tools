@@ -39,12 +39,6 @@ Here are some of the advantages of using PubMed:
 * **Accurate:** PubMed is a reliable source of information, as it is curated by the NLM.
 * **Up-to-date:** PubMed is updated daily with new citations.
 
-Here are some of the disadvantages of using PubMed:
-
-* **Can be overwhelming:** PubMed can be overwhelming, as it contains a large amount of data.
-* **Not all articles are full-text:** Not all articles in PubMed are available in full-text.
-* **Can be slow:** PubMed can be slow, especially if you are searching for a large number of articles.
-
 {% embed url="https://www.youtube.com/watch?v=TBreqy7j7CE" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
