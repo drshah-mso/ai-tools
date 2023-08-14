@@ -6,12 +6,16 @@ description: Visualizing scientific landscapes
 
 This is a software tool for constructing and visualizing bibliometric networks such as journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 
+<figure><img src="https://www.vosviewer.com/media/images/content/ea30284dd349a3651f465ac581592983_large.png" alt="" width="563"><figcaption></figcaption></figure>
+
 VOSviewer can be used to:
 
 * **Visualize bibliometric networks:** VOSviewer can be used to visualize bibliometric networks in a variety of ways, such as graphs, maps, and timelines. This makes it easier to understand the relationships between different concepts.
 * **Identify key players:** VOSviewer can be used to identify key players in a research field by looking at the number of papers they have published, the number of citations they have received, and the number of collaborations they have formed.
 * **Identify emerging trends:** VOSviewer can be used to identify emerging trends in a research field by looking at the number of papers that have been published on a particular topic in recent years.
 * **Analyze the impact of a research paper:** VOSviewer can be used to analyze the impact of a research paper by looking at the number of citations it has received and the number of times it has been used in other papers.
+
+<figure><img src="https://www.vosviewer.com/media/images/content/a85a6c4ea4be8fe712929d0ecff44b58_large.png" alt="" width="563"><figcaption></figcaption></figure>
 
 VOSviewer is a powerful tool that can be used to visualize and analyze bibliometric networks. It is free and open-source, which makes it accessible to everyone.
 
