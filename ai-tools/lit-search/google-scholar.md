@@ -67,13 +67,13 @@ Clicking on the title link will bring you to the publisher’s page where you ma
 
 #### Quick full text-access options <a href="#quick-full-text-access-options" id="quick-full-text-access-options"></a>
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar quick link to PDF" height="115" width="700"><figcaption><p>For some entries Google Scholar provides a link to the full text (either PDF or HTML).</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-pdf-links-1400x230.png" alt="Google Scholar quick link to PDF" height="115" width="700"><figcaption><p>For some entries Google Scholar provides a link to the full text (either PDF or HTML).</p></figcaption></figure>
 
 To the far right of the entry are more direct options for obtaining the full text of the document. In this example, Google has also located a publicly available PDF of the document hosted at [umich.edu](http://umich.edu/). Note, that it's not guaranteed that it is the version of the article that was finally published in the journal.
 
 #### "Cited by" count and other useful links <a href="#cited-by-count-and-other-useful-links" id="cited-by-count-and-other-useful-links"></a>
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar: more action links" height="115" width="700"><figcaption><p>Additional action likes to retrieve formatted citations in popular formats such as APA, MLA, and Chicago, and to assess cited by and related articles.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-actions-1400x230.png" alt="Google Scholar: more action links" height="115" width="700"><figcaption><p>Additional action likes to retrieve formatted citations in popular formats such as APA, MLA, and Chicago, and to assess cited by and related articles.</p></figcaption></figure>
 
 Below the text snippet/abstract you can find a number of useful links.
 
