@@ -83,7 +83,7 @@ Cited by and other links
 2. **Versions**: this link will display other versions of the article or other databases where the article may be found, some of which may offer free access to the article.
 3. **Quotation mark icon**: this will display a popup with commonly used citation formats such as MLA, APA, Chicago, Harvard, and Vancouver that may be copied and pasted. Note, however, that the Google Scholar citation data is sometimes incomplete and so it is often a good idea to check this data at the source. The "cite" popup also includes links for exporting the citation data as [BibTeX](https://en.wikipedia.org/wiki/BibTeX) or [RIS](https://en.wikipedia.org/wiki/RIS\_\(file\_format\)) files that any major reference manager can import.
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar citation panel" height="508" width="700"><figcaption><p>Google Scholar allows to retrieve formatted citations in popular formats such as APA, MLA, Chicago, Harvard and Vancouver.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-citation-panel-1400x1017.png" alt="Google Scholar citation panel" height="508" width="700"><figcaption><p>Google Scholar allows to retrieve formatted citations in popular formats such as APA, MLA, Chicago, Harvard and Vancouver.</p></figcaption></figure>
 
 ### Tips for searching Google scholar <a href="#tips-for-searching-google-scholar" id="tips-for-searching-google-scholar"></a>
 
