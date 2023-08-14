@@ -54,11 +54,11 @@ Although it is free to search in Google Scholar, most of the content is not free
 
 The Google Scholar results page differs from the Google results page in a few key ways. The search result page is, however, different and it is worth being familiar with the different pieces of information that are shown. Let's have a look at the results for the search term "machine learning.”
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-results-1400x651.png" alt="Google Scholar search results page" height="325" width="700"><figcaption><p>Google Scholar search results using the keywords "machine" and "learning"</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-results-1400x651.png" alt="Google Scholar search results page" width="563"><figcaption><p>Google Scholar search results using the keywords "machine" and "learning"</p></figcaption></figure>
 
 #### The first two lines: core bibliographic information <a href="#the-first-two-lines-core-bibliographic-information" id="the-first-two-lines-core-bibliographic-information"></a>
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-result-entry-1400x230.png" alt="Google Scholar single search result entry" height="115" width="700"><figcaption><p>The first two lines of a Google Scholar search results entry show the core bibliographic information: Title, authors, journal name, year of publication</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-result-entry-1400x230.png" alt="Google Scholar single search result entry" width="563"><figcaption><p>The first two lines of a Google Scholar search results entry show the core bibliographic information: Title, authors, journal name, year of publication</p></figcaption></figure>
 
 1. The first line of each result provides the title of the document (e.g. of an article, book, chapter, or report).
 2. The second line provides the bibliographic information about the document, in order: the author(s), the journal or book it appears in, the year of publication, and the publisher.
@@ -67,13 +67,13 @@ Clicking on the title link will bring you to the publisher’s page where you ma
 
 #### Quick full text-access options <a href="#quick-full-text-access-options" id="quick-full-text-access-options"></a>
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-pdf-links-1400x230.png" alt="Google Scholar quick link to PDF" height="115" width="700"><figcaption><p>For some entries Google Scholar provides a link to the full text (either PDF or HTML).</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-pdf-links-1400x230.png" alt="Google Scholar quick link to PDF" width="563"><figcaption><p>For some entries Google Scholar provides a link to the full text (either PDF or HTML).</p></figcaption></figure>
 
 To the far right of the entry are more direct options for obtaining the full text of the document. In this example, Google has also located a publicly available PDF of the document hosted at [umich.edu](http://umich.edu/). Note, that it's not guaranteed that it is the version of the article that was finally published in the journal.
 
 #### "Cited by" count and other useful links <a href="#cited-by-count-and-other-useful-links" id="cited-by-count-and-other-useful-links"></a>
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-actions-1400x230.png" alt="Google Scholar: more action links" height="115" width="700"><figcaption><p>Additional action likes to retrieve formatted citations in popular formats such as APA, MLA, and Chicago, and to assess cited by and related articles.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-actions-1400x230.png" alt="Google Scholar: more action links" width="563"><figcaption><p>Additional action likes to retrieve formatted citations in popular formats such as APA, MLA, and Chicago, and to assess cited by and related articles.</p></figcaption></figure>
 
 Below the text snippet/abstract you can find a number of useful links.
 
@@ -83,7 +83,7 @@ Cited by and other links
 2. **Versions**: this link will display other versions of the article or other databases where the article may be found, some of which may offer free access to the article.
 3. **Quotation mark icon**: this will display a popup with commonly used citation formats such as MLA, APA, Chicago, Harvard, and Vancouver that may be copied and pasted. Note, however, that the Google Scholar citation data is sometimes incomplete and so it is often a good idea to check this data at the source. The "cite" popup also includes links for exporting the citation data as [BibTeX](https://en.wikipedia.org/wiki/BibTeX) or [RIS](https://en.wikipedia.org/wiki/RIS\_\(file\_format\)) files that any major reference manager can import.
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-citation-panel-1400x1017.png" alt="Google Scholar citation panel" height="508" width="700"><figcaption><p>Google Scholar allows to retrieve formatted citations in popular formats such as APA, MLA, Chicago, Harvard and Vancouver.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-citation-panel-1400x1017.png" alt="Google Scholar citation panel" width="563"><figcaption><p>Google Scholar allows to retrieve formatted citations in popular formats such as APA, MLA, Chicago, Harvard and Vancouver.</p></figcaption></figure>
 
 ### Tips for searching Google scholar <a href="#tips-for-searching-google-scholar" id="tips-for-searching-google-scholar"></a>
 
@@ -139,7 +139,7 @@ In case you got overwhelmed by the above options, here’s some illustrative exa
 
 You can gain even more fine-grained control over your search by using the advanced search feature. This feature is available by clicking on the hamburger menu in the upper left and selecting the "Advanced search" menu item.
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-advanced-search-1400x1041.png" alt="Google Scholar advanced search" height="520" width="700"><figcaption><p>Google Scholar advanced search interface.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-advanced-search-1400x1041.png" alt="Google Scholar advanced search" width="375"><figcaption><p>Google Scholar advanced search interface.</p></figcaption></figure>
 
 ### Customizing search preferences and options <a href="#customizing-search-preferences-and-options" id="customizing-search-preferences-and-options"></a>
 
@@ -162,10 +162,9 @@ All the search results include a “save” button at the end of the bottom row 
 
 To help you provide some structure, you can create and apply labels to the items in your library. Appended labels will appear at the end of the article titles. For example, the following article has been assigned a “RNA” label:
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-labels-1400x286.png" alt="Google Scholar  my library entry with label" height="143" width="700"><figcaption><p>A Google Scholar My Library entry with a label termed RNA.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-labels-1400x286.png" alt="Google Scholar  my library entry with label" width="563"><figcaption><p>A Google Scholar My Library entry with a label termed RNA.</p></figcaption></figure>
 
 Within your Google Scholar library, you can also edit the metadata associated with titles. This will often be necessary as Google Scholar citation data is often faulty.
-
 
 {% embed url="https://www.youtube.com/watch?v=XGlPITAmRmE" %}
 
