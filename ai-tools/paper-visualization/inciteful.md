@@ -14,9 +14,13 @@ Unlike a traditional search engine, citations are the cornerstone of all of our 
 
 To date we have two tools. Paper Discovery and the Literature Connector. More tools are actively under development.
 
+<figure><img src="https://d4.alternativeto.net/VBv1o19snZBJiKQ3TMg2Gx3DR0PluW8aAdkE_XBrCds/rs:fit:1200:1200:0/g:ce:0:0/YWJzOi8vZGlzdC9zL2luY2l0ZWZ1bF8xMzU1OTZfZnVsbC5qcGc.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 The Paper Discovery tool builds a network of papers from citations, uses network analysis algorithms to analyze the network, and gives you the information you need to quickly get up to speed on that topic. You can find the most similar papers, important papers as well as prolific authors and institutions.
 
 Our second tool was the Literature Connector. Intended for interdisciplinary scholars trying to bridge two domains, it allows you to enter two papers and it will give you an interactive visualization showing you how they are connected by the literature. From there you can send the papers you find into our Paper Discovery tool to find other relevant literature which happened to not be the "shortest path" between the two papers.
+
+<figure><img src="https://d4.alternativeto.net/BmfixYOwlD6LN1t5BuAe--uGtb3f2NuZ8zEyciUNrsE/rs:fit:1200:1200:0/g:ce:0:0/YWJzOi8vZGlzdC9zL2luY2l0ZWZ1bF80Njg5MDhfZnVsbC5wbmc.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Inciteful is under active development and our hope is that, over time, our tools will build upon each other giving you an unrivaled experience for quickly discovering new literature.
 
