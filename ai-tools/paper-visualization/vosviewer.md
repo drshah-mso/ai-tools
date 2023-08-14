@@ -22,6 +22,4 @@ Here are some of the features of VOSviewer:
 * **Network analysis:** VOSviewer can be used to analyze bibliometric networks by looking at the number of papers, authors, and institutions in the network. It can also be used to identify key players and emerging trends.
 * **Network export:** VOSviewer can export bibliometric networks in a variety of formats, such as PDF, PNG, and SVG files. This makes it possible to share bibliometric networks with others.
 
-I hope this helps! Let me know if you have any other questions.
-
 {% embed url="https://www.youtube.com/watch?v=VW9Z6pqfqjY" %}
