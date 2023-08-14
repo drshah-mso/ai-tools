@@ -139,7 +139,7 @@ In case you got overwhelmed by the above options, here’s some illustrative exa
 
 You can gain even more fine-grained control over your search by using the advanced search feature. This feature is available by clicking on the hamburger menu in the upper left and selecting the "Advanced search" menu item.
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar advanced search" height="520" width="700"><figcaption><p>Google Scholar advanced search interface.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-advanced-search-1400x1041.png" alt="Google Scholar advanced search" height="520" width="700"><figcaption><p>Google Scholar advanced search interface.</p></figcaption></figure>
 
 ### Customizing search preferences and options <a href="#customizing-search-preferences-and-options" id="customizing-search-preferences-and-options"></a>
 
@@ -158,17 +158,13 @@ The settings menu is found in the hamburger menu located in the top left of the 
 
 When signed in, Google Scholar adds some simple tools for keeping track of and organizing the articles you find. These can be useful if you are not using a full academic reference manager.
 
-Organize your papers in one place. Try Paperpile.No credit card needed[Get 30 days free](https://paperpile.com/g/google-scholar-guide/)
-
 All the search results include a “save” button at the end of the bottom row of links, clicking this will add it to your "My Library".
 
 To help you provide some structure, you can create and apply labels to the items in your library. Appended labels will appear at the end of the article titles. For example, the following article has been assigned a “RNA” label:
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar  my library entry with label" height="143" width="700"><figcaption><p>A Google Scholar My Library entry with a label termed RNA.</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-labels-1400x286.png" alt="Google Scholar  my library entry with label" height="143" width="700"><figcaption><p>A Google Scholar My Library entry with a label termed RNA.</p></figcaption></figure>
 
 Within your Google Scholar library, you can also edit the metadata associated with titles. This will often be necessary as Google Scholar citation data is often faulty.
-
-\
 
 
 {% embed url="https://www.youtube.com/watch?v=XGlPITAmRmE" %}
