@@ -54,11 +54,11 @@ Although it is free to search in Google Scholar, most of the content is not free
 
 The Google Scholar results page differs from the Google results page in a few key ways. The search result page is, however, different and it is worth being familiar with the different pieces of information that are shown. Let's have a look at the results for the search term "machine learning.”
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar search results page" height="325" width="700"><figcaption><p>Google Scholar search results using the keywords "machine" and "learning"</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-results-1400x651.png" alt="Google Scholar search results page" height="325" width="700"><figcaption><p>Google Scholar search results using the keywords "machine" and "learning"</p></figcaption></figure>
 
 #### The first two lines: core bibliographic information <a href="#the-first-two-lines-core-bibliographic-information" id="the-first-two-lines-core-bibliographic-information"></a>
 
-<figure><img src="https://paperpile.com/g/google-scholar-guide/null" alt="Google Scholar single search result entry" height="115" width="700"><figcaption><p>The first two lines of a Google Scholar search results entry show the core bibliographic information: Title, authors, journal name, year of publication</p></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-search-result-entry-1400x230.png" alt="Google Scholar single search result entry" height="115" width="700"><figcaption><p>The first two lines of a Google Scholar search results entry show the core bibliographic information: Title, authors, journal name, year of publication</p></figcaption></figure>
 
 1. The first line of each result provides the title of the document (e.g. of an article, book, chapter, or report).
 2. The second line provides the bibliographic information about the document, in order: the author(s), the journal or book it appears in, the year of publication, and the publisher.
