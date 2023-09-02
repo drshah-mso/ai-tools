@@ -11,6 +11,8 @@ Obsidian is a personal knowledge base and note-taking software application that 
 
 <figure><img src="https://obsidian.md/images/screenshot-1.0-hero-combo.png" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facebcfee-e9fa-42f1-8893-30a050734f29_3584x2186.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+
 Some of the features of Obsidian include:
 
 * A single-file system that makes it easy to keep your notes organized and portable.
