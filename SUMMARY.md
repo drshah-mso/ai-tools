@@ -34,6 +34,7 @@
   * [Bibliometrix](ai-tools/paper-visualization/bibliometrix.md)
 * [4⃣ Chatbot and Assistance](ai-tools/chatbot/README.md)
   * [ChatGPT](ai-tools/chatbot/chatgpt.md)
+  * [ArxivGPT](ai-tools/chatbot/arxivgpt.md)
   * [Bard AI](ai-tools/chatbot/bard-ai.md)
   * [Bing Chat AI](ai-tools/chatbot/bing-chat-ai.md)
   * [Perplexity AI](ai-tools/chatbot/perplexity-ai.md)

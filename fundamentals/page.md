@@ -39,17 +39,17 @@ Luckily you can use both - as scite integrates into google scholar.
 
 This combination of google scholar and scite.ai is a great way to find the first few papers. Their citations and references will give us access to all the other relevant papers (Step 3).
 
-I am making a workshop on this workflow, if you are inclined to learn more and would like a demo and to ask questions. Saturday, March 18th on zoom.
-
-[The Effortless Lit Review Workshop](https://effortlesslitreview.carrd.co/)
-
 ### 2. Analyze abstracts with AI
 
-A while ago I [tweeted](https://twitter.com/Artifexx/status/1625439999356289027) about how to use ChatGPT to read abstracts using a little known plugin called ArxivGPT.
+ArxivGPT is a Google Chrome extension that helps you quickly understand the content of arXiv papers. It uses a large language model, also known as a conversational AI or chatbot trained to be informative and comprehensive. ArxivGPT is trained on a massive dataset of arXiv papers, and it can summarize the content of a paper in a few sentences, highlighting the key ideas and concepts.
+
+To use ArxivGPT, simply install the extension and open an arXiv paper in your browser. The extension will automatically detect the paper and generate a summary. You can also click on the extension icon to manually generate a summary.
+
+ArxivGPT is a useful tool for researchers, students, and anyone who wants to stay informed about the latest developments in their field. It can save you time and help you quickly grasp the main ideas of a paper.
 
 With a little bit of creativity you can use ArxivGPT not to summarize abstracts but to ask it to RATE them.
 
-People are weary of using ChatGPT in science, because it creates [fake citations](https://twitter.com/Artifexx/status/1614892859601178625), doesn’t [know math](https://twitter.com/DataChaz/status/1612419857235984393) and is [over confident](https://www.reddit.com/r/ChatGPT/comments/10jshk5/why\_is\_chat\_gpt\_confident\_in\_every\_answer/).
+People are weary of using ChatGPT in science, because it creates fake citations, doesn’t know math and is [over confident](https://www.reddit.com/r/ChatGPT/comments/10jshk5/why\_is\_chat\_gpt\_confident\_in\_every\_answer/).
 
 But ChatGPT is good at one thing: Comparing text.
 
@@ -57,7 +57,7 @@ If you design your prompts to describe what you are looking for and then add the
 
 In this example I used a simple prompt and asked it to rate for relevance. And indeed the results are spot-on!
 
-
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16cb53e2-71a4-4444-8f47-d2e2281dc2d5_2536x1348.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 This allows me to screen papers for relevance. You can ask ANY question that could be answered from the abstract and without domain knowledge.
 
@@ -68,9 +68,11 @@ There are so many way this workflow can be used:
 * Identify what the authors themselves see as potential limitations (discussion)
 * Summarize in different formats (keywords, bullets, sentences)
 
-In the upcoming workshop on Literatur Review, you will learn even more ways to use this, to integrate and automate it. I would love to see you there.
+{% embed url="https://youtu.be/2da3JKYO-Uc?si=WjuQkyXCoAjfOTCu" %}
+ArxivGPT - Free Chrome Extension to Summarize Arxiv Papers using ChatGPT
+{% endembed %}
 
-[Effortless Literature Review Workshop](https://effortlesslitreview.carrd.co/)
+{% embed url="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/" %}
 
 ### 3. Growing your collection
 
