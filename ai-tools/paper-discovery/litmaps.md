@@ -36,8 +36,6 @@ Litmaps can help users to visualize the relationships between different papers, 
 * **Share your research:** Litmaps can help you to share your research with others. You can export your maps to PDF or share them directly through Litmaps.
 * **Stay up-to-date:** Litmaps can help you to stay up-to-date on your research topic by monitoring new papers that are published. This can help you to ensure that you are always aware of the latest research in your field.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faec858a9-6199-4f85-8d87-863e51223cbc_1200x1098.jpeg" alt="" width="563"><figcaption></figcaption></figure>
-
 Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. If you are looking for a way to improve your research process, then I highly recommend using Litmaps.
 
 Here are some additional benefits of using Litmaps:
