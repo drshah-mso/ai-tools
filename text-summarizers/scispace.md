@@ -23,6 +23,8 @@ In addition, it offers an array of templates to choose from for papers, flexible
 
 SciSpace is a powerful tool that can help researchers to manage their research workflow efficiently. It is a paid service, but it offers a free trial so you can try it out before you buy it.
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35246f20-051f-43ea-aac6-7e127a78c0dd_1280x1157.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+
 Here are some of the advantages of using SciSpace:
 
 * **Accurate:** SciSpace is a reliable tool that can help you manage your research workflow accurately. It has a number of features that can help you to find research, collaborate with others, and track the impact of your research.
