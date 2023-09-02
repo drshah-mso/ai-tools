@@ -4,10 +4,10 @@
 
 Obsidian is a note-taking and knowledge management software application. It is a single-file, open-source application that runs on Windows, macOS, and Linux. Obsidian uses a wiki-style format for storing notes, which allows for easy linking and organization. It also supports a variety of plugins that extend its functionality.
 
-Obsidian is a personal knowledge base and note-taking software application that operates on Markdown files. It allows users to make internal links for notes and then to visualize the connections as a graph. It is designed to help users organize and structure their thoughts and knowledge in a flexible, non-linear way. The software is free for personal use, with commercial licenses available for pay.\
-
+Obsidian is a personal knowledge base and note-taking software application that operates on Markdown files. It allows users to make internal links for notes and then to visualize the connections as a graph. It is designed to help users organize and structure their thoughts and knowledge in a flexible, non-linear way. The software is free for personal use, with commercial licenses available for pay.
 
 <figure><img src="https://obsidian.md/images/screenshot-1.0-hero-combo.png" alt="" width="563"><figcaption></figcaption></figure>
+
 
 Some of the features of Obsidian include:
 
