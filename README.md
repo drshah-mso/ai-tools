@@ -1,4 +1,4 @@
-# Introduction
+# 🎆 Introduction
 
 {% hint style="info" %}
 The **AI Tools for Literature Review** course is designed to provide participants with comprehensive knowledge and practical skills in utilizing artificial intelligence (AI) tools for conducting efficient and effective literature reviews.&#x20;
@@ -23,28 +23,28 @@ The book is intended for researchers who are interested in learning more about t
 
 ## Quick links
 
-{% content-ref url="text-summarizers/elicit.md" %}
-[elicit.md](text-summarizers/elicit.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="ai-tools/paper-search/evidence-hunt.md" %}
-[evidence-hunt.md](ai-tools/paper-search/evidence-hunt.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/effortless-lr/" %}
-[effortless-lr](fundamentals/effortless-lr/)
+{% content-ref url="fundamentals/effortless-lr.md" %}
+[effortless-lr.md](fundamentals/effortless-lr.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/effortless-lr/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/effortless-lr/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/effortless-lr/inviting-members.md" %}
-[inviting-members.md](fundamentals/effortless-lr/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

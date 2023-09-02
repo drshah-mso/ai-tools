@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1⃣ Introduction](README.md)
+* [🎆 Introduction](README.md)
   * [Systematic reviews](readme/systematic-reviews.md)
 
 ## AI Tools
@@ -83,11 +83,5 @@
 
 ## Fundamentals
 
-* [Effortless Literature Review](fundamentals/effortless-lr/README.md)
-  * [Setting permissions](fundamentals/effortless-lr/setting-permissions.md)
-  * [Inviting Members](fundamentals/effortless-lr/inviting-members.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers.md)
-* [For Developers](use-cases/for-developers.md)
+* [Effortless Literature Review](fundamentals/effortless-lr.md)
+* [Page](fundamentals/page.md)
