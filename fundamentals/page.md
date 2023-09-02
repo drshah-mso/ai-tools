@@ -12,6 +12,10 @@ This seems like many steps - but you probably know some of them already. The eff
 
 ### 1. Finding “Seeds”
 
+{% content-ref url="../ai-tools/lit-search/google-scholar.md" %}
+[google-scholar.md](../ai-tools/lit-search/google-scholar.md)
+{% endcontent-ref %}
+
 The old ways of finding papers is to “google” them, e.g. on Google Scholar or Arxiv.
 
 If you search for “yeast” you may find papers on:
@@ -29,6 +33,10 @@ Google would usually rank higher cited papers at the top. Molecular biology and 
 
 Scite.ai (20$/mo) can help here by hinting at the _**importance**_ of individual papers. It can tell you how often a paper has been supported or contrasted.
 
+{% content-ref url="../ai-tools/lit-search/scite-ai.md" %}
+[scite-ai.md](../ai-tools/lit-search/scite-ai.md)
+{% endcontent-ref %}
+
 Papers with supporting claims are not “just mentioned” but actually validated. So the connection in our publication network is stronger and thus indicated relevance.
 
 Luckily you can use both - as scite integrates into google scholar.
@@ -41,6 +49,10 @@ This combination of google scholar and scite.ai is a great way to find the first
 
 ### 2. Analyze abstracts with AI
 
+{% content-ref url="../ai-tools/chatbot/chatgpt/arxivgpt.md" %}
+[arxivgpt.md](../ai-tools/chatbot/chatgpt/arxivgpt.md)
+{% endcontent-ref %}
+
 ArxivGPT is a Google Chrome extension that helps you quickly understand the content of arXiv papers. It uses a large language model, also known as a conversational AI or chatbot trained to be informative and comprehensive. ArxivGPT is trained on a massive dataset of arXiv papers, and it can summarize the content of a paper in a few sentences, highlighting the key ideas and concepts.
 
 To use ArxivGPT, simply install the extension and open an arXiv paper in your browser. The extension will automatically detect the paper and generate a summary. You can also click on the extension icon to manually generate a summary.
@@ -50,6 +62,10 @@ ArxivGPT is a useful tool for researchers, students, and anyone who wants to sta
 With a little bit of creativity you can use ArxivGPT not to summarize abstracts but to ask it to RATE them.
 
 People are weary of using ChatGPT in science, because it creates fake citations, doesn’t know math and is [over confident](https://www.reddit.com/r/ChatGPT/comments/10jshk5/why\_is\_chat\_gpt\_confident\_in\_every\_answer/).
+
+{% content-ref url="../ai-tools/chatbot/chatgpt/" %}
+[chatgpt](../ai-tools/chatbot/chatgpt/)
+{% endcontent-ref %}
 
 But ChatGPT is good at one thing: Comparing text.
 
@@ -68,19 +84,13 @@ There are so many way this workflow can be used:
 * Identify what the authors themselves see as potential limitations (discussion)
 * Summarize in different formats (keywords, bullets, sentences)
 
-{% embed url="https://youtu.be/2da3JKYO-Uc?si=WjuQkyXCoAjfOTCu" %}
-ArxivGPT - Free Chrome Extension to Summarize Arxiv Papers using ChatGPT
-{% endembed %}
-
-{% embed url="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/" %}
-
 ### 3. Growing your collection
 
 Once you have acquired a few seed papers, it is time to start exploring the citation network. Go through the list of _**references**_ at the end of your seed paper and you will find all the papers _**in the past**_.
 
 The problem here is that you can only go back in time - not forward.
 
-
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5952b9a4-46ad-41ba-bedd-43f8094d6c60_2432x1574.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 References are easy to find, but they only look into the past. We need _**citations**_ to find out how the field has developed since.
 
@@ -90,7 +100,11 @@ Today the journal method is outdated. There are tools to find everything much mo
 
 My all-time favourite tool for the job is [Litmaps](https://litmaps.com/). In [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review) I described how we can use it, so I won’t go into too much detail here. But to give you an overview, this is how it looks:
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa192169-f81f-4d67-a1e5-5b96b3fc5b36_2533x2300.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
+{% content-ref url="../ai-tools/paper-discovery/litmaps.md" %}
+[litmaps.md](../ai-tools/paper-discovery/litmaps.md)
+{% endcontent-ref %}
 
 **Seed maps** in Litmaps show us all publications related (references and citations) to a _**single**_ publication. They are an effortless way of discovery where we don’t have to drill through references lists.
 
