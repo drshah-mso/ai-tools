@@ -186,3 +186,5 @@ Concepts on the other hand are abstract and only a very recent evolutionary deve
 Literature Review is central to any researcher and also the most time consuming part of science.
 
 Tools and polished workflows can cut the time you spend on it. They can help you create an overview, identify debates and “hot topics”.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
