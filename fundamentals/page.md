@@ -4,13 +4,11 @@
 
 Literature review does not need to be time consuming or confusing. Effortlessly find literature, use AI to screen for relevance and "3-step-filtering" to find the top 10% papers in your collection.
 
-Let’s look at the whole process and then go into details:
-
-This seems like many steps - but you probably know some of them already. The effortlessness comes from integrating them with one another and leveraging the synergy between them.
-
 Let’s look at the steps:
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d992c96-21a0-44e5-9f0e-ff87b85e8d88_2954x3369.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+
+This seems like many steps - but you probably know some of them already. The effortlessness comes from integrating them with one another and leveraging the synergy between them.
 
 ### 1. Finding “Seeds”
 
@@ -23,7 +21,7 @@ If you search for “yeast” you may find papers on:
 * Medical science (yeast as infection)
 * Evolution (yeast by itself)
 
-
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b1097c-bb36-4c12-9906-1b48ec051e1f_2954x2037.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 Google would usually rank higher cited papers at the top. Molecular biology and medicine are huge domains. So effectively you will find much less on evolution.
 
@@ -35,7 +33,7 @@ Papers with supporting claims are not “just mentioned” but actually validate
 
 Luckily you can use both - as scite integrates into google scholar.
 
-
+<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fd548e0-960f-4ddd-9aef-557f0f4abc1a_2536x909.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 [Scite.ai](https://scite.ai/) will also allow us to find where and how exactly a paper is mentioned (i.e. let us see the mentioning snippet). It is an amazing tool that integrates well with the rest of the academic tool eco system.
 
