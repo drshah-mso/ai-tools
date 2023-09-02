@@ -174,7 +174,8 @@ Concepts on the other hand are abstract and only a very recent evolutionary deve
 
 1. ## [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review)
 2. ## [Adding AI to your Academic Workflow](https://ilyashabanov.substack.com/p/adding-ai-to-your-academic-workflow)
-3.  ## [Spotting the Gap in the Literature](https://ilyashabanov.substack.com/p/spotting-the-gap-in-the-literature)
+3. ## [Spotting the Gap in the Literature](https://ilyashabanov.substack.com/p/spotting-the-gap-in-the-literature)
+4.  ## [Academic Planning Masterclass](https://ilyashabanov.substack.com/p/academic-planning-masterclass)
 
     \
 

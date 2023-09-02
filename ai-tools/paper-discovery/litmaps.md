@@ -24,7 +24,7 @@ Litmaps can also be helpful for finding new papers that are relevant to your res
 
 Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
 
-<figure><img src="../../.gitbook/assets/Litmaps1.jpeg" alt="" width="563"></figure>
+<figure><img src="../../.gitbook/assets/Litmaps1.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Benefits of using Litmaps?**
 
@@ -35,6 +35,8 @@ Litmaps can help users to visualize the relationships between different papers, 
 * **Prioritize your reading list:** Litmaps can help you prioritize your reading list by ranking your papers in order of importance. This can help you to focus on the most important papers and to avoid getting bogged down in irrelevant papers.
 * **Share your research:** Litmaps can help you to share your research with others. You can export your maps to PDF or share them directly through Litmaps.
 * **Stay up-to-date:** Litmaps can help you to stay up-to-date on your research topic by monitoring new papers that are published. This can help you to ensure that you are always aware of the latest research in your field.
+
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faec858a9-6199-4f85-8d87-863e51223cbc_1200x1098.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 Litmaps is a powerful tool that can help researchers to find, organize, visualize, and share their research literature. If you are looking for a way to improve your research process, then I highly recommend using Litmaps.
 
@@ -71,11 +73,11 @@ Additional tips for getting started with Litmaps:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Litmaps2.jpeg" alt=""></figure>
+<figure><img src="../../.gitbook/assets/Litmaps2.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Litmaps3.jpeg" alt=""></figure>
+<figure><img src="../../.gitbook/assets/Litmaps3.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
