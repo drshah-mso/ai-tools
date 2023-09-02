@@ -35,8 +35,8 @@ The book is intended for researchers who are interested in learning more about t
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/effortless-lr.md" %}
-[effortless-lr.md](fundamentals/effortless-lr.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
