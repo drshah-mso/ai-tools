@@ -11,3 +11,5 @@ It all lands in an “Inbox” that you can access from your app or any other co
 But what makes Readwise stand out from the crowd is its _Obsidian integration_. It is absolutely top-notch and seamless. As you add and annotate the content, it ends in your Obsidian vault.
 
 {% embed url="https://youtu.be/AbydJVZcAQA?si=uEOgdcDg8xGOXB_Q" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

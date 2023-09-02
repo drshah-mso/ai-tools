@@ -19,3 +19,5 @@ The resources you have and the time available to you will dictate what level of 
 
 
 <figure><img src="https://media.licdn.com/dms/image/D4D22AQHP-bgYbGY9aw/feedshare-shrink_800/0/1692287929260?e=2147483647&#x26;v=beta&#x26;t=m9jJuoRUP6GrLMJ7iEL9LTC9_qkwUIDxbE0qfDIC_ko" alt="" width="563"><figcaption></figcaption></figure>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

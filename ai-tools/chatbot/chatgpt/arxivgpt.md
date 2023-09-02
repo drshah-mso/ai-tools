@@ -88,3 +88,5 @@ A: The tool is primarily trained on English text but is compatible with multiple
 In conclusion, ArxivGPT is a powerful AI tool that offers a transformative way to consume research content. With its ability to provide concise and informative summaries of research papers, the tool saves users time. It enables them to quickly grasp the main ideas and concepts of a paper.
 
 Whether you’re a researcher staying up to date with the latest developments or someone interested in learning about specific topics, ArxivGPT is an invaluable asset for harnessing the power of AI in today’s information-rich world.\
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
