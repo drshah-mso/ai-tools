@@ -70,6 +70,7 @@
   * [DistillerSR](manage-sr/distillersr.md)
   * [RevMan](manage-sr/revman.md)
   * [Readwise](ai-tools/manage-sr/readwise.md)
+  * [Obsidian](ai-tools/manage-sr/obsidian.md)
   * [colandr](manage-sr/colandr.md)
   * [SRDR+ (AHRQ)](manage-sr/srdr+-ahrq.md)
   * [The Systematic Review Toolbox](manage-sr/the-systematic-review-toolbox.md)
