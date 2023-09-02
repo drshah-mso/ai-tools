@@ -170,6 +170,14 @@ The result is that you can now use your _**spatial memory**_ to remember your pu
 
 Concepts on the other hand are abstract and only a very recent evolutionary development. That’s why you can remember the neighbourhood of your childhood even decades later.
 
+### Useful Links
+
+1. ## [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review)
+2.  ## [Adding AI to your Academic Workflow](https://ilyashabanov.substack.com/p/adding-ai-to-your-academic-workflow)
+
+    \
+
+
 ### Summary
 
 Literature Review is central to any researcher and also the most time consuming part of science.
