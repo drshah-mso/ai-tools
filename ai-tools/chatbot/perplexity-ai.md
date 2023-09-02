@@ -2,11 +2,11 @@
 
 {% embed url="https://www.perplexity.ai/" %}
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Xv5A5Ma9qfMMzXNua75YPw.png" alt="Perplexity AI" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Xv5A5Ma9qfMMzXNua75YPw.png" alt="Perplexity AI" width="563"></figure>
 
 Perplexity AI is an AI-powered search engine and chatbot that utilizes advanced technologies such as natural language processing (NLP) and machine learning to provide accurate and comprehensive answers to user queries. It is designed to search the web in real-time and offer up-to-date information on various topics. Perplexity AI is a powerful tool with an intuitive user interface that can help users find information on a wide range of topics.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0916cc8-7a20-4b30-b09e-7fb36866b63d_1280x616.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0916cc8-7a20-4b30-b09e-7fb36866b63d_1280x616.jpeg" alt="" width="563"></figure>
 
 ## How to Use Perplexity AI <a href="#3615" id="3615"></a>
 

@@ -8,11 +8,11 @@ description: >-
 
 {% embed url="https://elicit.org/" %}
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kAqkI_6ay1CtYNEUHXl6Ow.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kAqkI_6ay1CtYNEUHXl6Ow.png" alt="" width="563"></figure>
 
 Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyse and understand the content of papers, making it easier to find specific information. Elicit uses language models to help you automate research workflows, like parts of literature review.
 
-<figure><img src="https://i0.wp.com/www.trendingaitools.com/wp-content/uploads/2023/05/Elicit-AI.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://i0.wp.com/www.trendingaitools.com/wp-content/uploads/2023/05/Elicit-AI.jpg" alt="" width="563"></figure>
 
 Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers.
 

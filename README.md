@@ -21,9 +21,9 @@ This book provides an overview of the use of AI tools for literature reviews. It
 
 The book is intended for researchers who are interested in learning more about the use of AI tools for literature reviews. It will also be of interest to librarians and information scientists who are involved in the development and evaluation of AI tools for research.This book will teach you the basics using AI tools for Literature Review.
 
-<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4f765e8-2a21-4ddd-b668-b7b0b4d5fe2c_2954x3718.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4f765e8-2a21-4ddd-b668-b7b0b4d5fe2c_2954x3718.jpeg" alt="" width="563"></figure>
 
-<figure><img src="https://maven.com/_next/image?url=https%3A%2F%2Fd2426xcxuh3ht5.cloudfront.net%2FlfXEP543QG6qe9EVOQ3n_Screenshot%202023-02-21%20at%208.20.32%20PM.png&#x26;w=1536&#x26;q=75" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://maven.com/_next/image?url=https%3A%2F%2Fd2426xcxuh3ht5.cloudfront.net%2FlfXEP543QG6qe9EVOQ3n_Screenshot%202023-02-21%20at%208.20.32%20PM.png&#x26;w=1536&#x26;q=75" alt="" width="563"></figure>
 
 ### Tools you’ll learn in this course
 

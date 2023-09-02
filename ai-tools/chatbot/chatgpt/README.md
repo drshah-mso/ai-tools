@@ -17,6 +17,6 @@ ChatGPT is still under development, but it is a powerful tool that has the poten
 * Write marketing copy that is both informative and engaging.
 * Generate creative content, such as scripts, poems, and stories.
 
-<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bc54530-de6b-43ca-b6c0-55e10c6a608a_1280x1260.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bc54530-de6b-43ca-b6c0-55e10c6a608a_1280x1260.jpeg" alt="" width="563"></figure>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

@@ -18,7 +18,7 @@ layout:
 
 Google Scholar is a free academic search engine that indexes the full text of scholarly literature across a variety of disciplines and sources. It includes peer-reviewed papers, theses, books, abstracts, and articles from academic publishers, professional societies, preprint repositories, and universities.
 
-<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-home-1400x900.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://cdn.paperpile.com/guides/img/google-scholar-home-1400x900.png" alt="" width="563"></figure>
 
 Google Scholar can be used to:
 

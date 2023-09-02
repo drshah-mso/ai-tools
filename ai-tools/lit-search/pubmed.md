@@ -18,7 +18,7 @@ layout:
 
 PubMed is a free full-text archive of biomedical and life sciences literature, created by the United States National Library of Medicine (NLM). It includes bibliographic information and abstracts from more than 30 million citations of biomedical literature from MEDLINE, life science journals, and online books. PubMed also offers links to full-text articles from PubMed Central and other publishers.
 
-<figure><img src="https://www.mcgill.ca/oss/files/oss/styles/hd/public/screen_shot_2021-06-10_at_12.57.44_pm.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://www.mcgill.ca/oss/files/oss/styles/hd/public/screen_shot_2021-06-10_at_12.57.44_pm.png" alt="" width="563"></figure>
 
 PubMed is a powerful tool for finding and accessing biomedical literature. It can be used to:
 
@@ -28,7 +28,7 @@ PubMed is a powerful tool for finding and accessing biomedical literature. It ca
 * **Track citations:** PubMed can be used to track citations of research papers, to see who has cited them and how often.
 * **Create bibliographies:** PubMed can be used to create bibliographies of research papers, for use in research papers or presentations.
 
-<figure><img src="http://rad.washington.edu/wp-content/uploads/2015/04/searching-pubmed-saving-results.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="http://rad.washington.edu/wp-content/uploads/2015/04/searching-pubmed-saving-results.png" alt="" width="563"></figure>
 
 PubMed is a valuable resource for anyone who needs to find or access biomedical literature. It is free to use and easy to navigate.
 

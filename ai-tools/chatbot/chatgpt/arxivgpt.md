@@ -4,7 +4,7 @@
 
 ArxivGPT is a Google Chrome plug-in that helps you quickly understand the content of arXiv papers. With just a click, it summarizes the paper and provides key insights, saving you time and helping you quickly grasp the main ideas and concepts. Whether you're a researcher, student, or just curious about a particular topic, ArxivGPT makes it easy to stay informed and up-to-date on the latest developments in your field.
 
-<figure><img src="https://user-images.githubusercontent.com/901975/217130285-20d0bf67-e9a8-46ca-9d9d-f49b42515a7d.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://user-images.githubusercontent.com/901975/217130285-20d0bf67-e9a8-46ca-9d9d-f49b42515a7d.png" alt="" width="563"></figure>
 
 ### Understanding ArxivGPT
 

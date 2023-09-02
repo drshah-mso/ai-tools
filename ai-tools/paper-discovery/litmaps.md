@@ -24,7 +24,7 @@ Litmaps can also be helpful for finding new papers that are relevant to your res
 
 Litmaps can be used to collaborate with others. You can share your visualizations with others and discuss your research. This can help you to get feedback on your research and to learn from others.
 
-<figure><img src="../../.gitbook/assets/Litmaps1.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Litmaps1.jpeg" alt="" width="563"></figure>
 
 ## **Benefits of using Litmaps?**
 
@@ -71,11 +71,11 @@ Additional tips for getting started with Litmaps:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Litmaps2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Litmaps2.jpeg" alt=""></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Litmaps3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Litmaps3.jpeg" alt=""></figure>
 
 </div>
 

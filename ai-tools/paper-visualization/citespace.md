@@ -18,7 +18,7 @@ layout:
 
 CiteSpace is a software tool for visualizing and analyzing bibliometric networks. It was developed by Chen Chen at Drexel University. CiteSpace is a powerful tool that can be used to visualize the relationships between different research papers, authors, and institutions.
 
-<figure><img src="https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3" alt="" width="563"></figure>
 
 CiteSpace can be used to:
 
@@ -27,7 +27,7 @@ CiteSpace can be used to:
 * **Identify emerging trends:** CiteSpace can be used to identify emerging trends in a research field by looking at the number of papers that have been published on a particular topic in recent years.
 * **Analyze the impact of a research paper:** CiteSpace can be used to analyze the impact of a research paper by looking at the number of citations it has received and the number of times it has been used in other papers.
 
-<figure><img src="https://ieee-dataport.org/sites/default/files/styles/3x2/public/GraphicalAbstract.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://ieee-dataport.org/sites/default/files/styles/3x2/public/GraphicalAbstract.png" alt="" width="563"></figure>
 
 CiteSpace is a powerful tool that can be used to visualize and analyze bibliometric networks. It is free and open-source, which makes it accessible to everyone.
 
@@ -38,7 +38,7 @@ Here are some of the features of CiteSpace:
 * **Network analysis:** CiteSpace can be used to analyze bibliometric networks by looking at the number of papers, authors, and institutions in the network. It can also be used to identify key players and emerging trends.
 * **Network export:** CiteSpace can export bibliometric networks in a variety of formats, such as PDF, PNG, and SVG files. This makes it possible to share bibliometric networks with others.
 
-<figure><img src="https://d31ezp3r8jwmks.cloudfront.net/8cwoi9gkuw9m1ynfuf68om2dpmkl" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://d31ezp3r8jwmks.cloudfront.net/8cwoi9gkuw9m1ynfuf68om2dpmkl" alt="" width="563"></figure>
 
 Here are some of the differences between CiteSpace and VOSviewer:
 

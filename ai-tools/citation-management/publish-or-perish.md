@@ -26,19 +26,19 @@ The Publish or Perish software is available as Microsoft Windows and Apple macOS
 
 [Download and installation instructions](https://harzing.com/resources/publish-or-perish/windows)
 
-<figure><img src="https://harzing.com/img/p/pop8win.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://harzing.com/img/p/pop8win.jpg" alt="" width="563"></figure>
 
 #### Publish or Perish on macOS <a href="#pop_osx" id="pop_osx"></a>
 
 [Download and installation instructions](https://harzing.com/resources/publish-or-perish/os-x)
 
-<figure><img src="https://harzing.com/img/p/pop8macos.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://harzing.com/img/p/pop8macos.jpg" alt="" width="563"></figure>
 
 #### Publish or Perish on GNU/Linux <a href="#pop_wine" id="pop_wine"></a>
 
 [Download and installation instructions](https://harzing.com/resources/publish-or-perish/linux)
 
-<figure><img src="https://harzing.com/img/p/pop8fedora34.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://harzing.com/img/p/pop8fedora34.jpg" alt="" width="563"></figure>
 
 ### Publish or Perish major versions timeline
 

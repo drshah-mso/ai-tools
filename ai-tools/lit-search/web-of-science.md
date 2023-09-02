@@ -2,15 +2,15 @@
 
 {% embed url="http://webofscience.com/" %}
 
-<figure><img src="https://upload.wikimedia.org/wikipedia/en/5/59/Web_of_science_next_generation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://upload.wikimedia.org/wikipedia/en/5/59/Web_of_science_next_generation.png" alt=""></figure>
 
 Web of Science (WoS) is a citation index and abstracting service that indexes scholarly literature from a wide variety of sources, including peer-reviewed journals, books, conference proceedings, and datasets. It is owned and operated by Clarivate Analytics.
 
-<figure><img src="https://clarivate.com/wp-content/uploads/2021/07/Wos-scrnsht.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://clarivate.com/wp-content/uploads/2021/07/Wos-scrnsht.jpg" alt="" width="563"></figure>
 
 WoS is a powerful tool for anyone who needs to find or access scholarly literature. It is a paid service, but it offers a variety of features that are not available on free academic search engines, such as Google Scholar.
 
-<figure><img src="https://clarivate.com/wp-content/uploads/2021/07/Wosscrnsht-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://clarivate.com/wp-content/uploads/2021/07/Wosscrnsht-2.jpg" alt=""></figure>
 
 ### The features of WoS
 

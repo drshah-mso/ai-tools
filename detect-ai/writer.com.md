@@ -14,7 +14,7 @@ Writer.com offers a variety of features to help writers improve their writing, i
 
 Writer.com is a subscription-based service, but it offers a free trial so that users can try it out before they commit to a subscription.
 
-<figure><img src="../.gitbook/assets/writer_com-ai-content-detector.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/writer_com-ai-content-detector.webp" alt="" width="563"></figure>
 
 {% embed url="https://youtu.be/BTQU6BzQ_q0" %}
 
