@@ -5,7 +5,7 @@
 
 ## AI Tools
 
-* [Literature Search](ai-tools/lit-search/README.md)
+* [1⃣ Literature Search](ai-tools/lit-search/README.md)
   * [Scopus](ai-tools/lit-search/scopus.md)
   * [Web of Science](ai-tools/lit-search/web-of-science.md)
   * [Google Scholar](ai-tools/lit-search/google-scholar.md)
