@@ -1,6 +1,10 @@
 # ArxivGPT
 
+{% embed url="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/" %}
+
 ArxivGPT is a Google Chrome plug-in that helps you quickly understand the content of arXiv papers. With just a click, it summarizes the paper and provides key insights, saving you time and helping you quickly grasp the main ideas and concepts. Whether you're a researcher, student, or just curious about a particular topic, ArxivGPT makes it easy to stay informed and up-to-date on the latest developments in your field.
+
+<figure><img src="https://user-images.githubusercontent.com/901975/217130285-20d0bf67-e9a8-46ca-9d9d-f49b42515a7d.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Understanding ArxivGPT
 
@@ -13,6 +17,8 @@ With a single click, users can save time and quickly grasp a paper’s main idea
 ArxivGPT utilizes the power of [ChatGPT](https://ambcrypto.com/blog/what-does-gpt-stand-for-in-chat-gpt-everything-you-need-to-know/), an advanced language model developed by OpenAI. This model is trained on a diverse range of internet text, enabling it to generate human-like text based on the prompts given.&#x20;
 
 When the user requests a summary of a paper, the extension sends the paper’s abstract to the model, which then generates a concise and informative summary.
+
+<figure><img src="https://user-images.githubusercontent.com/901975/217131081-d5487c3f-cb5c-46f4-be21-e4f1a22e9fce.png" alt="" width="563"><figcaption><p>Custom Prompt</p></figcaption></figure>
 
 ### Using ArxivGPT
 
@@ -41,9 +47,9 @@ If you want to enhance your codes without breaking the bank, try these [free AI 
 
 ArxivGPT is a versatile tool that can benefit a wide range of individuals. It is particularly beneficial for researchers and students who frequently read research papers. It can also be useful for individuals who are interested in learning about a specific topic and want to stay informed about the latest developments in that field.
 
-![ArxivGPT](https://ambcrypto.com/blog/wp-content/uploads/2023/06/promptgeniussss-compressed.jpg)
-
-Leveraging AI to create summaries
+{% embed url="https://youtu.be/JcKQt6008XU?si=xYT2cpOD24R0LXV2" %}
+ArxivGPT ChatGPT Browser Extension Summarize a arXiv paper and provide key insights.
+{% endembed %}
 
 ### Features of ArxivGPT
 
@@ -56,6 +62,8 @@ Here are some of its key features:
 * **API integration**: The API offered by ArxivGPT allows for seamless integration with other tools and platforms. It boasts comprehensive documentation and supports a wide range of programming languages.
 
 Embark on a research revolution with these [mind-expanding AI tools.](https://opentools.ai/category/research/?utm\_source=ambcrypto.com) Discover our curated list and unlock a world of possibilities to elevate your scientific endeavors to new heights!
+
+{% embed url="https://youtu.be/2da3JKYO-Uc?si=oMyQfYxxG1XxKp6M" %}
 
 ### Frequently asked questions (FAQs)&#x20;
 
