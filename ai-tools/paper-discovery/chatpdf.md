@@ -4,6 +4,8 @@
 
 ChatPDF is a web app that allows you to chat with your PDF documents as if they were human. It uses artificial intelligence to analyze the PDF and create a semantic index of every paragraph. When you ask a question, ChatPDF will use the relevant paragraphs to give you an answer.
 
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
 Here are some of the things you can do with ChatPDF:
 
 * Ask questions about anything in your PDF. ChatPDF can answer questions about the content of your PDF, even if it is in a different language.
@@ -11,6 +13,8 @@ Here are some of the things you can do with ChatPDF:
 * Extract text from your PDF. ChatPDF can extract text from your PDF and save it as a separate file.
 * Translate your PDF. ChatPDF can translate your PDF into a different language.
 * Chat with your PDF. ChatPDF can answer your questions in a conversational way, making it feel like you are talking to a real person.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ChatPDF is a powerful tool that can be used for a variety of purposes, including:
 

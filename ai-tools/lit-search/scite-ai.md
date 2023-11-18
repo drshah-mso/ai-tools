@@ -12,7 +12,7 @@ Scite.ai is a AI-powered platform that helps researchers evaluate the credibilit
 
 [scite](https://scite.ai/home) helps researchers better discover and evaluate scientific articles through Smart Citations. In addition to assessing research articles by citation count, the Smart Citations also display the citation context from the citation article which helps researchers better understand how research articles have been cited beyond citation count. The research articles are classified by a Deep Learning model which identifies whether the citation provides supporting or disputing evidence, simply mentions it or the retracted record.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Smart Citations provide the context of cited references</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption><p>Smart Citations provide the context of cited references</p></figcaption></figure>
 
 Here are some of the features of Scite.ai:
 

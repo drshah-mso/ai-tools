@@ -12,7 +12,7 @@ description: >-
 
 _R Discovery_ is a revolutionary app designed for students and researchers, offering a seamless experience in discovering and reading research papers. This literature search and reading app tailors an academic reading library to your interests, ensuring you stay abreast of the latest academic research through scholarly articles, scientific journals, open access content, and peer-reviewed papers. With _R Discovery_, your literature search is simplified, allowing you to explore like on Google Scholar, refseek, Research Gate, or Academia.edu, or opt for our AI-generated feeds of pertinent scholarly articles.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Key Features:
 
