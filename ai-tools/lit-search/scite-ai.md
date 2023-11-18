@@ -8,7 +8,9 @@ description: AI tool that simplifies the process of finding scientific articles
 
 ## Introduction
 
-Scite.ai is a free AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. This allows researchers to see how a paper has been received by the scientific community and to identify potential problems with the paper's methodology or conclusions.
+Scite.ai is a AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. This allows researchers to see how a paper has been received by the scientific community and to identify potential problems with the paper's methodology or conclusions.
+
+[scite](https://scite.ai/home) helps researchers better discover and evaluate scientific articles through Smart Citations. In addition to assessing research articles by citation count, the Smart Citations also display the citation context from the citation article which helps researchers better understand how research articles have been cited beyond citation count. The research articles are classified by a Deep Learning model which identifies whether the citation provides supporting or disputing evidence, simply mentions it or the retracted record.
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Smart Citations provide the context of cited references</p></figcaption></figure>
 
