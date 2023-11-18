@@ -50,3 +50,5 @@ Here are some of the disadvantages of using bibliometric analysis:
 * **Not always accurate:** Bibliometric analysis is not always accurate, as it is based on data that is collected from the scientific literature. This data can be inaccurate or incomplete.
 
 {% embed url="https://www.youtube.com/watch?v=5nXzL2yCkGQ" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

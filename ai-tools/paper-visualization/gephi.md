@@ -59,3 +59,5 @@ Ultimately, the best tool for you will depend on your specific needs and prefere
 {% embed url="https://www.youtube.com/watch?t=1s&v=TFBkAO1MjnU" %}
 
 {% embed url="https://www.youtube.com/watch?v=GXtbL8avpik" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

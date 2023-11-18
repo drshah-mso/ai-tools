@@ -4,6 +4,8 @@ description: A visual interface to the world's scientific knowledge
 
 # Open Knowledge Maps (OKM)
 
+{% embed url="https://openknowledgemaps.org/" %}
+
 Open Knowledge Maps (OKM) is an open-source platform for creating and visualizing knowledge graphs. It is based on the RDF (Resource Description Framework) standard, which makes it possible to integrate data from different sources. OKM can be used to create knowledge graphs for a variety of purposes, such as:
 
 * **Research:** OKM can be used to create knowledge graphs of scientific research papers. This can help researchers to find and explore related research, identify gaps in the literature, and build new theories.

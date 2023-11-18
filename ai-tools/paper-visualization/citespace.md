@@ -49,3 +49,5 @@ Here are some of the differences between CiteSpace and VOSviewer:
 Ultimately, the best tool for you will depend on your specific needs and preferences. If you are looking for a powerful tool with a wide range of features, then CiteSpace may be a better choice. If you are looking for a simple and easy-to-use tool, then VOSviewer may be a better option.
 
 {% embed url="https://www.youtube.com/watch?v=yMBUdHEPd-Q" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

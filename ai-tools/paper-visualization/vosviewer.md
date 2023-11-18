@@ -4,6 +4,8 @@ description: Visualizing scientific landscapes
 
 # VOSviewer
 
+{% embed url="https://www.vosviewer.com/" %}
+
 This is a software tool for constructing and visualizing bibliometric networks such as journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 
 <figure><img src="https://www.vosviewer.com/media/images/content/ea30284dd349a3651f465ac581592983_large.png" alt="" width="563"></figure>
@@ -29,3 +31,5 @@ Here are some of the features of VOSviewer:
 <figure><img src="https://www.vosviewer.com/media/images/content/08a8dd14196910a1715cedf5df544371_large.png" alt="" width="563"></figure>
 
 {% embed url="https://www.youtube.com/watch?v=VW9Z6pqfqjY" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
