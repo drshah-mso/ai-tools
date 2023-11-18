@@ -24,4 +24,10 @@ The supported [data sources](https://harzing.com/resources/publish-or-perish/man
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Data sources</p></figcaption></figure>
 
+{% embed url="https://youtu.be/GerWU2TY43g?si=6yX-GPePlDXlBFbv" %}
+
+{% embed url="https://youtu.be/GbUPDe4dj9E?si=aAYhEpetj4edeSh9" %}
+
+{% embed url="https://youtu.be/lUpwtz3rGAQ?si=959aOfOH62eJcQhc" %}
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
