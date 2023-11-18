@@ -12,9 +12,13 @@ description: >-
 
 Semantic Scholar is a free AI-powered research tool that aggregates scientific literature from various fields of science, including nanotechnology and moral reasoning, and uses AI and engineering to understand the semantics of the research to help scholars discover relevant publications.
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
 The platform currently archives over 211 million papers. Also, the tool has a beta program, Semantic Reader, that provides an augmented reading experience to help increase accessibility and richness to scientific literature.
 
 Besides, Semantic Scholar has a newly improved API for developers, which allows searching for papers on the platform, better documentation, and improved stability.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Semantic Scholar was developed by the Allen Institute for AI, which focuses on creating efficiency in AI research to decrease carbon footprint and increase inclusivity.
 

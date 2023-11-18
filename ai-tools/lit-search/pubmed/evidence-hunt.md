@@ -12,7 +12,7 @@ EvidenceHunt is an AI-powered clinical evidence search engine that helps healthc
 
 EvidenceHunt is a valuable tool for healthcare professionals who need to stay up-to-date on the latest clinical evidence. It is easy to use, accurate, and provides a wealth of information.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda6b14ec-1dbf-45ad-9d29-a0de73df9340_1280x1219.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda6b14ec-1dbf-45ad-9d29-a0de73df9340_1280x1219.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 Here are some additional details about EvidenceHunt:
 
@@ -21,7 +21,7 @@ Here are some additional details about EvidenceHunt:
 * It is available in English and Spanish.
 * It has over 10,000 users in over 100 countries.
 
-<figure><img src="../../.gitbook/assets/eh1.jpeg" alt="" width="375"><figcaption><p>EvidenceHunt vs PubMed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eh1.jpeg" alt="" width="375"><figcaption><p>EvidenceHunt vs PubMed</p></figcaption></figure>
 
 ## Features
 
@@ -58,11 +58,11 @@ The following are some of the search filters that are available:
 6. **Subscribe to weekly e-alerts.** You can subscribe to weekly e-alerts to stay up-to-date on the latest clinical evidence. To subscribe to e-alerts, enter your email address in the **Subscribe to E-Alerts** section of the website.
 7. **Use the Help section.** If you have any questions about how to use EvidenceHunt, you can use the Help section of the website. The Help section includes a variety of resources, such as FAQs, tutorials, and videos.
 
-<figure><img src="../../.gitbook/assets/eh2.jpeg" alt="" width="375"><figcaption><p>Queries</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eh2.jpeg" alt="" width="375"><figcaption><p>Queries</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/eh3.jpeg" alt=""><figcaption><p>Comparison with PubMed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eh3.jpeg" alt=""><figcaption><p>Comparison with PubMed</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/eh4.jpeg" alt="" width="563"><figcaption><p>EvidenceHunt uses their abstract to formulate an answer.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eh4.jpeg" alt="" width="563"><figcaption><p>EvidenceHunt uses their abstract to formulate an answer.</p></figcaption></figure>
 
 ## Advanced Searching
 
