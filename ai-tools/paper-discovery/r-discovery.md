@@ -8,29 +8,64 @@ description: >-
 
 {% embed url="https://discovery.researcher.life/" %}
 
-R Discovery is a research reading platform that uses artificial intelligence to help researchers find, understand, and stay up-to-date on the latest research. It is a product of Researcher.Life, a company that provides AI-powered tools for researchers.
+**R Discovery: Your Gateway to Academic Research**
 
-R Discovery has a number of features that make it a valuable resource for researchers, including:
+_R Discovery_ is a revolutionary app designed for students and researchers, offering a seamless experience in discovering and reading research papers. This literature search and reading app tailors an academic reading library to your interests, ensuring you stay abreast of the latest academic research through scholarly articles, scientific journals, open access content, and peer-reviewed papers. With _R Discovery_, your literature search is simplified, allowing you to explore like on Google Scholar, refseek, Research Gate, or Academia.edu, or opt for our AI-generated feeds of pertinent scholarly articles.
 
-* **Research paper search:** R Discovery can help you find relevant research papers by matching your research question or the abstract of a paper to its database of over 115 million open access papers and patents.
-* **Research paper summarization:** R Discovery can provide summaries of research papers, making them easier to understand.
-* **Research paper visualization:** R Discovery can visualize research papers, making it easier to see the relationships between different concepts.
-* **Research paper recommendations:** R Discovery can recommend research papers that are related to your interests.
-* **Research paper alerts:** R Discovery can send you alerts when new research papers are published that match your interests.
-* **Personalized reading feed:** R Discovery creates a personalized reading feed for each user based on their interests and research activity.
-* **Collaborative research:** R Discovery allows users to collaborate on research projects by sharing research papers, notes, and annotations.
-* **Research workflow management:** R Discovery helps users manage their research workflow by providing tools for organizing research papers, setting deadlines, and tracking progress.
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
-R Discovery is a powerful tool for researchers of all levels. It can help you find relevant research papers, understand them more easily, and stay up-to-date on your research field.
+#### Key Features:
 
-Additional details about R Discovery:
+**1. Extensive Content Access:**
 
-* It was created by a team of engineers and scientists at Researcher.Life.
-* It uses a large language model to generate summaries and visualizations of research papers.
-* The language model is trained on a massive dataset of research papers and patents.
-* R Discovery is still under development, but it is already being used by thousands of researchers around the world.
+* **100M+ Research Articles:** Including journal articles, clinical trials, conference papers, and more.
+* **40M+ Open Access Articles:** The world's largest library of open access journal articles.
+* **2.8M+ Preprints:** From arXiv, bioRxiv, medRxiv, and other preprint servers.
+* **9.5M+ Research Topics**
+* **14M+ Authors**
+* **32,000+ Academic Journals**
+* **25,000+ Institutions**
 
-<figure><img src="../../.gitbook/assets/rdiscovery.jpeg" alt="" width="563"></figure>
+**2. Trusted Database:**
+
+* Enjoy articles from the most reliable global research paper database.
+* Database is meticulously cleaned to remove duplications, ambiguities, and predatory content.
+
+**3. Personalized Research Feeds:**
+
+* AI-curated feeds for Top 100 papers, open access articles, preprints, paywalled papers, and more.
+* Future feeds include patents, conferences, and seminars.
+
+**4. Community-Driven Lists:**
+
+* Access and share research recommendations from your peers.
+* Facilitates quick, relevant research discovery and improved literature reading.
+
+**5. Collaboration and Sharing:**
+
+* Create, save, and share reading lists with co-researchers.
+* Accelerate innovation through easy knowledge sharing.
+
+**6. Enhanced Reading Experience:**
+
+* **Audio Streaming:** Listen to library lists, research paper titles, and abstracts on the go.
+* **Research Paper Translation:** Read articles in your preferred language.
+
+**7. Integration Features:**
+
+* **Institutional Access:** Unlock full-text papers using university credentials through GetFTR & Libkey.
+* **Auto Sync with Reference Managers:** Sync seamlessly with Zotero, Mendeley, and soon, Endnote.
+
+**8. Alerts and Summaries:**
+
+* Stay informed with alerts on just-published research papers.
+* Assess relevance through research summaries.
+
+**9. Premium Partnerships:**
+
+* _R Discovery_ partners with esteemed research publications including Elsevier, Wiley, IOP, Springer Nature, Sage, Taylor & Francis, Hindawi, NEJM, and more, ensuring access to the best content.
+
+<figure><img src="../../.gitbook/assets/rdiscovery.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/8RmOeJ8zG2w" %}
 

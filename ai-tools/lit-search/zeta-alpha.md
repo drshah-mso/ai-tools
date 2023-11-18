@@ -6,7 +6,7 @@ description: AI Research Navigator
 
 Zeta Alpha is the best [Neural Discovery Platform](https://www.zeta-alpha.com/solutions) for AI and beyond. Use state-of-the-art Neural Search and Generative AI to improve how you and your team discover, organize and share internal knowledge. Make better decisions, avoid reinventing the wheel, make staying in the know effortless, and make an impact with your work faster.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Discovering and Organising data remains a challenge <a href="#h-discovering-and-organising-data-remains-a-challenge" id="h-discovering-and-organising-data-remains-a-challenge"></a>
 

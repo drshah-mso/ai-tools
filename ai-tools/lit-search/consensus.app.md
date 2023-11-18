@@ -12,7 +12,7 @@ description: >-
 
 Consensus.app was founded in 2021 by a team of researchers from Stanford University and the Allen Institute for Artificial Intelligence. Consensus.app works by first extracting the key information from research papers. This information includes the paper's title, abstract, keywords, and main findings. The platform then uses AI to summarize this information into a concise and easy-to-understand format.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In addition to summarizing research papers, Consensus.app also allows users to track the latest research in their field. The platform provides a news feed of new papers that have been summarized, as well as a list of the most popular papers. Users can also create custom feeds to track specific topics or authors.
 
