@@ -24,6 +24,29 @@ The supported [data sources](https://harzing.com/resources/publish-or-perish/man
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Data sources</p></figcaption></figure>
 
+### Download and install Publish or Perish <a href="#download" id="download"></a>
+
+The Publish or Perish software is available as Microsoft Windows and Apple macOS applications; the Windows version can also be installed and used on GNU/Linux computers with the aid of a suitable emulator such as CrossOver Linux or Wine.
+
+#### Publish or Perish on Microsoft Windows <a href="#pop_win" id="pop_win"></a>
+
+[Download and installation instructions](https://harzing.com/resources/publish-or-perish/windows)
+
+<figure><img src="https://harzing.com/img/p/pop8win.jpg" alt="" width="563"></figure>
+
+#### Publish or Perish on macOS <a href="#pop_osx" id="pop_osx"></a>
+
+[Download and installation instructions](https://harzing.com/resources/publish-or-perish/os-x)
+
+<figure><img src="https://harzing.com/img/p/pop8macos.jpg" alt="" width="563"></figure>
+
+#### Publish or Perish on GNU/Linux <a href="#pop_wine" id="pop_wine"></a>
+
+[Download and installation instructions](https://harzing.com/resources/publish-or-perish/linux)
+
+<figure><img src="https://harzing.com/img/p/pop8fedora34.jpg" alt="" width="563"></figure>
+
+
 {% embed url="https://youtu.be/GerWU2TY43g?si=6yX-GPePlDXlBFbv" %}
 
 {% embed url="https://youtu.be/GbUPDe4dj9E?si=aAYhEpetj4edeSh9" %}
