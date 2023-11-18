@@ -4,13 +4,15 @@ description: A Powerful Tool for Research and Discovery
 
 # Humata AI
 
-{% embed url="https://www.humata.ai/" %}
-
 The field of research and discovery is continuously looking for modern tools to unlock new information in the quickly changing world of today. The way academics glean insights and identify patterns from huge datasets is being revolutionized by Humata AI, a state-of-the-art platform powered by artificial intelligence. Humata AI provides an innovative way for information analysis that outperforms conventional techniques by utilizing natural language processing and machine learning.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Potential of Humata AI <a href="#10f5" id="10f5"></a>
 
 Humata AI is an emerging platform that has garnered attention across various disciplines, including medicine, biology, and finance. This groundbreaking tool has the capacity to identify patterns and trends within datasets that were previously undetectable, providing researchers with unprecedented insights and enabling the development of innovative solutions.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Benefits of Using Humata AI <a href="#6815" id="6815"></a>
 
@@ -25,6 +27,8 @@ Humata AI facilitates simultaneous usage by multiple researchers, fostering coll
 
 **Innovation**\
 One of the key advantages of Humata AI is its capability to inspire researchers by generating new ideas and insights. By uncovering hidden relationships within datasets, Humata AI encourages novel approaches to problem-solving, spurring innovation and pushing the boundaries of knowledge.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## How Humata AI Works <a href="#15ba" id="15ba"></a>
 
