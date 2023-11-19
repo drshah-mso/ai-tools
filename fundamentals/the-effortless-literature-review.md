@@ -2,13 +2,13 @@
 
 The Effortless Literature Review is based on the idea that the traditional literature review process is too time-consuming and inefficient. The workshop teaches you how to use a variety of tools and techniques to find, filter, and summarize research papers more quickly and easily.
 
-<figure><img src="../.gitbook/assets/effort-lr.jpeg" alt="" width="375"></figure>
+<figure><img src="../.gitbook/assets/effort-lr.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 Literature review does not need to be time consuming or confusing. Effortlessly find literature, use AI to screen for relevance and "3-step-filtering" to find the top 10% papers in your collection.
 
 Let’s look at the steps:
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d992c96-21a0-44e5-9f0e-ff87b85e8d88_2954x3369.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d992c96-21a0-44e5-9f0e-ff87b85e8d88_2954x3369.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 This seems like many steps - but you probably know some of them already. The effortlessness comes from integrating them with one another and leveraging the synergy between them.
 
@@ -27,7 +27,7 @@ If you search for “yeast” you may find papers on:
 * Medical science (yeast as infection)
 * Evolution (yeast by itself)
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b1097c-bb36-4c12-9906-1b48ec051e1f_2954x2037.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b1097c-bb36-4c12-9906-1b48ec051e1f_2954x2037.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 Google would usually rank higher cited papers at the top. Molecular biology and medicine are huge domains. So effectively you will find much less on evolution.
 
@@ -43,7 +43,7 @@ Papers with supporting claims are not “just mentioned” but actually validate
 
 Luckily you can use both - as scite integrates into google scholar.
 
-<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fd548e0-960f-4ddd-9aef-557f0f4abc1a_2536x909.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fd548e0-960f-4ddd-9aef-557f0f4abc1a_2536x909.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 [Scite.ai](https://scite.ai/) will also allow us to find where and how exactly a paper is mentioned (i.e. let us see the mentioning snippet). It is an amazing tool that integrates well with the rest of the academic tool eco system.
 
@@ -51,8 +51,8 @@ This combination of google scholar and scite.ai is a great way to find the first
 
 ### 2. Analyze abstracts with AI
 
-{% content-ref url="../ai-tools/chatbot/chatgpt/arxivgpt.md" %}
-[arxivgpt.md](../ai-tools/chatbot/chatgpt/arxivgpt.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ArxivGPT is a Google Chrome extension that helps you quickly understand the content of arXiv papers. It uses a large language model, also known as a conversational AI or chatbot trained to be informative and comprehensive. ArxivGPT is trained on a massive dataset of arXiv papers, and it can summarize the content of a paper in a few sentences, highlighting the key ideas and concepts.
@@ -65,8 +65,8 @@ With a little bit of creativity you can use ArxivGPT not to summarize abstracts 
 
 People are weary of using ChatGPT in science, because it creates fake citations, doesn’t know math and is [over confident](https://www.reddit.com/r/ChatGPT/comments/10jshk5/why\_is\_chat\_gpt\_confident\_in\_every\_answer/).
 
-{% content-ref url="../ai-tools/chatbot/chatgpt/" %}
-[chatgpt](../ai-tools/chatbot/chatgpt/)
+{% content-ref url="../ai-tools/chatbot/chatgpt.md" %}
+[chatgpt.md](../ai-tools/chatbot/chatgpt.md)
 {% endcontent-ref %}
 
 But ChatGPT is good at one thing: Comparing text.
@@ -75,7 +75,7 @@ If you design your prompts to describe what you are looking for and then add the
 
 In this example I used a simple prompt and asked it to rate for relevance. And indeed the results are spot-on!
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16cb53e2-71a4-4444-8f47-d2e2281dc2d5_2536x1348.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16cb53e2-71a4-4444-8f47-d2e2281dc2d5_2536x1348.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 This allows me to screen papers for relevance. You can ask ANY question that could be answered from the abstract and without domain knowledge.
 
@@ -92,7 +92,7 @@ Once you have acquired a few seed papers, it is time to start exploring the cita
 
 The problem here is that you can only go back in time - not forward.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5952b9a4-46ad-41ba-bedd-43f8094d6c60_2432x1574.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5952b9a4-46ad-41ba-bedd-43f8094d6c60_2432x1574.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 References are easy to find, but they only look into the past. We need _**citations**_ to find out how the field has developed since.
 
@@ -102,7 +102,7 @@ Today the journal method is outdated. There are tools to find everything much mo
 
 My all-time favourite tool for the job is [Litmaps](https://litmaps.com/). In [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review) I described how we can use it, so I won’t go into too much detail here. But to give you an overview, this is how it looks:
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa192169-f81f-4d67-a1e5-5b96b3fc5b36_2533x2300.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa192169-f81f-4d67-a1e5-5b96b3fc5b36_2533x2300.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% content-ref url="../ai-tools/paper-discovery/litmaps.md" %}
 [litmaps.md](../ai-tools/paper-discovery/litmaps.md)
@@ -130,7 +130,7 @@ All of this is easy to do with Litmaps and Zotero. Luckily those two work togeth
 
 This workflow is also partially described in the [literature review article](https://ilyashabanov.substack.com/p/gourmet-literature-review). Since writing the article I added scite.ai to also look and sort for _**controversial**_ papers.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16b1e101-f484-4e16-9409-6e8b5060830b_2134x534.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16b1e101-f484-4e16-9409-6e8b5060830b_2134x534.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 In the picture above you see that the Mori 2018 paper did receive the least citations of the 5. But it has more debate going on as there are many supporting claims as well as someone contrasting it.
 
@@ -164,7 +164,7 @@ But you can only search for what you can recall i.e. title, author or tag of a p
 
 VRM allows you to lay out the papers _**visually**_ on a canvas and connect them in groups or individually.
 
-<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0be83306-58eb-4802-8525-3090a98220ff_3584x2188.jpeg" alt="" width="563"></figure>
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0be83306-58eb-4802-8525-3090a98220ff_3584x2188.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 The result is that you can now use your _**spatial memory**_ to remember your publications. Humans have evolved from animals that had to roam vast landscapes in search for food, naturally our spatial memory is quite well developed.
 
@@ -172,14 +172,13 @@ Concepts on the other hand are abstract and only a very recent evolutionary deve
 
 ### Useful Links
 
-1.  [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review)
-2.  [Adding AI to your Academic Workflow](https://ilyashabanov.substack.com/p/adding-ai-to-your-academic-workflow)
-3.  [Spotting the Gap in the Literature](https://ilyashabanov.substack.com/p/spotting-the-gap-in-the-literature)
-4.  [Academic Planning Masterclass](https://ilyashabanov.substack.com/p/academic-planning-masterclass)
-5.  [From Reference Manager to Reference Maps](https://ilyashabanov.substack.com/p/from-reference-manager-to-reference)
-6.  [Power User Initiation: Becoming 2x faster at writing and managing your notes](https://ilyashabanov.substack.com/p/power-user-initiation-becoming-2x)
-7.  [Note Taking System For Success in Academia](https://ilyashabanov.substack.com/p/note-taking-system-for-success-in)
-
+1. [Gourmet Literature Review](https://ilyashabanov.substack.com/p/gourmet-literature-review)
+2. [Adding AI to your Academic Workflow](https://ilyashabanov.substack.com/p/adding-ai-to-your-academic-workflow)
+3. [Spotting the Gap in the Literature](https://ilyashabanov.substack.com/p/spotting-the-gap-in-the-literature)
+4. [Academic Planning Masterclass](https://ilyashabanov.substack.com/p/academic-planning-masterclass)
+5. [From Reference Manager to Reference Maps](https://ilyashabanov.substack.com/p/from-reference-manager-to-reference)
+6. [Power User Initiation: Becoming 2x faster at writing and managing your notes](https://ilyashabanov.substack.com/p/power-user-initiation-becoming-2x)
+7. [Note Taking System For Success in Academia](https://ilyashabanov.substack.com/p/note-taking-system-for-success-in)
 
 ### Summary
 
