@@ -5,7 +5,7 @@
 
 ## AI Tools
 
-* [1⃣ 1⃣ Literature Search](ai-tools/lit-search/README.md)
+* [1⃣ Literature Search](ai-tools/lit-search/README.md)
   * [Scopus](ai-tools/lit-search/scopus.md)
   * [Web of Science](ai-tools/lit-search/web-of-science.md)
   * [Google Scholar](ai-tools/lit-search/google-scholar.md)
@@ -24,13 +24,13 @@
   * [Litmaps](ai-tools/paper-discovery/litmaps.md)
   * [ResearchRabbit](ai-tools/paper-discovery/researchrabbit.md)
   * [Inciteful](ai-tools/paper-discovery/inciteful.md)
-* [3⃣ 3⃣ Paper Visualization](ai-tools/paper-visualization/README.md)
+* [3⃣ Paper Visualization](ai-tools/paper-visualization/README.md)
   * [Open Knowledge Maps (OKM)](ai-tools/paper-visualization/open-knowledge-maps-okm.md)
   * [VOSviewer](ai-tools/paper-visualization/vosviewer.md)
   * [CiteSpace](ai-tools/paper-visualization/citespace.md)
   * [Gephi](ai-tools/paper-visualization/gephi.md)
   * [Bibliometrix](ai-tools/paper-visualization/bibliometrix.md)
-* [4⃣ 4⃣ Chatbot and Assistance](ai-tools/chatbot/README.md)
+* [4⃣ Chatbot and Assistance](ai-tools/chatbot/README.md)
   * [ChatGPT](ai-tools/chatbot/chatgpt/README.md)
     * [ArxivGPT](ai-tools/chatbot/chatgpt/arxivgpt.md)
   * [Bard AI](ai-tools/chatbot/bard-ai.md)
