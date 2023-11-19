@@ -14,4 +14,6 @@ The GPT assistant can also help you with other tasks related to your study, such
 
 PaperBrain is a useful tool for anyone who wants to learn more about research papers and improve their academic skills. It can save you time and effort by providing you with easy access and understanding of research papers. It can also inspire you and spark your curiosity by showing you new and interesting papers on your topic of interest.
 
+{% embed url="https://youtu.be/CrrDctB3_oI?si=EbU8nlRTrtTHAGrq" %}
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
