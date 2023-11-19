@@ -25,8 +25,6 @@
   * [Litmaps](ai-tools/paper-discovery/litmaps.md)
   * [ResearchRabbit](ai-tools/paper-discovery/researchrabbit.md)
   * [Inciteful](ai-tools/paper-discovery/inciteful.md)
-  * [Iris](ai-tools/paper-discovery/iris.md)
-  * [Socrates-insights](ai-tools/paper-discovery/socrates-insights.md)
 * [3⃣ Paper Visualization](ai-tools/paper-visualization/README.md)
   * [Open Knowledge Maps (OKM)](ai-tools/paper-visualization/open-knowledge-maps-okm.md)
   * [VOSviewer](ai-tools/paper-visualization/vosviewer.md)
