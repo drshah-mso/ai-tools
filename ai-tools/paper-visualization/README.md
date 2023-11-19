@@ -2,27 +2,29 @@
 
 AI tools for paper visualization play a crucial role in helping researchers and academics make sense of the vast and intricate landscape of scholarly publications. These tools leverage advanced algorithms and data analysis techniques to extract meaningful insights from large volumes of academic literature. These tools aim to simplify the process of literature review, aid in identifying key research trends, uncovering gaps in the literature, and discovering relevant papers for a specific research topic. Here are more details about some popular AI tools for paper visualization:
 
-1. [**Open Knowledge Maps (OKM)**](open-knowledge-maps-okm.md)**:**
-   * _Purpose:_ Open Knowledge Maps is designed to create visual representations of the research landscape for a given topic or query.
-   * _Features:_ OKM generates interactive knowledge maps that display key concepts, authors, and connections between papers. The tool relies on a combination of text mining and machine learning to extract relevant information.
-   * _Benefits:_ Users can quickly grasp the main themes in a field, identify influential papers and authors, and discover potential research gaps.
-2. **VIOSviewer:**
-   * _Purpose:_ VIOSviewer focuses on visualizing bibliometric networks and relationships between authors, journals, and keywords.
-   * _Features:_ The tool provides graphical representations of co-authorship networks, citation networks, and keyword co-occurrence. It supports various customization options for visualizations.
-   * _Benefits:_ VIOSviewer helps researchers understand collaboration patterns, track citation trends, and identify the most influential authors and journals in a particular field.
-3. **CiteSpace:**
-   * _Purpose:_ CiteSpace is a tool designed for visualizing and analyzing citation patterns within academic literature.
-   * _Features:_ It identifies key papers and authors, visualizes citation networks, and helps researchers detect emerging trends and influential works in a specific research area.
-   * _Benefits:_ CiteSpace is particularly useful for exploring the evolution of research topics over time and identifying pivotal works that have had a significant impact on a particular field.
-4. **Gephi:**
-   * _Purpose:_ While not specifically an AI tool, Gephi is a powerful network analysis and visualization tool that can be used for visualizing bibliographic networks.
-   * _Features:_ Gephi supports the analysis of networks, including co-authorship and citation networks. It provides various layout algorithms and visualization options to explore complex relationships in the data.
-   * _Benefits:_ Gephi is highly customizable and allows users to create visually appealing and informative network visualizations, making it suitable for a wide range of applications, including paper visualization.
-5. **Bibliometrix:**
-   * _Purpose:_ Bibliometrix is an R package that combines bibliometric analysis with visualization to gain insights into scientific literature.
-   * _Features:_ It supports various bibliometric analyses, including co-authorship, keyword co-occurrence, and citation analysis. The tool also provides visualization options to represent these analyses.
-   * _Benefits:_ Bibliometrix is especially useful for researchers familiar with R programming, allowing for in-depth bibliometric analyses and customized visualizations.
+Certainly! Paper visualization tools leverage artificial intelligence (AI) techniques to analyze and represent the relationships between different academic papers in a visual format. These tools are designed to help researchers, scientists, and academics explore and understand the complex landscape of scholarly literature. Here are more details about some popular AI tools for paper visualization:
 
-These AI tools collectively contribute to the efficient exploration and understanding of academic literature, empowering researchers to navigate the ever-expanding knowledge landscape more effectively.
+1. [**Open Knowledge Maps (OKM)**](open-knowledge-maps-okm.md)**:**
+   * **Purpose:** Open Knowledge Maps focuses on creating visual knowledge maps that provide an overview of a research topic or field.
+   * **AI Features:** OKM uses semantic analysis and machine learning algorithms to extract key concepts and relationships from academic papers.
+   * **Visualization:** The tool generates interactive maps that display the most important topics in a visually intuitive way, allowing users to quickly identify relevant papers and connections.
+2. [**VOSviewer**](vosviewer.md)**:**
+   * **Purpose:** VOSviewer is designed for bibliometric mapping and visualization of scientific literature.
+   * **AI Features:** VOSviewer employs clustering algorithms to group related papers and authors. It uses term extraction methods for identifying and visualizing keywords.
+   * **Visualization:** The tool produces network visualizations that represent relationships between papers, authors, and keywords. It allows users to explore and analyze citation networks and collaborations.
+3. [**CiteSpace**](citespace.md)**:**
+   * **Purpose:** CiteSpace is a tool for visualizing and analyzing the evolution of research topics over time.
+   * **AI Features:** CiteSpace uses various algorithms to detect and visualize emerging trends, burst terms, and the chronological development of research fields.
+   * **Visualization:** The tool generates dynamic maps that show the growth and connections between clusters of papers, helping researchers understand the historical context and emerging patterns in a particular field.
+4. [**Gephi**](gephi.md)**:**
+   * **Purpose:** Gephi is a general-purpose network analysis and visualization tool that can be applied to various domains, including bibliometrics.
+   * **AI Features:** Gephi supports the analysis of complex networks, and users can apply algorithms for community detection, centrality analysis, and other network metrics.
+   * **Visualization:** Gephi allows users to create visually appealing network graphs, making it useful for exploring relationships between papers, authors, and keywords.
+5. [**Bibliometrix**](bibliometrix.md)**:**
+   * **Purpose:** Bibliometrix is an R-based package for bibliometric analysis, including the visualization of scientific literature.
+   * **AI Features:** While it primarily relies on statistical methods, Bibliometrix allows users to extract relevant information from bibliographic databases and perform advanced bibliometric analyses.
+   * **Visualization:** Researchers can create various visualizations, such as co-authorship networks, keyword co-occurrence maps, and citation networks, to gain insights into the structure of a research field.
+
+These AI-powered tools contribute significantly to the efficient exploration and understanding of academic literature, helping researchers stay informed about the latest developments and trends in their respective fields.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
