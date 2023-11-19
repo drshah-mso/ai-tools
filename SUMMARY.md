@@ -52,8 +52,6 @@
   * [Copyleaks](detect-ai/copyleaks.md)
   * [Content at Scale](detect-ai/content-at-scale.md)
   * [Corrector.app](detect-ai/corrector.app.md)
-  * [Writer.com](detect-ai/writer.com.md)
-  * [Hive Moderation](detect-ai/hive-moderation.md)
   * [Hello-SimpleAI](detect-ai/hello-simple-ai.md)
 * [7⃣ Managing a Systematic Review](manage-sr/README.md)
   * [Rayyan](manage-sr/rayyan.md)
