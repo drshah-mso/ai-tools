@@ -27,3 +27,5 @@ The first step is to get some source data to analyse. In citaion analysis, this 
 Identify your source articles using the WoS/ISI search functions as you would in the normal way. It is important to understand what your study is about before you rush into downloading data. I’ve undertaken a few studies based on the contents of one journal and so my source is easy to identify. More elaborate projects may at the citations of one author or university department. Whatever your plans, if you get the data from the Science/Social Science Citations Index, then you need to follow the same steps in downloading and preparing the data.
 
 {% embed url="https://youtu.be/_LHbZzgxjH8" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

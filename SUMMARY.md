@@ -82,7 +82,7 @@
   * [RefWorks](citation-management/refworks.md)
   * [Zotero](citation-management/zotero.md)
   * [Mendeley](citation-management/mendeley.md)
-  * [Bibexcel](ai-tools/citation-management/bibexcel.md)
+  * [Bibexcel](citation-management/bibexcel.md)
 
 ## Fundamentals
 
