@@ -6,6 +6,10 @@ description: Reimagine Research
 
 {% embed url="https://www.researchrabbit.ai/" %}
 
+### What is ResearchRabbit?
+
+[ResearchRabbit](https://www.researchrabbit.ai/) is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers. The company behind ResearchRabbit had released this platform in beta for a while, and it was fully launched in Aug 2021 for open registration by everyone with an institutional email address.
+
 ResearchRabbit is an AI-powered literature mapping tool that helps researchers find and explore research papers. It uses a variety of techniques to identify relevant papers, including:
 
 * **Citation analysis:** ResearchRabbit looks at the citations of a paper to identify other papers that are related to it.
@@ -36,6 +40,20 @@ ResearchRabbit is a free to use tool, but there is also a paid plan that offers 
 * **Advanced research paper recommendations:** The paid plan offers more advanced research paper recommendations features, such as the ability to recommend papers based on your past research activity.
 * **Research paper alerts:** The paid plan allows you to set up alerts for more than one research topic.
 
+### Get Started with One or More Seed Papers
+
+The ResearchRabbit cascade interface is quite intuitive. To get started, a user needs to add some papers as “seeds” on a project. Then, ResearchRabbit will start generating recommendations for “Similar Work”, “Earlier Work”, “Later Work”, and “Suggested Authors” following a chain of papers that cite each other.
+
+For demonstration, six papers to a collection “Open Access” as listed in the first column shown in **Figures 1** and **2**. To continue the literature discovery, we can click on literally any of the papers, recommended works or authors. Then, further details will unfold automatically in the next column(s):
+
+<figure><img src="http://library.hkust.edu.hk/sc/wp-content/uploads/sites/5/2021/11/researchrabbit-screen-cap-later-work-search-1024x578.png" alt="" width="563"><figcaption><p><strong>Figure 1</strong>. Explore later work of a collection of papers</p></figcaption></figure>
+
+![Figure 2. Explore authors of the papers in a collection](http://library.hkust.edu.hk/sc/wp-content/uploads/sites/5/2021/11/researchrabbit-screen-cap-author-search-1024x587.png)
+
+
+
 {% embed url="https://www.youtube.com/watch?v=7yTs-jZygE0" %}
+
+{% embed url="https://youtu.be/S2ygJv4lpWo?si=Kda6soFW-rA-sBoD" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
