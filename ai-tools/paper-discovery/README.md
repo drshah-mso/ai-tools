@@ -1,8 +1,8 @@
-# Paper Discovery
+# 2⃣ Paper Discovery
 
 Paper discovery is the process of finding relevant academic papers on a particular topic. This can be a daunting task, as there are millions of papers published every year. AI tools can help to make paper discovery more efficient and effective.
 
-Popular AI tools for paper discovery include Connected Papers, iris, R Discovery, Bard AI, Humata, Socratic, Socrates-insights, and Rayyan. These tools use natural language processing, machine learning, and other AI techniques to identify and rank the most relevant papers for a given query. They can also provide summaries of the papers, making it easier to quickly assess their relevance.
+Popular AI tools for paper discovery include Connected Papers, R Discovery, Humata AI, Litmaps, ResearchRabbit and Inciteful. These tools use natural language processing, machine learning, and other AI techniques to identify and rank the most relevant papers for a given query. They can also provide summaries of the papers, making it easier to quickly assess their relevance.
 
 Additional tips for using AI tools for paper discovery:
 
