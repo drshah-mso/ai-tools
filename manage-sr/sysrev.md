@@ -55,6 +55,8 @@ The [Gene Hunter App](https://sysrev.com/p/3144) uses the NER model developed by
 
 Sysrev is an intuitive and flexible platform for document reviews and associated tasks. Sysrev offers unique project management and machine learning technologies that optimize document reviews across entire teams or departments. Its ability to automate extraction tasks can drastically reduce the man-hours associated with data extraction tasks. Moreover, coupling automated data extraction with data streams or new data sources can result in powerful systems like the Gene Hunter App.
 
+{% embed url="https://youtu.be/keJ6gNRKtso?si=P-5GLV8FmMw-pWGD" %}
+
 {% embed url="https://youtu.be/zjIFaYV0hwk" %}
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
