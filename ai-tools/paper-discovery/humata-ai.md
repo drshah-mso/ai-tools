@@ -4,6 +4,8 @@ description: A Powerful Tool for Research and Discovery
 
 # Humata AI
 
+{% embed url="https://www.humata.ai/" %}
+
 The field of research and discovery is continuously looking for modern tools to unlock new information in the quickly changing world of today. The way academics glean insights and identify patterns from huge datasets is being revolutionized by Humata AI, a state-of-the-art platform powered by artificial intelligence. Humata AI provides an innovative way for information analysis that outperforms conventional techniques by utilizing natural language processing and machine learning.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
