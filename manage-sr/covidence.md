@@ -25,6 +25,17 @@ Here are some of the advantages of using Covidence:
 * **Features:** Covidence offers a number of features that can help you conduct a systematic review, such as the ability to plan a systematic review, screen studies, extract data, manage references, collaborate, and report findings.
 * **Integrations:** Covidence integrates with a variety of popular research tools, such as EndNote and Zotero. This makes it easy to use Covidence with the tools you already use.
 
+The main steps for Covidence:
+
+1. Upload search results as an RIS file
+2. Covidence will automatically deduplicate records
+3. Screen abstracts for relevancy by two or more reviewers
+4. Screen full text using inclusion and exclusion criteria
+5. Resolve disagreements
+6. Complete data extraction after customizing templates
+7. Conduct risk of bias assessment
+8. Export data into RevMan or Excel
+
 {% embed url="https://www.youtube.com/watch?v=0Zjjkoz7KG4" %}
 
 {% embed url="https://www.youtube.com/watch?v=2cXPjhOhqE0" %}
