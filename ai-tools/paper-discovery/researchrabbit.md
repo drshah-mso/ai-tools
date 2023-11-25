@@ -4,11 +4,11 @@ description: Reimagine Research
 
 # ResearchRabbit
 
-{% embed url="https://www.researchrabbit.ai/" %}
+{% embed url="https://researchrabbitapp.com/home" %}
 
 ### What is ResearchRabbit?
 
-[ResearchRabbit](https://www.researchrabbit.ai/) is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers. The company behind ResearchRabbit had released this platform in beta for a while, and it was fully launched in Aug 2021 for open registration by everyone with an institutional email address.
+[ResearchRabbit](https://researchrabbitapp.com/home) is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers. The company behind ResearchRabbit had released this platform in beta for a while, and it was fully launched in Aug 2021 for open registration by everyone with an institutional email address.
 
 ResearchRabbit is an AI-powered literature mapping tool that helps researchers find and explore research papers. It uses a variety of techniques to identify relevant papers, including:
 
