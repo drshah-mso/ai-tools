@@ -1,8 +1,6 @@
 # Bing Chat AI
 
-{% embed url="https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8" %}
-
-<figure><img src="https://edgestatic.azureedge.net/tips/cms/lrs1flqb7e/shared-images/b60ad4feb9fd452e81529a8e53c3dbe2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://edgestatic.azureedge.net/shared/cms/lrs1c69a1j/section-images/ce49a895f83a44b7940a5eef01840928.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Bing Chat is a conversational AI chatbot feature for Bing's search engine. It allows users to interact with an AI chatbot instead of typing search queries. Bing Chat is powered by OpenAI's GPT-4 technology, which allows it to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
