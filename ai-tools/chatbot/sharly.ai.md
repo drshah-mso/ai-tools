@@ -13,3 +13,5 @@ Some of the features and benefits of Sharly AI are:
 Sharly AI is a **user-friendly and intuitive** tool that you can use online or download to your device. It is compatible with various platforms and formats, such as Word, PDF, Google Docs, etc. It also has a free trial version that you can try before you subscribe.
 
 Sharly AI is a **useful and innovative** tool that aims to make your writing easier and better. It is currently available in Spanish, but it plans to expand to other languages soon. It has received positive feedback from various users and sources, who appreciate its functionality, versatility, and potential.
+
+{% embed url="https://youtu.be/SrEQsAdTc90?si=31IcEGgdTaE9UYDE" %}
