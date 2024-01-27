@@ -1,6 +1,10 @@
 # Lateral AI
 
-Lateral.io is a tool that helps researchers save time and improve efficiency by organizing and analyzing research papers, allowing for faster information retrieval and collaboration.
+Lateral.io is a tool that helps researchers save time and improve efficiency by organizing and analyzing research papers, allowing for faster information retrieval and collaboration. Lateral.io is a web-based application that helps you streamline your research workflow with AI. It can:
+
+* Simplify complex topics and jargon in any document you upload or browse.
+* Generate an AI assistant that can answer your questions, summarize content, and provide insights.
+* Connect your notes based on semantic meaning and help you write, cite and uncover themes.
 
 **Revolutionizing Research with Lateral.io**
 
