@@ -53,3 +53,5 @@ To illustrate the practical applications of Unriddle AI, let’s consider a hypo
 As the student poses questions, the AI assistant leverages the power of ChatGPT (GPT-4) to provide instant and contextual answers. The visual relationship mapping feature helps the student identify key connections between various theories and concepts, fostering a deeper understanding of the subject. The auto-complete function aids in crafting a coherent summary of the research paper, ensuring that the student can grasp the core concepts swiftly.
 
 Moreover, the integration with GPT-4 facilitates the automatic linking of ideas and notes within the document. This interconnected approach to information ensures that the research process is not a linear endeavor but a dynamic exploration of ideas, theories, and their interplay.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)

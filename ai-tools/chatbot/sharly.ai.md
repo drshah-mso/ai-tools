@@ -17,3 +17,5 @@ Sharly AI is a **user-friendly and intuitive** tool that you can use online or d
 Sharly AI is a **useful and innovative** tool that aims to make your writing easier and better. It is currently available in Spanish, but it plans to expand to other languages soon. It has received positive feedback from various users and sources, who appreciate its functionality, versatility, and potential.
 
 {% embed url="https://youtu.be/SrEQsAdTc90?si=31IcEGgdTaE9UYDE" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
