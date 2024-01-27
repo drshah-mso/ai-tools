@@ -2,13 +2,10 @@
 
 Lateral.io is a tool that helps researchers save time and improve efficiency by organizing and analyzing research papers, allowing for faster information retrieval and collaboration.
 
-### Key insights
+**Revolutionizing Research with Lateral.io**
 
-* 🚀 Lateral.io aims to simplify the process of finding critical information in documents, making it three to ten times faster with minimal effort.
-* ⏱️ The app is designed to be easily integrated into users' workflows, allowing for a seamless adoption process.
-* 🚀 The use of machine learning in literature review can not only make the process faster, but also suggest relevant information and help fill gaps more quickly.
-* 💡 The project table in Lateral.io allows users to easily save and organize highlights from different papers, providing a natural and quick way to structure findings without extra work.
-* 💡 The Lateral.io platform allows researchers to easily map their findings from documents to key themes, making it intuitive and efficient for literature review.
-* 🔗 The platform provides a seamless transition from text level to document level, allowing users to jump to the original source and delve deeper into the mentioned information.
-* 🌍 Lateral.io aims to build a community around their platform, connecting researchers worldwide and expanding its capabilities.
-* 📚 Lateral.io aims to make their product as accessible as possible, constantly striving to improve and expand its capabilities.
+Lateral.io is changing how researchers work by making it easier to find and organize information in research papers. It helps save time and boosts efficiency, making the whole process three to ten times faster without much effort. The tool easily fits into researchers' current work routines, making it simple for them to use.
+
+**Smart Tools for Better Research**
+
+Using smart technology, Lateral.io speeds up literature reviews and suggests useful information, making research faster and more comprehensive. One cool feature is the project table, making it easy to save and organize important points from different papers. It also helps map findings to key themes, making research more straightforward. Lateral.io isn't just for individual use; it wants to create a global community of researchers, encouraging collaboration. It keeps improving to be user-friendly and meet the growing needs of the research community.
