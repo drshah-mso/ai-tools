@@ -35,6 +35,7 @@
   * [Bing Chat AI](ai-tools/chatbot/bing-chat-ai.md)
   * [Perplexity AI](ai-tools/chatbot/perplexity-ai.md)
   * [ChatPDF](ai-tools/chatbot/chatpdf.md)
+  * [Sharly.ai](ai-tools/chatbot/sharly.ai.md)
   * [Explainpaper](ai-tools/chatbot/explainpaper.md)
   * [Paper Brain](ai-tools/chatbot/paper-brain.md)
   * [Grammarly](ai-tools/chatbot/grammarly.md)
