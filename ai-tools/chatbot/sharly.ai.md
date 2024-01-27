@@ -1,5 +1,7 @@
 # Sharly.ai
 
+{% embed url="https://app.sharly.ai/" %}
+
 Sharly AI is a **smart AI tool** that helps you simplify text documents. It uses artificial intelligence to detect and correct errors and formatting issues in your documents, and then automatically fixes them. This means you can save hours of work and focus on more important things.
 
 Some of the features and benefits of Sharly AI are:
