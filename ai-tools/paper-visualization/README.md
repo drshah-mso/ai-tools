@@ -1,4 +1,4 @@
-# 3⃣ Paper Visualization
+# 3 Paper Visualization
 
 AI tools for paper visualization play a crucial role in helping researchers and academics make sense of the vast and intricate landscape of scholarly publications. These tools leverage advanced algorithms and data analysis techniques to extract meaningful insights from large volumes of academic literature. These tools aim to simplify the process of literature review, aid in identifying key research trends, uncovering gaps in the literature, and discovering relevant papers for a specific research topic. Here are more details about some popular AI tools for paper visualization:
 
