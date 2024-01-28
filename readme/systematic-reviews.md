@@ -1,6 +1,6 @@
 # Tools for an effortless Lit Review
 
-Tools for an effortless Lit Review teaches researchers how to use artificial intelligence and various tools to conduct a literature review faster and easier. The covers topics such as finding key papers, finding similar or contrasting papers, finding knowledge gaps, saving and organizing papers, and synthesizing papers using mind maps.&#x20;
+Tools for an effortless Lit Review teaches researchers how to use artificial intelligence and various tools to conduct a literature review faster and easier. The covers topics such as finding key papers, finding similar or contrasting papers, finding knowledge gaps, saving and organizing papers, and synthesizing papers using mind maps.
 
 <figure><img src="https://media.licdn.com/dms/image/D4D22AQHP-bgYbGY9aw/feedshare-shrink_800/0/1692287929260?e=2147483647&#x26;v=beta&#x26;t=m9jJuoRUP6GrLMJ7iEL9LTC9_qkwUIDxbE0qfDIC_ko" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -8,15 +8,6 @@ The image is an infographic that outlines tools for an effortless literature rev
 
 Tools mentioned in the infographic are SciSpace Search, Litmaps, Scite.ai, and Obsidian. These are all tools that use artificial intelligence to help researchers find, organize, and analyze relevant papers for their literature review. You can learn more about these tools by searching for them on the web.
 
-
-| Tool                   | Description |
-|------------------------|--------------------------------------------------------------------------------|
-| [SciSpace Search](https://typeset.io/)   | A semantic search engine that helps you find relevant papers based on your research question or idea. |
-| [Litmaps](https://www.litmaps.com/)           | A visual tool that helps you map the literature landscape, find knowledge gaps, and discover new papers. |
-| [Scite.ai](https://scite.ai/)          | A platform that analyzes citation statements to help you find contrasting or supporting evidence for any claim. |
-| [Obsidian](https://obsidian.md/)         | A personal knowledge management tool that helps you organize and link your notes and papers. |
-| [Litmaps Discovery](https://app.litmaps.com/discover) | A feature of Litmaps that helps you grow your library on a research topic by suggesting relevant papers based on your preferences. |
-| [Litmaps Map View](https://www.litmaps.com/)  | A feature of Litmaps that helps you find or filter impactful papers in your library by visualizing them on a map. |
-
+<table><thead><tr><th width="194">Tool</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://typeset.io/">SciSpace Search</a></td><td>A semantic search engine that helps you find relevant papers based on your research question or idea.</td></tr><tr><td><a href="https://www.litmaps.com/">Litmaps</a></td><td>A visual tool that helps you map the literature landscape, find knowledge gaps, and discover new papers.</td></tr><tr><td><a href="https://scite.ai/">Scite.ai</a></td><td>A platform that analyzes citation statements to help you find contrasting or supporting evidence for any claim.</td></tr><tr><td><a href="https://obsidian.md/">Obsidian</a></td><td>A personal knowledge management tool that helps you organize and link your notes and papers.</td></tr><tr><td><a href="https://app.litmaps.com/discover">Litmaps Discovery</a></td><td>A feature of Litmaps that helps you grow your library on a research topic by suggesting relevant papers based on your preferences.</td></tr><tr><td><a href="https://www.litmaps.com/">Litmaps Map View</a></td><td>A feature of Litmaps that helps you find or filter impactful papers in your library by visualizing them on a map.</td></tr></tbody></table>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
