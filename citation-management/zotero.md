@@ -6,13 +6,11 @@ description: Your personal research assistant
 
 {% embed url="https://www.zotero.org/" %}
 
-
 <div data-full-width="false">
 
-<figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure_2.2_Zotero_for_Mac_standalone.png" alt="" width="563"></figure>
+<figure><img src="https://libapps.s3.amazonaws.com/accounts/936/images/figure_2.2_Zotero_for_Mac_standalone.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
-
 
 ## What is Zotero?
 
@@ -48,8 +46,8 @@ To create a quick bibliography:
 
 ​Zotero offers [word processing plugins](http://www.zotero.org/documentation/word\_processor\_integration) for Word and OpenOffice. The plugin adds a Zotero toolbar to your word processor that allows you to add citations to your document while you write.
 
+{% embed url="https://ilyashabanov.substack.com/p/plugins-for-becoming-a-zotero-wizard" %}
+
 {% embed url="https://www.youtube.com/watch?v=JG7Uq_JFDzE" %}
-
-
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
