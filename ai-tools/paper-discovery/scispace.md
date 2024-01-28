@@ -10,7 +10,7 @@ description: Discover and study research papers better with SciSpace copilot
 
 SciSpace is an AI-driven platform for exploring, understanding, and publishing research papers. It offers a comprehensive searchable database of over 270 million papers, authors, topics, journals, and conferences. It also provides a variety of features such as a plagiarism checker, journal submission, XML converters, and an AI copilot to decode any research paper.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In addition, it offers an array of templates to choose from for papers, flexible pricing plans, and various services to streamline the publishing process. SciSpace also provides personalized recommendations of popular papers, topics, and conferences, as well as a gallery of over 40,000 journal templates. SciSpace is a cloud-based platform that helps researchers manage their research workflow. It offers a variety of features to help researchers with tasks such as:
 
