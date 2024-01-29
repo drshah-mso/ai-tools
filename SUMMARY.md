@@ -79,3 +79,4 @@
 ## Fundamentals
 
 * [The Effortless Literature Review](fundamentals/the-effortless-literature-review.md)
+* [Page](fundamentals/page.md)
