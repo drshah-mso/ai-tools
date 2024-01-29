@@ -29,6 +29,8 @@ Some of the features of Obsidian include:
 
 {% embed url="https://github.com/kmaasrud/awesome-obsidian" %}
 
+{% embed url="https://obsidian.md/canvas" %}
+
 {% embed url="https://youtu.be/XE_CGBlQ17o?si=38H7AMht5vcvKGZL" %}
 
 {% embed url="https://youtu.be/DbsAQSIKQXk?si=_f7gwYEzU2ifHEFr" %}
