@@ -8,6 +8,8 @@ Obsidian is a note-taking and knowledge management software application. It is a
 
 {% embed url="https://elizabethbutlermd.com/obsidian-notes/" %}
 
+{% embed url="https://youtu.be/4T0q2kQwc2o?si=7Bm6zflWUp1PlSs0" %}
+
 Obsidian is a personal knowledge base and note-taking software application that operates on Markdown files. It allows users to make internal links for notes and then to visualize the connections as a graph. It is designed to help users organize and structure their thoughts and knowledge in a flexible, non-linear way. The software is free for personal use, with commercial licenses available for pay.
 
 <figure><img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73a62705-a55d-46d8-9b6f-3b4ca9d2260a_2690x1862.jpeg" alt="" width="563"><figcaption></figcaption></figure>
@@ -24,6 +26,8 @@ Some of the features of Obsidian include:
 * A built-in search engine for quickly finding your notes.
 
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Obsidian_desktop_demo_workflow.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+{% embed url="https://github.com/kmaasrud/awesome-obsidian" %}
 
 {% embed url="https://youtu.be/DbsAQSIKQXk?si=_f7gwYEzU2ifHEFr" %}
 
