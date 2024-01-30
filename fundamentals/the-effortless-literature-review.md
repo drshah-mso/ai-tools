@@ -14,8 +14,8 @@ This seems like many steps - but you probably know some of them already. The eff
 
 ### 1. Finding “Seeds”
 
-{% content-ref url="../ai-tools/lit-search/google-scholar.md" %}
-[google-scholar.md](../ai-tools/lit-search/google-scholar.md)
+{% content-ref url="../lit-search/google-scholar.md" %}
+[google-scholar.md](../lit-search/google-scholar.md)
 {% endcontent-ref %}
 
 The old ways of finding papers is to “google” them, e.g. on Google Scholar or Arxiv.
@@ -35,8 +35,8 @@ Google would usually rank higher cited papers at the top. Molecular biology and 
 
 Scite.ai (20$/mo) can help here by hinting at the _**importance**_ of individual papers. It can tell you how often a paper has been supported or contrasted.
 
-{% content-ref url="../ai-tools/lit-search/scite-ai.md" %}
-[scite-ai.md](../ai-tools/lit-search/scite-ai.md)
+{% content-ref url="../lit-search/scite-ai.md" %}
+[scite-ai.md](../lit-search/scite-ai.md)
 {% endcontent-ref %}
 
 Papers with supporting claims are not “just mentioned” but actually validated. So the connection in our publication network is stronger and thus indicated relevance.
@@ -65,8 +65,8 @@ With a little bit of creativity you can use ArxivGPT not to summarize abstracts 
 
 People are weary of using ChatGPT in science, because it creates fake citations, doesn’t know math and is [over confident](https://www.reddit.com/r/ChatGPT/comments/10jshk5/why\_is\_chat\_gpt\_confident\_in\_every\_answer/).
 
-{% content-ref url="../ai-tools/chatbot/chatgpt.md" %}
-[chatgpt.md](../ai-tools/chatbot/chatgpt.md)
+{% content-ref url="../chatbot/chatgpt.md" %}
+[chatgpt.md](../chatbot/chatgpt.md)
 {% endcontent-ref %}
 
 But ChatGPT is good at one thing: Comparing text.
@@ -104,8 +104,8 @@ My all-time favourite tool for the job is [Litmaps](https://litmaps.com/). In [G
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa192169-f81f-4d67-a1e5-5b96b3fc5b36_2533x2300.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
-{% content-ref url="../ai-tools/paper-discovery/litmaps.md" %}
-[litmaps.md](../ai-tools/paper-discovery/litmaps.md)
+{% content-ref url="../paper-discovery/litmaps.md" %}
+[litmaps.md](../paper-discovery/litmaps.md)
 {% endcontent-ref %}
 
 **Seed maps** in Litmaps show us all publications related (references and citations) to a _**single**_ publication. They are an effortless way of discovery where we don’t have to drill through references lists.

@@ -79,4 +79,5 @@
 ## Fundamentals
 
 * [The Effortless Literature Review](fundamentals/the-effortless-literature-review.md)
-* [Page](fundamentals/page.md)
+* [Obsidian Canvas](fundamentals/obsidian-canvas.md)
+* [The LYT Kit](fundamentals/the-lyt-kit.md)

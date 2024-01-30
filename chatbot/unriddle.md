@@ -6,7 +6,7 @@
 
 Unriddle AI is a versatile software designed to harness the power of artificial intelligence for a myriad of purposes, primarily focusing on research, writing, and learning. At its core, Unriddle AI acts as a proficient assistant, seamlessly integrating with any document to expedite the process of finding, summarizing, and comprehending information. What sets Unriddle AI apart is its ability to convert documents, including research papers, into dynamic chatbots utilizing ChatGPT, a sophisticated language model akin to GPT-4.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## The Power of AI Assistance
 
