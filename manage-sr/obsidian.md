@@ -6,6 +6,8 @@ Obsidian is a note-taking and knowledge management software application. It is a
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca5ffe35-85d4-49cc-9d00-f46b106e6f13_1165x670.gif" alt="" width="563"><figcaption></figcaption></figure>
 
+{% embed url="https://youtu.be/lzYCPkVnqIM?si=lgwRX9Hc2EcMzhf1" %}
+
 {% embed url="https://elizabethbutlermd.com/obsidian-notes/" %}
 
 {% embed url="https://youtu.be/4T0q2kQwc2o?si=7Bm6zflWUp1PlSs0" %}
